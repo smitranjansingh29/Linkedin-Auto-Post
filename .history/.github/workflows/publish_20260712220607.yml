@@ -1,0 +1,31 @@
+name: Publish approved draft
+
+on:
+  push:
+    paths:
+      - "approved/**"
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Publish to LinkedIn
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_URN: ${{ secrets.LINKEDIN_URN }}
+          DRY_RUN: "false"  # set to "true" while waiting on LinkedIn API approval
+        run: python scripts/publish_linkedin.py
+
+      - name: Commit posted archive
+        run: |
+          git config user.name "linkedin-auto-poster-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add posted/ approved/
+          git diff --staged --quiet || git commit -m "Mark draft as posted"
+          git push

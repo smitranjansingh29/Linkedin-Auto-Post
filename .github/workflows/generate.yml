@@ -1,0 +1,42 @@
+name: Generate draft
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"  # every 4 hours, edit as needed
+  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch sources
+        run: python scripts/fetch_sources.py
+
+      - name: Dedupe and score
+        run: python scripts/dedupe_score.py
+
+      - name: Generate draft
+        id: draft
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/generate_draft.py
+
+      - name: Send to Telegram for approval
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/send_telegram.py "${{ steps.draft.outputs.draft_id }}"
+
+      - name: Commit pending draft
+        run: |
+          git config user.name "linkedin-auto-poster-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add pending/
+          git diff --staged --quiet || git commit -m "New pending draft"
+          git push

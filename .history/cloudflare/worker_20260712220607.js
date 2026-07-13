@@ -13,7 +13,7 @@
  * Edit GITHUB_REPO below to "yourname/linkedin-auto-poster".
  */
 
-const GITHUB_REPO = "smitranjansingh29/Linkedin-Auto-Post";
+const GITHUB_REPO = "yourname/linkedin-auto-poster";
 const GITHUB_API = `https://api.github.com/repos/${GITHUB_REPO}/contents`;
 
 export default {
