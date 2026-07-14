@@ -1,0 +1,13 @@
+{
+  "id": "1784049500",
+  "story": {
+    "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+    "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+    "source": "Hacker News",
+    "score": 382,
+    "fetched_at": 1784049495,
+    "trend_score": 48.2
+  },
+  "draft": "I just read about a developer who's been rewriting popular apps as web pages to prove they didn't need native code. \nThis experiment highlights how often we default to building apps when a webpage would suffice. \nKey takeaways include reduced development time and increased accessibility. \nWhat are some instances where you've seen apps that could have been webpages, and did it impact user experience? \n#webdevelopment #nativeapps #softwareengineering",
+  "status": "pending"
+}
