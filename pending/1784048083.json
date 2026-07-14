@@ -1,0 +1,13 @@
+{
+  "id": "1784048083",
+  "story": {
+    "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+    "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+    "source": "Hacker News",
+    "score": 338,
+    "fetched_at": 1784048080,
+    "trend_score": 43.8
+  },
+  "draft": "I just read about a developer who's calling out apps that are essentially webpages in disguise. \nHe's created a tool to identify and convert them into actual webpages. \nThis raises questions about app development and user experience. \nWhat's the real benefit of a native app over a webpage? \n#softwaredevelopment #appdesign #webdevelopment",
+  "status": "pending"
+}
