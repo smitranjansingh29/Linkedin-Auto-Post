@@ -1,0 +1,13 @@
+{
+  "id": "1784182943",
+  "story": {
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "source": "Hacker News",
+    "score": 864,
+    "fetched_at": 1784182939,
+    "trend_score": 63.0
+  },
+  "draft": "I've been following the development of open-source AI models and Thinking Machines' new Inkling release has caught my attention. \nInkling is an open-weights model that allows users to modify and train the model to suit their needs. \nThis level of transparency and customizability is a significant step forward for AI development.\nWhat potential applications do you see for open-weights models like Inkling?\n#AI #OpenSource #MachineLearning",
+  "status": "pending"
+}
