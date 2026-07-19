@@ -1,0 +1,13 @@
+{
+  "id": "1784480495",
+  "story": {
+    "title": "Transcribe.cpp",
+    "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+    "source": "Hacker News",
+    "score": 654,
+    "fetched_at": 1784480492,
+    "trend_score": 60.0
+  },
+  "draft": "I just stumbled upon Transcribe.cpp, a C++ library for automatic speech recognition. \nIt's open-source and claims to be highly accurate. \nKey features include support for multiple audio formats and customizable models.\nWhat potential applications do you see for this technology?\n#speechrecognition #AI #TranscribeCpp",
+  "status": "pending"
+}
