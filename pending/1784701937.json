@@ -1,0 +1,13 @@
+{
+  "id": "1784701937",
+  "story": {
+    "title": "OpenAI and Hugging Face address security incident during model evaluation",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "source": "Hacker News",
+    "score": 968,
+    "fetched_at": 1784701932,
+    "trend_score": 69.0
+  },
+  "draft": "I'm keeping a close eye on the recent security incident at OpenAI and Hugging Face. \nTheir model evaluation process was compromised, highlighting the risks of open-source collaboration. \nKey takeaways include:\n* Unintended access to sensitive data\n* Importance of secure testing environments\nWhat measures can we take to prevent similar incidents in AI development? \n#AIsecurity #OpenAI #HuggingFace",
+  "status": "pending"
+}
