@@ -1,0 +1,13 @@
+{
+  "id": "1785013005",
+  "story": {
+    "title": "Android May Soon Restrict On-Device ADB",
+    "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+    "source": "Hacker News",
+    "score": 802,
+    "fetched_at": 1785013002,
+    "trend_score": 60.0
+  },
+  "draft": "I've been following the developments on Android's potential restriction of on-device ADB. \nThis change would likely impact developers who rely on ADB for testing and debugging. \nKey implications include limited access to device features and potential workarounds using USB debugging. \nWill this restriction hinder or help Android development overall? \n#Android #ADB #MobileDevelopment",
+  "status": "pending"
+}
