@@ -1,0 +1,13 @@
+{
+  "id": "1785048007",
+  "story": {
+    "title": "Open-weight AI is having its Kubernetes moment",
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "source": "Hacker News",
+    "score": 362,
+    "fetched_at": 1785048005,
+    "trend_score": 49.2
+  },
+  "draft": "I'm seeing parallels between open-weight AI and Kubernetes' rise to prominence. \nOpen-weight AI is gaining traction, much like Kubernetes did, by solving a key problem: model size and complexity. \nKey benefits include increased efficiency and flexibility. \nWhat does this mean for the future of AI development?\n#AI #Kubernetes #OpenWeightAI",
+  "status": "pending"
+}
