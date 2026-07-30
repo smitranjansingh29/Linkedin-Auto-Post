@@ -1,0 +1,13 @@
+{
+  "id": "1785379241",
+  "story": {
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+    "url": "https://github.com/drumih/turbo-fieldfare",
+    "source": "Hacker News",
+    "score": 664,
+    "fetched_at": 1785379236,
+    "trend_score": 60.0
+  },
+  "draft": "I just saw an open-source engine that runs Gemma 4 26B in 2 GB RAM on any M-series Mac. \nThis feat is impressive given the typical resource requirements of large language models. \nThe project showcases the potential for efficient model deployment on consumer hardware. \nCan we expect to see more applications of large language models on low-resource devices? \n#AI #MachineLearning #MseriesMac",
+  "status": "pending"
+}
