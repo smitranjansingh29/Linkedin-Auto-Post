@@ -1,0 +1,13 @@
+{
+  "id": "1785554422",
+  "story": {
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "source": "Hacker News",
+    "score": 479,
+    "fetched_at": 1785554420,
+    "trend_score": 60.9
+  },
+  "draft": "I've been following the Hugging Face intrusion story and it's clear that Tailscale's security measures weren't enough. \nThe incident highlights the limitations of zero-trust networks. \nKey takeaways include insufficient access controls and over-privileged users. \nWhat can we do to improve zero-trust security in our own systems?\n#cybersecurity #zerotrust #AIsecurity",
+  "status": "pending"
+}
