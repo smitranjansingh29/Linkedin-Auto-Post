@@ -1,0 +1,13 @@
+{
+  "id": "1785704361",
+  "story": {
+    "title": "Karpathy’s Pelican",
+    "url": "https://twitter.com/karpathy/status/2083749667410727319",
+    "source": "Hacker News",
+    "score": 272,
+    "fetched_at": 1785704357,
+    "trend_score": 37.2
+  },
+  "draft": "I just saw Andrej Karpathy's Pelican project on Twitter. \nPelican is an AI model that can generate code. \nI'm interested in its potential to automate coding tasks. \nWill Pelican change the way I work as a developer? \n#AI #SoftwareDevelopment #Coding",
+  "status": "pending"
+}
