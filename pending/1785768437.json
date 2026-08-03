@@ -1,0 +1,13 @@
+{
+  "id": "1785768437",
+  "story": {
+    "title": "Don't be a meat proxy",
+    "url": "https://gruhn.me/blog/2026-08-03/",
+    "source": "Hacker News",
+    "score": 1160,
+    "fetched_at": 1785768434,
+    "trend_score": 60.0
+  },
+  "draft": "I just read about the concept of being a \"meat proxy\" in software development. \nThis term refers to humans acting as intermediaries between systems. \nI see this happening in many AI projects, where we're essentially replicating existing processes. \nWhat are the implications of removing the \"meat proxy\" in our own workflows?\n#AI #SoftwareDevelopment #Automation",
+  "status": "pending"
+}
