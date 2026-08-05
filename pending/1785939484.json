@@ -1,0 +1,13 @@
+{
+  "id": "1785939484",
+  "story": {
+    "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+    "url": "https://toneyalexander.github.io/inclusive-color-space/",
+    "source": "Hacker News",
+    "score": 576,
+    "fetched_at": 1785939482,
+    "trend_score": 60.0
+  },
+  "draft": "I've been exploring ways to generate diverse skin tones in digital images. \nI came across a simple algorithm that uses a custom color space to achieve this. \nKey benefits include improved representation and inclusivity. \nWhat are the potential applications of this technology in software development?\n#AI #InclusiveTech #SkinToneRepresentation",
+  "status": "pending"
+}
