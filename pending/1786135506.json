@@ -1,0 +1,13 @@
+{
+  "id": "1786135506",
+  "story": {
+    "title": "A year of fighting scrapers on my 1.5 million-page website",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "source": "Hacker News",
+    "score": 325,
+    "fetched_at": 1786135503,
+    "trend_score": 42.5
+  },
+  "draft": "I just spent a year battling scrapers on my 1.5 million-page website. \nI've learned that 99% of my traffic is bots, overwhelming my servers. \nKey takeaways include using IP blocking and rate limiting to mitigate damage. \nWhat strategies do you use to fight web scraping on your site?\n#webscraping #botmanagement #cybersecurity",
+  "status": "pending"
+}
