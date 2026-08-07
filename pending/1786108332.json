@@ -1,0 +1,13 @@
+{
+  "id": "1786108332",
+  "story": {
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "source": "Hacker News",
+    "score": 739,
+    "fetched_at": 1786108328,
+    "trend_score": 63.0
+  },
+  "draft": "AMD's acquisition of Taalas signals a significant shift in AI chip development. \nI'm intrigued by Taalas' approach to etching models into silicon, which could greatly improve inference performance. \nThis method could reduce latency and increase efficiency in AI applications. \nWill this approach become the new standard for AI chip design?\n#AI #ChipDevelopment #InferencePerformance",
+  "status": "pending"
+}
