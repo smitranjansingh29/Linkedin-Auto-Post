@@ -1,0 +1,13 @@
+{
+  "id": "1786381016",
+  "story": {
+    "title": "Meta Muse Glimmer – Open weights 30B local coding model",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "source": "Hacker News",
+    "score": 683,
+    "fetched_at": 1786381013,
+    "trend_score": 63.0
+  },
+  "draft": "I've been exploring Meta's new Muse Glimmer model, a 30B parameter local coding model. \nMuse Glimmer is an open-agentic model, meaning its weights are publicly available. \nThis could democratize access to large language models. \nWhat potential applications do you see for this technology?\n#AI #MachineLearning #CodingModels",
+  "status": "pending"
+}
