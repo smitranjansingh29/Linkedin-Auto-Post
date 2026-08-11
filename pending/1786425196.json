@@ -1,0 +1,13 @@
+{
+  "id": "1786425196",
+  "story": {
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "source": "Hacker News",
+    "score": 1076,
+    "fetched_at": 1786425193,
+    "trend_score": 63.0
+  },
+  "draft": "I've been exploring Muse Glimmer, a 30B-parameter model optimized for local agent workflows. \nThis model's capabilities have significant implications for AI development. \nKey benefits include improved performance and reduced latency. \nWhat potential applications do you see for always-on local agents? \n#AI #MachineLearning #LocalAgents",
+  "status": "pending"
+}
