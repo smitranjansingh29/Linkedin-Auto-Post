@@ -1,0 +1,13 @@
+{
+  "id": "1786500740",
+  "story": {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://stolen-thoughts.com/",
+    "source": "Hacker News",
+    "score": 501,
+    "fetched_at": 1786500736,
+    "trend_score": 66.0
+  },
+  "draft": "I just read about a concerning vulnerability in proprietary LLM APIs. \nResearchers have found a way to steal reasoning traces, which could compromise model security. \nThis has significant implications for data privacy and security. \nWhat steps can we take to protect our models from such threats?\n#LLM #AIsecurity #dataprivacy",
+  "status": "pending"
+}
