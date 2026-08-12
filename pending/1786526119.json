@@ -1,0 +1,13 @@
+{
+  "id": "1786526119",
+  "story": {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://stolen-thoughts.com/",
+    "source": "Hacker News",
+    "score": 619,
+    "fetched_at": 1786526116,
+    "trend_score": 66.0
+  },
+  "draft": "I just learned that researchers can reverse engineer proprietary large language models. \nThis raises concerns about data privacy and security. \nKey findings include:\n* Traces can be stolen with limited queries\n* Models can be replicated with high accuracy\nWhat are the implications for AI development? \n#LLM #AIsecurity #dataprivacy",
+  "status": "pending"
+}
