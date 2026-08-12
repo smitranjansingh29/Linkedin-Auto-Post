@@ -1,0 +1,13 @@
+{
+  "id": "1786513197",
+  "story": {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://stolen-thoughts.com/",
+    "source": "Hacker News",
+    "score": 568,
+    "fetched_at": 1786513195,
+    "trend_score": 66.0
+  },
+  "draft": "I just learned that researchers can reverse engineer proprietary LLM APIs to steal reasoning traces. \nThis has major implications for IP protection in AI. \nKey takeaways: \n* attacks are highly effective\n* mitigation strategies are needed\nWhat does this mean for the future of AI development?\n#LLM #AIsecurity #IPprotection",
+  "status": "pending"
+}
