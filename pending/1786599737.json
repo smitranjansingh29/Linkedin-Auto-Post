@@ -1,0 +1,13 @@
+{
+  "id": "1786599737",
+  "story": {
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "source": "Hacker News",
+    "score": 919,
+    "fetched_at": 1786599734,
+    "trend_score": 63.0
+  },
+  "draft": "I've been following the story of Tailscale's recent database corruption issue. \nThe root cause was a 16-year-old SQLite bug that affects WAL reset. \nThis highlights the importance of thoroughly testing database interactions. \nWhat other old bugs are lurking in our codebases? \n#SQLite #DatabaseCorruption #SoftwareBugs",
+  "status": "pending"
+}
