@@ -1,0 +1,13 @@
+{
+  "id": "1786811310",
+  "story": {
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "source": "Hacker News",
+    "score": 1276,
+    "fetched_at": 1786811308,
+    "trend_score": 60.0
+  },
+  "draft": "I've been experimenting with Qwen 3.8 27B, a massive language model. \nIts 27 billion parameters make it a powerhouse for natural language processing. \nI'm impressed by its ability to generate human-like text. \nWhat potential applications do you see for models like Qwen?\n#AI #LanguageModels #NLP",
+  "status": "pending"
+}
