@@ -1,0 +1,13 @@
+{
+  "id": "1786768513",
+  "story": {
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "source": "Hacker News",
+    "score": 985,
+    "fetched_at": 1786768510,
+    "trend_score": 60.0
+  },
+  "draft": "I've been experimenting with Qwen 3.8, a 27B parameter model. \nIts performance on natural language tasks is impressive. \nKey features include improved conversational understanding and text generation.\nWhat potential applications do you see for this technology?\n#AI #NLP #Qwen",
+  "status": "pending"
+}
