@@ -1,0 +1,13 @@
+{
+  "id": "1786782778",
+  "story": {
+    "title": "Qwen 3.8 27B",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "source": "Hacker News",
+    "score": 1115,
+    "fetched_at": 1786782776,
+    "trend_score": 60.0
+  },
+  "draft": "I've been experimenting with Qwen 3.8 27B and its capabilities are impressive. \nIts performance on natural language tasks is notable, especially with the FP8 optimization. \nI'm curious to see how this model will be used in real-world applications. \nWhat potential use cases do you think Qwen 3.8 27B is best suited for?\n#AI #NLP #Qwen38",
+  "status": "pending"
+}
