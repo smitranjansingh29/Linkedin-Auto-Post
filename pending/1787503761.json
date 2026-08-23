@@ -1,0 +1,13 @@
+{
+  "id": "1787503761",
+  "story": {
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "source": "Hacker News",
+    "score": 435,
+    "fetched_at": 1787503758,
+    "trend_score": 56.5
+  },
+  "draft": "Your on‑prem LLM isn’t dumb—it’s just missing the right context.  \n\nI’ve been running a locally‑hosted LLaMA model and it often feels slower and less insightful than the cloud equivalents. The architecture is identical; the difference lies in the surrounding scaffolding.  \n\n- Quantization saves RAM but trims precision in the tail of the distribution, hurting nuanced reasoning.  \n- Absent a well‑crafted system prompt or tuned temperature, the model falls back to safe, generic answers.  \n- Adding a lightweight retrieval‑augmented generation layer supplies the external knowledge that cloud services pre‑index.  \n\nFor me the key is to treat a local LLM as a component, not a finished product. A few minutes of prompt engineering, sampling tweaks, and optional post‑processing can close most of the perceived intelligence gap.  \n\nWhat tweaks have you found most effective when bringing an LLM in‑house?  \n\n#LLM #AI #MachineLearning #OpenSource #DeveloperExperience",
+  "status": "pending"
+}
