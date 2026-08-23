@@ -1,0 +1,13 @@
+{
+  "id": "1787503896",
+  "story": {
+    "title": "Why your local LLM feels dumber than it is",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "source": "Hacker News",
+    "score": 435,
+    "fetched_at": 1787503894,
+    "trend_score": 56.5
+  },
+  "draft": "Your local LLM isn’t “stupid”—it’s just missing the scaffolding that cloud services bake in.\n\nI’ve noticed three hidden factors that make on‑prem models feel blunt:\n- **Quantization & hardware limits**: 4‑bit or 8‑bit models save RAM but sacrifice nuance, especially in edge‑case reasoning.\n- **No retrieval layer**: Without a knowledge base or web lookup, the model can only draw from its static training slice, making recent facts disappear.\n- **Prompt hygiene**: Cloud APIs add system prompts, temperature tuning, and safety filters by default. Replicating those settings locally often gets overlooked.\n\nIf you align your inference stack—use a modest retrieval‑augmented pipeline, keep the model in higher precision for critical tasks, and experiment with temperature and system prompts—you’ll see a noticeable jump in relevance.\n\nWhat adjustments have you made to get the most out of your on‑prem LLM?\n\n#LLM #AI #OpenSource #MachineLearning #DevOps",
+  "status": "pending"
+}
