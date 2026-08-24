@@ -1,0 +1,13 @@
+{
+  "id": "1787603651",
+  "story": {
+    "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+    "url": "https://twitter.com/lemire/status/2091894299289874926",
+    "source": "Hacker News",
+    "score": 555,
+    "fetched_at": 1787603646,
+    "trend_score": 60.0
+  },
+  "draft": "Xiaomi just turned the CPU battlefield on its head.\n\nTheir latest processor hits Apple’s single‑thread numbers and blows past it on multi‑thread workloads. For a company that hasn’t been a traditional CPU heavyweight, the jump suggests a maturing design ecosystem and aggressive silicon optimization that rivals the best of the ARM‑based world.\n\nI’m intrigued by how this could reshape the performance‑price curve for premium smartphones. If Xiaomi can sustain these gains, we may see a broader shift away from the Apple‑Centric performance narrative, forcing other OEMs to double‑down on custom silicon or partner more closely with foundries.\n\nWill this spark a new arms race in mobile compute, or will software adaptations level the field faster than hardware can keep up?\n\n#CPU #TechNews #Xiaomi #Apple #MobilePerformance",
+  "status": "pending"
+}
