@@ -1,0 +1,13 @@
+{
+  "id": "1787546977",
+  "story": {
+    "title": "Everything I own, owned",
+    "url": "https://schlarp.com/posts/everything-i-own-owned/",
+    "source": "Hacker News",
+    "score": 474,
+    "fetched_at": 1787546972,
+    "trend_score": 57.4
+  },
+  "draft": "Everything you “own” is really a lease on someone else’s infrastructure.\n\nI just read the “Everything I own, owned” essay and it struck me how thin the line between possession and permission has become. From the smartphone in my pocket to the AI models I query, each item lives on a provider’s servers, subject to their terms, updates, and even sudden shutdowns. The author’s inventory turned a simple checklist into a map of corporate dependencies—proof that modern ownership is more about access rights than physical control.\n\nTwo takeaways for me:\n- **Data sovereignty matters** – if our most valuable assets are stored in opaque clouds, we need transparent contracts and portable formats to avoid lock‑in.\n- **Design for exit** – building tools that can gracefully migrate or self‑host reduces the risk of losing critical workflows when a service disappears.\n\nWhat steps are you taking to reclaim real control over the digital tools you rely on?  \n\n#DataSovereignty #DigitalOwnership #TechStrategy #CloudComputing #SoftwareDesign",
+  "status": "pending"
+}
