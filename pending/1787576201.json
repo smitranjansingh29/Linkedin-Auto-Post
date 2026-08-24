@@ -1,0 +1,13 @@
+{
+  "id": "1787576201",
+  "story": {
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "source": "Hacker News",
+    "score": 599,
+    "fetched_at": 1787576198,
+    "trend_score": 66.0
+  },
+  "draft": "When the best model can’t beat cheap alternatives, the market speaks.\n\nI’ve been watching Anthropic’s flagship Claude model—technically impressive, yet its pricing puts it out of reach for most developers. Meanwhile, OpenAI’s GPT‑4 Turbo and emerging open‑source offerings are undercutting it by a wide margin, and users are gravitating toward the “good enough, affordable” option.\n\nThe story isn’t just about cost; it’s about friction. A higher‑priced API means higher integration overhead, stricter budget approvals, and slower iteration cycles. In a fast‑moving dev community, the cheapest tool that “just works” often wins, even if it lags in raw capability.\n\nFor AI startups, the lesson is clear: performance alone won’t drive adoption. Pricing, ease of integration, and community support are equally decisive. I’m curious—how are you balancing these trade‑offs in your own projects?\n\n#AI #MachineLearning #Startup #Anthropic #PricingStrategy",
+  "status": "pending"
+}
