@@ -1,0 +1,13 @@
+{
+  "id": "1787621155",
+  "story": {
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "source": "Hacker News",
+    "score": 556,
+    "fetched_at": 1787621151,
+    "trend_score": 63.0
+  },
+  "draft": "Microsoft is silently tagging every image you edit with a hidden GUID.\n\nI just read a deep dive that shows MS Paint and the Windows Photos app embed an invisible identifier in every file they save. The watermark isn’t visible, but a simple hex dump reveals a unique GUID that can be traced back to the specific machine that produced the image.\n\nWhy does this matter? For casual users it’s a privacy surprise, but for developers it raises a new attack surface: anyone who can extract that GUID can link a file to a device, potentially de‑anonymizing screenshots, diagrams, or even forensic evidence. The technique also demonstrates how legacy tools can become vectors for telemetry without any user consent.\n\nI’m curious how we, as a community, should respond. Should OS vendors expose these identifiers, give users an opt‑out, or remove them entirely? And what tools can we build to audit local outputs for hidden data?\n\nWhat safeguards do you think we need to protect user‑generated content from hidden identifiers?\n\n#Privacy #DigitalForensics #SoftwareSecurity #Microsoft #TechEthics",
+  "status": "pending"
+}
