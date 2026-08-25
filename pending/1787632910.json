@@ -1,0 +1,13 @@
+{
+  "id": "1787632910",
+  "story": {
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "source": "Hacker News",
+    "score": 616,
+    "fetched_at": 1787632906,
+    "trend_score": 63.0
+  },
+  "draft": "MS Paint and Windows Photos now embed an invisible GUID into every file you save, even when the image is created locally.\n\nI dug into the binaries after the Hacker News post and found a tiny library that writes a 16‑byte identifier into the PNG EXIF block and the BMP header. The GUID is generated per‑session, so each picture carries a traceable fingerprint back to the machine that produced it.\n\nWhy does a decades‑old drawing tool start acting like a telemetry service? It looks like a move toward built‑in provenance tracking, but it also opens a backdoor for unwanted correlation across personal projects. For developers building open‑source alternatives, this is a reminder to audit every third‑party dependency for hidden data paths.\n\nWhat safeguards would you put in place to balance provenance with user privacy in everyday software?\n\n#Privacy #DigitalForensics #SoftwareEngineering #TechEthics #AI",
+  "status": "pending"
+}
