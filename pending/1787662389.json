@@ -1,0 +1,13 @@
+{
+  "id": "1787662389",
+  "story": {
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "source": "Hacker News",
+    "score": 512,
+    "fetched_at": 1787662385,
+    "trend_score": 66.0
+  },
+  "draft": "Apple just confirmed Hide My Email will stay on iCloud.com.\n\nThe service now lives exclusively in the web UI, not in iOS Settings. For users who already manage aliases on a desktop, this is familiar ground, but it adds a click‑through for anyone trying to create an alias on the fly from their iPhone.\n\nFrom a developer’s perspective, the separation means we can’t rely on a native prompt to generate an alias during sign‑up. We’ll need to guide users to the web portal or build our own flow that asks for a temporary address and then swaps it out later. It also keeps the alias data out of the device’s local storage, which could be a subtle privacy win.\n\nI’m curious: how will this web‑only approach affect adoption of alias‑based sign‑ups in mobile‑first apps?\n\n#Apple #Privacy #iCloudPlus #DeveloperInsights #EmailSecurity",
+  "status": "pending"
+}
