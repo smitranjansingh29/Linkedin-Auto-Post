@@ -1,0 +1,13 @@
+{
+  "id": "1787647664",
+  "story": {
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "source": "Hacker News",
+    "score": 695,
+    "fetched_at": 1787647661,
+    "trend_score": 63.0
+  },
+  "draft": "A hidden GUID now trails every image you touch in Windows Paint and Photos.\n\nI dug into the recent reverse‑engineering work that shows both apps silently embed a 16‑byte identifier into every bitmap they save—whether you export a screenshot, a doodle, or a photo edit. The watermark isn’t visible, but it survives lossless compression and can be extracted with a simple script.  \n\nWhy does Microsoft do this? The post suggests it’s for telemetry, linking files back to a specific device without user consent. That raises two concerns for me: first, the erosion of plausible deniability for any image you create on a Windows PC; second, the potential for this pattern to be co‑opted by third‑party tools that already have access to the file system.  \n\nIf we start treating every locally generated asset as “tagged,” our threat models and data‑retention policies need to evolve. I’m curious—how many of you have already built detection for invisible watermarks, and what steps are you taking to mitigate unintended tracking?  \n\n#PrivacyEngineering #DigitalForensics #WindowsSecurity #DataProtection #SoftwareTransparency",
+  "status": "pending"
+}
