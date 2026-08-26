@@ -1,0 +1,13 @@
+{
+  "id": "1787734157",
+  "story": {
+    "title": "Apple introduces M6 and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "source": "Hacker News",
+    "score": 1120,
+    "fetched_at": 1787734153,
+    "trend_score": 60.0
+  },
+  "draft": "Apple just shifted the AI compute baseline again.\n\nThe new M6 brings a 30 % jump in raw CPU throughput while the M5 Ultra doubles the neural engine cores. In practice that means training a 1‑billion‑parameter model on a laptop could finish in hours instead of days. For developers who have been off‑loading heavy inference to the cloud, the on‑device latency drop is a game‑changer.\n\nWhat catches my eye is the unified memory bandwidth—over 1 TB/s across the die. It blurs the line between CPU, GPU, and dedicated AI accelerators, forcing us to rethink software stacks that still treat them as separate islands. I expect we’ll see more frameworks exposing a single API for all compute units, and a shift toward edge‑first AI pipelines.\n\nWill you start prototyping larger models locally now that the hardware can keep up?\n\n#AppleSilicon #AICompute #MachineLearning #HardwareInnovation #TechTrends",
+  "status": "pending"
+}
