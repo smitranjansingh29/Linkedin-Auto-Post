@@ -1,0 +1,13 @@
+{
+  "id": "1787708148",
+  "story": {
+    "title": "Apple introduces M6 and M5 Ultra",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "source": "Hacker News",
+    "score": 952,
+    "fetched_at": 1787708145,
+    "trend_score": 60.0
+  },
+  "draft": "Apple just tipped the scales of on‑device AI.\n\nThe new M6 chip promises a 4× jump in neural engine throughput while staying under the thermal envelope of its predecessor. Meanwhile, the M5 Ultra stitches together two M5 dies, delivering desktop‑class GPU bandwidth in a laptop‑friendly form factor.\n\n- For developers, the higher AI compute means we can offload more inference to the Mac without cloud latency.\n- The unified memory architecture still shines, but the increased bandwidth could narrow the gap with dedicated GPUs for mixed‑reality workloads.\n- Apple’s silicon roadmap now directly competes with Nvidia’s RTX line on performance‑per‑watt, which could reshape how startups budget their hardware.\n\nI’m curious: how many of you plan to redesign your models to run natively on the M6, and what trade‑offs are you expecting?  \n\n#AppleSilicon #AICompute #MachineLearning #HardwareInnovation #DeveloperTools",
+  "status": "pending"
+}
