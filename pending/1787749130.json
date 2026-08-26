@@ -1,0 +1,13 @@
+{
+  "id": "1787749130",
+  "story": {
+    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "source": "Hacker News",
+    "score": 526,
+    "fetched_at": 1787749126,
+    "trend_score": 63.0
+  },
+  "draft": "When a language model outpaces a GPU, you know the balance is shifting.\n\nOpenAI’s new Jalapeño architecture reportedly delivers higher inference throughput and lower cost per token than Nvidia’s Blackwell GPU. The headline numbers are impressive, but the real story is how software‑level innovations are now eclipsing raw silicon horsepower.\n\n- Jalapeño uses aggressive sparsity and quantization to squeeze more work out of each transistor.  \n- Blackwell still boasts higher FLOPs, yet its cost per token lags behind the optimized model pipeline.  \n- The competition is moving from “who builds the biggest chip” to “who squeezes the most efficiency out of the hardware we already have.”\n\nIf model efficiency can outstrip the latest GPU, cloud pricing, hardware roadmaps, and even talent hiring may need to be rethought. How are you adjusting your AI strategy in light of this emerging efficiency race?\n\n#AI #Hardware #MachineLearning #OpenAI #Nvidia",
+  "status": "pending"
+}
