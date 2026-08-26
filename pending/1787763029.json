@@ -1,0 +1,13 @@
+{
+  "id": "1787763029",
+  "story": {
+    "title": "AWS Acquires DuckDB",
+    "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+    "source": "Hacker News",
+    "score": 669,
+    "fetched_at": 1787763023,
+    "trend_score": 60.0
+  },
+  "draft": "A database that runs inside your notebook just got a cloud heavyweight backing.  \n\nAWS announced it’s acquiring DuckDB, the open‑source, in‑process SQL engine that lets data scientists query CSVs, Parquet files, or Pandas data frames without a separate server. The deal means DuckDB’s vectorized engine will soon be baked into AWS services—think Athena queries that spin up in milliseconds, Lambda functions that can crunch analytics without provisioning a cluster, and SageMaker notebooks that stay truly self‑contained.\n\nWhat excites me is the potential to collapse the “move data to the cloud” step. If DuckDB becomes a first‑class primitive inside the data lake, we could run exploratory queries directly on S3 objects at near‑local speed, dramatically cutting cost and latency for ad‑hoc analysis. It also signals AWS’s bet on lightweight, developer‑centric tools rather than only massive warehouses.\n\nHow do you think an in‑process engine, now backed by AWS, will change the way you prototype and ship analytics pipelines?  \n\n#AWS #DuckDB #DataAnalytics #Serverless #OpenSource",
+  "status": "pending"
+}
