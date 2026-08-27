@@ -1,0 +1,13 @@
+{
+  "id": "1787818986",
+  "story": {
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "url": "https://github.com/SenteLabsAI/OpenExecutive",
+    "source": "Hacker News",
+    "score": 520,
+    "fetched_at": 1787818982,
+    "trend_score": 69.0
+  },
+  "draft": "When a CEO replaces his dev team with an algorithm, the developers fight back with code.\n\nI just saw the SenteLabsAI “OpenExecutive” repo—an open‑source AI that can draft strategy, run meetings, and even fire people. It’s a clever technical rebuttal, but it also spotlights a deeper paradox: we’re building tools to automate leadership while the very people who built those tools are being sidelined.\n\nTwo takeaways stand out to me:\n- **Governance risk** – An AI can follow policies, but it lacks the moral nuance that human leaders bring to ambiguous decisions. Delegating authority to a model without clear accountability could amplify bias or error.\n- **Community pushback** – The open‑source response shows that developers won’t quietly disappear; they’ll weaponize the same tech to expose the limits of “AI‑first” management.\n\nIf we keep off‑loading decision‑making to machines, how do we ensure the human values that originally guided those decisions aren’t lost in translation?\n\nWhat safeguards would you put in place before letting an AI sit in the CEO chair?\n\n#AILeadership #OpenSource #TechEthics #FutureOfWork #SoftwareDevelopment",
+  "status": "pending"
+}
