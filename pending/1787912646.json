@@ -1,0 +1,13 @@
+{
+  "id": "1787912646",
+  "story": {
+    "title": "Small Models Have Arrived",
+    "url": "https://calv.info/small-models-have-arrived",
+    "source": "Hacker News",
+    "score": 647,
+    "fetched_at": 1787912639,
+    "trend_score": 63.0
+  },
+  "draft": "The era of massive, cloud‑only AI is ending.\n\nI’ve been watching the surge of compact language models—LLaMA‑2 7B, Mistral‑7B, Gemma—prove they can match many tasks previously reserved for 70‑plus‑billion‑parameter giants. Their footprint fits on a single GPU, and inference costs drop dramatically.\n\nWhat this really shifts is where we run AI. With a small model in‑house, latency improves, data never leaves the premises, and teams can experiment without a pricey cloud budget. The trade‑off is a tighter need for prompt engineering and careful evaluation, but the upside in privacy and speed feels worth the extra work.\n\nI’m curious: have you started swapping a cloud API for a local, small model, and what surprises have you run into?  \n\n#MachineLearning #AI #OpenSource #EdgeAI #ModelEfficiency",
+  "status": "pending"
+}
