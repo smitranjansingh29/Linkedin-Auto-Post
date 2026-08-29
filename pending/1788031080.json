@@ -1,0 +1,13 @@
+{
+  "id": "1788031080",
+  "story": {
+    "title": "Htmx 4.0",
+    "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "source": "Hacker News",
+    "score": 778,
+    "fetched_at": 1788031078,
+    "trend_score": 60.0
+  },
+  "draft": "The web just got a serious upgrade.  \n\nhtmx 4.0 lands with native Server‑Sent Events support, declarative WebSocket bindings, and a revamped “trigger” syntax that lets me fire actions on scroll, focus, or even CSS state changes—all without writing a single line of JavaScript. The new “swap‑once” mode also solves the long‑standing flicker problem when swapping large fragments, making progressive‑enhancement feel as snappy as a SPA.\n\nWhat this means for me is a shift back to server‑driven UI logic. I can keep the heavy lifting in the backend, let htmx handle the DOM plumbing, and still get real‑time interactivity. It’s a reminder that the “write‑less‑JS” mantra isn’t a nostalgia trip—it’s a productivity win, especially for teams that already own robust APIs.\n\nI’m already prototyping a dashboard that swaps charts on hover using only htmx attributes. If the same pattern scales, we could retire a chunk of client‑side codebases that are currently locked into React or Vue.\n\nHow will you rethink your next UI with htmx’s new capabilities?  \n\n#htmx #webdev #progressiveenhancement #frontend #opensource",
+  "status": "pending"
+}
