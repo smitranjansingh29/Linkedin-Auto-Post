@@ -1,0 +1,13 @@
+{
+  "id": "1787984649",
+  "story": {
+    "title": "U.S. sanctions against the A/I Collective",
+    "url": "https://www.inventati.org/",
+    "source": "Hacker News",
+    "score": 546,
+    "fetched_at": 1787984646,
+    "trend_score": 63.0
+  },
+  "draft": "U.S. sanctions just landed on the AI Collective, and the ripple effects are already being felt across the ecosystem.\n\n- The move targets a loosely‑structured network of developers and cloud providers, effectively criminalizing cross‑border collaboration on certain models. That forces teams to re‑architect pipelines or risk legal exposure.\n- Open‑source projects that rely on shared datasets may see a slowdown as contributors pull back, fearing secondary sanctions. The chilling effect could push innovation into more closed, proprietary silos.\n- At the same time, the sanctions send a clear signal to regulators worldwide: AI is no longer a purely technical frontier, it’s a geopolitical lever. Companies will need to embed compliance into the core of their research workflows, not just the product layer.\n\nI’m curious—how will this reshape the balance between open collaboration and national security in AI development?\n\n#AI #Policy #OpenSource #Cybersecurity #TechRegulation",
+  "status": "pending"
+}
