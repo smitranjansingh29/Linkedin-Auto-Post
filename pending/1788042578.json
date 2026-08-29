@@ -1,0 +1,13 @@
+{
+  "id": "1788042578",
+  "story": {
+    "title": "EVE Online moves to Python 3",
+    "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+    "source": "Hacker News",
+    "score": 271,
+    "fetched_at": 1788042576,
+    "trend_score": 37.1
+  },
+  "draft": "EVE Online finally pulls the trigger on Python 3, and the ripple feels bigger than just a version bump.\n\nThe 20‑year‑old codebase is being split into isolated services, letting the dev team retire legacy dependencies without pulling the whole universe offline. Early benchmarks already show tighter memory use and a modest speed gain—critical when you’re simulating millions of player‑driven interactions.\n\nFor us in the AI and backend world, it’s a reminder that the “upgrade later” mindset can lock you into technical debt. Moving to a supported runtime now buys you security patches, modern tooling, and a talent pool that already speaks the language.\n\nWhat strategies have you found effective when modernizing a monolithic, mission‑critical system?  \n\n#Python3 #GameDev #MMO #LegacyCode #SoftwareEngineering",
+  "status": "pending"
+}
