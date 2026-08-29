@@ -1,0 +1,13 @@
+{
+  "id": "1788010963",
+  "story": {
+    "title": "U.S. sanctions against the A/I Collective",
+    "url": "https://www.inventati.org/",
+    "source": "Hacker News",
+    "score": 639,
+    "fetched_at": 1788010960,
+    "trend_score": 63.0
+  },
+  "draft": "When the U.S. slaps sanctions on an AI consortium, the ripple effects reach far beyond the headline.\n\nThe A/I Collective’s new restrictions will choke off access to U.S. cloud credits, hardware, and critical datasets. For teams that rely on open‑source models, the move forces a rapid pivot to alternative infrastructure—often less efficient and more expensive. It also signals a tightening of export‑control lenses on AI research, where the line between “dual‑use” and “purely academic” gets blurrier by the day.\n\nFrom a developer’s perspective, this is a warning that the ecosystem we’ve built on shared resources can be reshaped by policy overnight. Companies and open‑source projects now need contingency plans: multi‑cloud strategies, sovereign hardware pipelines, and clearer licensing that can survive geopolitical shocks.\n\nI’m curious—how are you future‑proofing your AI workloads against sudden regulatory shifts?  \n\n#AI #Policy #Cybersecurity #OpenSource #TechRegulation",
+  "status": "pending"
+}
