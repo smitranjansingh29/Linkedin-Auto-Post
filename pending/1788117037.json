@@ -1,0 +1,13 @@
+{
+  "id": "1788117037",
+  "story": {
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "source": "Hacker News",
+    "score": 470,
+    "fetched_at": 1788117033,
+    "trend_score": 57.0
+  },
+  "draft": "Creepy crawlies in the kernel aren’t bugs—they’re the silent workhorses that keep Linux alive.\n\n- The article breaks down the myriad kernel threads (ksoftirqd, kswapd, kthreadd, etc.) that run under the radar. While they’re invisible to most users, they’re responsible for handling interrupts, memory pressure, and scheduling housekeeping.\n- What struck me is how these “creepy crawlies” expose a design trade‑off: by offloading low‑level chores to dedicated threads, the kernel can stay responsive, but it also adds a layer of complexity that can hide performance regressions.\n- For developers, monitoring these threads gives early clues about latency spikes or memory fragmentation before they surface in user‑space metrics. Tools like `top -H` or `perf top` become indispensable when you start treating kthreads as first‑class citizens in performance tuning.\n\nI’m curious: how many of you actively profile kernel threads in your production stack, and what surprising patterns have you uncovered?\n\n#LinuxKernel #PerformanceEngineering #SystemsProgramming #OpenSource #DevOps",
+  "status": "pending"
+}
