@@ -1,0 +1,13 @@
+{
+  "id": "1788097253",
+  "story": {
+    "title": "Tether: iMessage, SMS, etc. on Linux",
+    "url": "https://zackbartel.com/blog/2026/08/tether/",
+    "source": "Hacker News",
+    "score": 488,
+    "fetched_at": 1788097250,
+    "trend_score": 58.8
+  },
+  "draft": "iMessage on Linux? It’s finally not a pipe‑dream.\n\nTether bridges Apple’s messaging stack to the Linux desktop, handling iMessage, SMS, FaceTime audio and even group chats. The project reverse‑engineers the proprietary protocols and wraps them in a native client, sidestepping the usual reliance on web‑based workarounds.\n\nWhat excites me is the security implication: by pulling the traffic through a Linux host, users gain full control over encryption keys and can audit the code themselves. It also forces Apple to confront the reality that its ecosystem can’t stay locked away forever.\n\nFor developers, Tether opens a new integration point—imagine bots or AI assistants that can read and respond to iMessage threads directly from a Linux server. The real test will be how sustainably the community can maintain protocol compatibility as Apple updates its services.\n\nWould you trust an open‑source bridge for your personal messages, or does the closed‑source comfort win out?\n\n#Linux #OpenSource #Messaging #CrossPlatform #AIIntegration",
+  "status": "pending"
+}
