@@ -1,0 +1,13 @@
+{
+  "id": "1788129115",
+  "story": {
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "source": "Hacker News",
+    "score": 793,
+    "fetched_at": 1788129109,
+    "trend_score": 60.0
+  },
+  "draft": "When a bug moves like a spider, you need a net.\n\nI just read “Creepy Crawlies” on the Kernel mailing list—a deep dive into a race condition that manifested as an intermittent kernel panic. The author likened the bug to a hidden insect, crawling through lock‑dependency checks and surfacing only under a precise timing window. The fix wasn’t a single line change; it required adding memory barriers, tightening lock ordering, and extensive ftrace tracing to reproduce the scenario.\n\nWhat struck me most is how the story underscores the limits of conventional testing. In low‑level code, nondeterministic timing can hide defects for months, and only a combination of static analysis, runtime instrumentation, and community scrutiny brings them to light. It’s a reminder that building robust systems is as much about the debugging process as the code itself.\n\nI’m curious—what strategies or tools have you found most effective for catching those “creepy crawlies” that only appear under the right (or wrong) conditions?\n\n#LinuxKernel #SystemsProgramming #Debugging #OpenSource",
+  "status": "pending"
+}
