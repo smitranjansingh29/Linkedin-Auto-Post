@@ -1,0 +1,13 @@
+{
+  "id": "1788211559",
+  "story": {
+    "title": "OpenShot 4.0 – Open-source video editor",
+    "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+    "source": "Hacker News",
+    "score": 493,
+    "fetched_at": 1788211557,
+    "trend_score": 59.3
+  },
+  "draft": "OpenShot 4.0 finally treats video editing like a native desktop experience—no more “good enough” compromises for open‑source tools.\n\nThe new timeline engine eliminates the infamous lag that made multi‑track projects feel sluggish. By moving most rendering to GPU‑accelerated shaders, I can scrub a 4K sequence in real time on a mid‑range laptop. The color grading suite now mirrors the node‑based workflows I’ve seen in DaVinci Resolve, yet it stays fully scriptable in Python, which opens the door for custom AI‑driven filters.\n\nWhat excites me most is the community‑first licensing model. The source code is now split into clearly versioned modules, making contributions from AI researchers and UI designers less risky. If the ecosystem can keep pace with rapid AI video‑enhancement libraries, OpenShot could become the go‑to platform for creators who can’t afford commercial licenses.\n\nDo you think an open‑source editor can ever match the polish of proprietary suites, or will it remain a niche for hobbyists and labs?\n\n#OpenSource  \n#VideoEditing  \n#GPUAcceleration  \n#Python  \n#AICommunity",
+  "status": "pending"
+}
