@@ -1,0 +1,13 @@
+{
+  "id": "1788191943",
+  "story": {
+    "title": "“I just chose words carefully”",
+    "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+    "source": "Hacker News",
+    "score": 1089,
+    "fetched_at": 1788191941,
+    "trend_score": 60.0
+  },
+  "draft": "One sentence can be the difference between a blocked request and a breakthrough.\n\nI just read a Hacker News thread where a developer “chose words carefully” to get past a language model’s safety filter. By swapping “kill” for “terminate” and re‑framing the scenario, the same intent was accepted. The story is a reminder that prompt engineering isn’t just about clever tricks—it’s about respecting the model’s guardrails while still getting the job done.\n\nWhat struck me most is how this mirrors everyday software communication: a well‑named variable or a clear commit message can prevent misunderstandings just as much as a nuanced prompt can keep AI interactions safe. Precision in language isn’t a soft skill; it’s a technical one that directly impacts outcomes.\n\nDo you ever audit your own wording—whether in code, docs, or prompts—to avoid hidden pitfalls?\n\n#PromptEngineering #AI #SoftwareCraftsmanship #Communication #TechEthics",
+  "status": "pending"
+}
