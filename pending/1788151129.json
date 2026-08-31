@@ -1,0 +1,13 @@
+{
+  "id": "1788151129",
+  "story": {
+    "title": "Creepy Crawlies",
+    "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "source": "Hacker News",
+    "score": 991,
+    "fetched_at": 1788151125,
+    "trend_score": 60.0
+  },
+  "draft": "When a bug hides in plain sight, you need more than a debugger.\n\nThe “Creepy Crawlies” post on Kernel.org walks through a tiny, focused test suite that deliberately walks the edge‑cases of kernel subsystems—think obscure lock ordering, rare interrupt timing, and memory‑layout quirks that standard fuzzers miss. By scripting these micro‑scenarios the author uncovered several long‑standing regressions that had slipped through years of CI.\n\nWhat struck me is the disciplined “crawl, don’t flood” mindset. Broad",
+  "status": "pending"
+}
