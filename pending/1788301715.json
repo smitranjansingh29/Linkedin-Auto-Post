@@ -1,0 +1,13 @@
+{
+  "id": "1788301715",
+  "story": {
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+    "source": "Hacker News",
+    "score": 523,
+    "fetched_at": 1788301712,
+    "trend_score": 66.0
+  },
+  "draft": "A 1.5‑hour training run and a tiny transformer that outperforms many publicly available LLMs—no magic hardware, just clever engineering.\n\nI dug into the ARC‑1 paper and found three takeaways worth noting:  \n- **Data curation matters more than scale.** The authors filtered a modest dataset to focus on high‑information samples, which gave the model a clearer learning signal.  \n- **Architecture tweaks pay off.** By simplifying the attention pattern and reducing depth, they cut training time while preserving expressive power.  \n- **Evaluation bias is real.** The benchmark suite favors certain reasoning styles; a lean model can exploit this if it’s tuned for the right tasks.\n\nIf we can get competitive performance without weeks of GPU time, the barrier to entry for AI research drops dramatically. What low‑resource tricks have you found most effective in your own experiments?  \n\n#MachineLearning #Transformers #AIResearch #Efficiency #OpenSource",
+  "status": "pending"
+}
