@@ -1,0 +1,13 @@
+{
+  "id": "1788236410",
+  "story": {
+    "title": "Playa Phone",
+    "url": "https://playaphone.com/",
+    "source": "Hacker News",
+    "score": 543,
+    "fetched_at": 1788236407,
+    "trend_score": 60.0
+  },
+  "draft": "Playa Phone turns a browser tab into a fully functional phone—no app install, no carrier contract.\n\n- It leverages WebRTC and a lightweight SIP stack, letting anyone dial out from a static website. The UI is intentionally minimal, which reminds me how often we over‑engineer the front‑end for simple communication tools.\n- By exposing the call logic in JavaScript, developers can prototype IVR flows, integrate with CRMs, or even embed voice support directly into SaaS dashboards without dealing with native SDKs.\n- The open‑source model also raises interesting questions about privacy and data residency when voice traffic is routed through third‑party gateways.\n\nI’m curious: how many of your internal tools could replace a native phone app with a browser‑based solution?  \n\n#WebRTC #VoiceTech #OpenSource #DeveloperTools #SaaS",
+  "status": "pending"
+}
