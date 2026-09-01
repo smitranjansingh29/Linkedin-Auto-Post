@@ -1,0 +1,13 @@
+{
+  "id": "1788268612",
+  "story": {
+    "title": "I turned my security cameras into an automatic bird identification system",
+    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "source": "Hacker News",
+    "score": 538,
+    "fetched_at": 1788268609,
+    "trend_score": 63.0
+  },
+  "draft": "I turned my backyard security camera into a bird‑watching assistant.\n\nA few weeks ago I swapped the motion‑triggered alerts for a lightweight model of BirdNET‑go, an open‑source audio classifier that runs on a Raspberry Pi. The camera’s microphone now streams snippets to a local inference engine, which tags species in real time and logs sightings to a Google Sheet. No cloud fees, no latency, and the same hardware that once warned me about intruders now warns me about sparrows.\n\nTwo takeaways for anyone tinkering with edge AI:  \n- Re‑using existing sensors can unlock entirely new data streams without extra cost.  \n- Running inference locally preserves privacy and keeps the system resilient to network outages.  \n\nI’m already experimenting with visual models to confirm the audio tags, but even the audio‑only pipeline has turned a mundane security setup into a hobby‑grade research tool.\n\nWhat everyday device in your workspace could be repurposed with a bit of AI?\n\n#ComputerVision #EdgeAI #Birdwatching #OpenSource #IoT",
+  "status": "pending"
+}
