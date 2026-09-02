@@ -1,0 +1,13 @@
+{
+  "id": "1788365746",
+  "story": {
+    "title": "A Note from LWN",
+    "url": "https://lwn.net/Articles/1090585/",
+    "source": "Hacker News",
+    "score": 437,
+    "fetched_at": 1788365741,
+    "trend_score": 53.7
+  },
+  "draft": "When a trusted source like LWN starts charging for its deep dives, the ecosystem feels the ripple.\n\nLWN announced a shift to a subscription‑first model for most of its premium content, keeping only headlines and brief summaries free. For developers who rely on LWN’s detailed kernel analysis, the change forces a choice: pay for the depth that saves hours of debugging, or risk missing nuanced insights that rarely appear elsewhere.\n\nThe move highlights a broader tension in open‑source: the tools and code are free, but the journalism that explains them isn’t. Sustainable funding can keep quality reporting alive, yet it also risks fragmenting knowledge behind paywalls. I’m watching how the community reacts—whether we’ll see more corporate sponsorships, community‑funded newsletters, or a return to ad‑supported models.\n\nWhat’s the right balance between free knowledge and viable journalism in the open‑source world?\n\n#Linux #OpenSource #TechJournalism #SaaS #Community",
+  "status": "pending"
+}
