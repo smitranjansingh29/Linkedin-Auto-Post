@@ -1,0 +1,13 @@
+{
+  "id": "1788388070",
+  "story": {
+    "title": "Can I opt out of my input or output data being used for training?",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "source": "Hacker News",
+    "score": 346,
+    "fetched_at": 1788388065,
+    "trend_score": 47.6
+  },
+  "draft": "I’m still wrestling with how much of my own prompts end up training the next generation of LLMs.\n\nMistral’s docs confirm that every input and output you feed the model can be harvested for future training—unless you explicitly opt‑out. The opt‑out flag is buried in the API settings, and it only applies to data that isn’t already part of a public dataset. That means any interaction you consider “private” could still be used unless you take that extra step.\n\nTwo things stand out to me:\n\n- **Control vs. improvement** – Opting out protects personal or proprietary information, but it also removes a data point that could help the model understand niche domains better. The trade‑off isn’t just privacy; it’s also the quality of the service you’ll receive later.\n- **Regulatory pressure** – With GDPR‑style regulations spreading, providers will likely be forced to make opt‑outs the default. Until then, the onus is on us to audit our own usage patterns and configure the settings accordingly.\n\nIf you’re building products on top of LLM APIs, how are you balancing data privacy with the need for richer training signals?  \n\n#AIethics #DataPrivacy #MachineLearning #LLM #RegTech",
+  "status": "pending"
+}
