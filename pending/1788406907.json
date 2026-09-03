@@ -1,0 +1,13 @@
+{
+  "id": "1788406907",
+  "story": {
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "source": "Hacker News",
+    "score": 869,
+    "fetched_at": 1788406902,
+    "trend_score": 60.0
+  },
+  "draft": "Gemini’s latest flash—3.8 Flash and 3.8 Flash Cyber—is redefining what “fast” means for large language models.\n\nThe 3.8 Flash model doubles the token context of its predecessor while trimming latency to under a hundred milliseconds per token. That jump in throughput opens a practical path for real‑time reasoning in chat assistants and low‑latency code completion tools.  \n\nCyber’s edge comes from a tighter integration with Google’s hardware stack, delivering a 30% cost reduction per inference run without sacrificing the breadth of the model’s knowledge. For teams that have been wrestling with the trade‑off between speed and depth, the two variants present a rare sweet spot.\n\nI’m curious how many of you will experiment with the expanded context windows for tasks like document summarization or multi‑turn dialogue. Will the lower cost push more startups into production‑grade AI, or will we still see a bottleneck elsewhere?\n\n#AI #LLM #Gemini #MachineLearning #TechTrends",
+  "status": "pending"
+}
