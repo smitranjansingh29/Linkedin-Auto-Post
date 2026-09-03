@@ -1,0 +1,13 @@
+{
+  "id": "1788451532",
+  "story": {
+    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+    "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+    "source": "Hacker News",
+    "score": 491,
+    "fetched_at": 1788451530,
+    "trend_score": 62.1
+  },
+  "draft": "When SEO farms start feeding AI, the answers get messy.\n\nI just learned that three sites have churned out 215,128 “best software” pages aimed at AI recommendations. Perplexity.ai, which markets itself as a trustworthy answer engine, is already pulling from that pool. The sheer volume shows how cheap content farms can masquerade as expertise, and how quickly those pages can infiltrate AI‑driven search.\n\nTwo things stand out to me:\n\n- **Signal dilution:** When an AI model treats every indexed page as equal, the signal‑to‑noise ratio collapses. Users get recommendations that are little more than recycled marketing copy.\n- **Verification gap:** Current retrieval‑augmented generation pipelines rarely vet the provenance of a source beyond URL and basic metadata. That leaves the system vulnerable to systematic manipulation.\n\nIf we want AI assistants to be reliable, we need stricter source vetting and perhaps a reputation layer for content farms. What practical steps can we take to keep low‑quality SEO farms out of the AI knowledge loop?\n\n#AI #SearchEngine #ContentIntegrity #TechEthics #DataQuality",
+  "status": "pending"
+}
