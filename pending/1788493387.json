@@ -1,0 +1,13 @@
+{
+  "id": "1788493387",
+  "story": {
+    "title": "GPT-6 Astra",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "source": "Hacker News",
+    "score": 1436,
+    "fetched_at": 1788493382,
+    "trend_score": 63.0
+  },
+  "draft": "A new benchmark for AI just landed.  \n\nOpenAI’s GPT‑6 “Astra” pushes the context window to 1 million tokens, adds native multimodal reasoning, and ships with a built‑in safety layer that can flag hallucinations in real time. The model’s architecture leans heavily on sparse attention, which trims inference cost while preserving depth—a rare combination of scale and efficiency.\n\nFor developers, that means we can feed entire codebases, design docs, or even raw logs into a single prompt and get coherent, actionable insights without chunking. The built‑in hallucination guard also reduces the need for post‑processing checks, freeing up time for higher‑level problem solving.\n\nI’m curious: how will you restructure your tooling or workflow to take advantage of a model that can truly understand and reason over massive, mixed‑media inputs?  \n\n#GPT6 #AI #MachineLearning #OpenAI #TechTrends",
+  "status": "pending"
+}
