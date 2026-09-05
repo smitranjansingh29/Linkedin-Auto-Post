@@ -1,0 +1,14 @@
+{
+  "id": "1788595919",
+  "story": {
+    "title": "Formalizing Fermat's Last Theorem",
+    "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+    "source": "Hacker News",
+    "score": 591,
+    "fetched_at": 1788595916,
+    "source_count": 2,
+    "trend_score": 70.0
+  },
+  "draft": "Fermat’s Last Theorem finally got a machine‑checked proof, and it’s a milestone for AI‑assisted mathematics.\n\nAnthropic’s team encoded the entire proof in Lean, turning a 1995 breakthrough into a formal artifact that a theorem prover can verify step by step. Beyond the novelty, this shows that large language models can bridge the gap between human intuition and the exacting rigor required by proof assistants—something that has long been a bottleneck for formal methods.\n\nWhat excites me most is the feedback loop it creates: as models get better at formalizing existing mathematics, they’ll start suggesting lemmas or proof strategies that humans haven’t considered, potentially accelerating discovery in fields where intuition alone stalls.\n\nDo you think we’re on the cusp of AI becoming a co‑author rather than just a tool in mathematical research?\n\n#FormalVerification #LeanProver #AIResearch #Mathematics #MachineLearning",
+  "status": "pending"
+}
