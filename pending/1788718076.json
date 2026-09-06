@@ -1,0 +1,13 @@
+{
+  "id": "1788718076",
+  "story": {
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "source": "Hacker News",
+    "score": 560,
+    "fetched_at": 1788718074,
+    "trend_score": 63.0
+  },
+  "draft": "Self‑hosting just got a user‑friendly makeover.\n\nCloud in a Bottle bundles a full Kubernetes‑compatible stack into a single binary you can run on any laptop. The project’s launch blog shows how a few commands spin up a private cloud environment, complete with networking, storage, and a dashboard—no VM juggling required.\n\nFor me, the real shift is the lowered barrier to experiment. Indie developers can prototype multi‑service architectures without signing up for a public provider, and teams can test cloud‑native patterns offline. The trade‑off is taking on the operational responsibilities that were previously abstracted away, so security and updates become a hands‑on task again.\n\n- One‑click start, zero‑config defaults  \n- Works on macOS, Linux, Windows  \n- Open‑source core, community‑driven plugins  \n\nHow do you see tools like Cloud in a Bottle reshaping your development workflow?\n\n#SelfHosting #OpenSource #DevOps #CloudComputing #IndieDev",
+  "status": "pending"
+}
