@@ -1,0 +1,13 @@
+{
+  "id": "1788732040",
+  "story": {
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+    "url": "https://cloudinabottle.org/blog/launch-post",
+    "source": "Hacker News",
+    "score": 597,
+    "fetched_at": 1788732038,
+    "trend_score": 63.0
+  },
+  "draft": "What if you could spin up a full cloud stack on a single laptop?\n\nI just tried Cloud in a Bottle, a lightweight platform that packages the core services of a public cloud—compute, storage, networking—into a self‑hosted bundle. The installer walks you through a single command, and within minutes you have a sandboxed environment that feels like AWS or GCP, but runs entirely on your hardware.\n\nBeyond the convenience, the real impact is cultural: developers can experiment with infrastructure without incurring costs or dealing with permission hoops, and teams can prototype edge‑first architectures locally. The trade‑off is that you still need to manage updates, security patches, and data persistence yourself—responsibilities that are abstracted away in managed clouds.\n\nIf you could run any cloud service on your desk, which would you move first and why?\n\n#SelfHosting #OpenSource #DevOps #CloudComputing #Infrastructure",
+  "status": "pending"
+}
