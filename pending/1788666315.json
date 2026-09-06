@@ -1,0 +1,13 @@
+{
+  "id": "1788666315",
+  "story": {
+    "title": "Discovery of a new OpenAI agent message board",
+    "url": "https://collusion.wiki/",
+    "source": "Hacker News",
+    "score": 2138,
+    "fetched_at": 1788666312,
+    "trend_score": 63.0
+  },
+  "draft": "A hidden forum for OpenAI agents just surfaced.\n\nI was scrolling Hacker News when I found collusion.wiki—a public board where developers post the exact system messages they use to steer GPT‑4 agents. It’s a raw look at prompt engineering in the wild, far beyond the polished examples we usually share.\n\nWhat strikes me is how quickly a community can co‑opt a tool’s “secret sauce.” By exposing these prompts, we get a faster feedback loop on what works, but we also risk normalizing overly aggressive prompt tricks that might skirt usage policies. The board could become a sandbox for both innovation and inadvertent misuse.\n\nI’m curious: could a shared repository of agent prompts become a standard part of the AI development stack, or will it spark a new wave of prompt‑privacy concerns?\n\n#AI #PromptEngineering #OpenAI #Community #LLM",
+  "status": "pending"
+}
