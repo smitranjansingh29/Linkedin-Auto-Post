@@ -1,0 +1,13 @@
+{
+  "id": "1788772042",
+  "story": {
+    "title": "Nitter and XCancel resume service after legal advice",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "source": "Hacker News",
+    "score": 725,
+    "fetched_at": 1788772039,
+    "trend_score": 60.0
+  },
+  "draft": "When a privacy‑first Twitter front‑end gets a legal green light, it says a lot about the ecosystem.\n\nI dug into the latest commit on the Nitter repo – after a brief shutdown, the team resumed service following formal legal advice. The key takeaway isn’t just “they’re back online.” It shows that open‑source projects can still navigate the murky waters of platform TOS and DMCA threats when they have clear counsel, and that community‑driven alternatives are gaining a defensible footing.\n\nTwo implications stand out:\n- Legal clarity can turn a reactive shutdown into a proactive roadmap for compliance without sacrificing core privacy values.  \n- The episode may embolden other indie front‑ends to seek formal advice early, reducing downtime and building trust with users.\n\nWhat do you think this means for the future of decentralized social‑media tools under pressure from platform owners?  \n\n#OpenSource #Privacy #Decentralization #LegalTech #Nitter",
+  "status": "pending"
+}
