@@ -1,0 +1,13 @@
+{
+  "id": "1788820707",
+  "story": {
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "source": "Hacker News",
+    "score": 925,
+    "fetched_at": 1788820705,
+    "trend_score": 60.0
+  },
+  "draft": "Three times the recurring donations in one month—what sparked that surge?\n\nI’ve been following the Internet Archive’s “Keep Our Servers Running” drive, and the numbers are striking: September saw a 300 % jump in recurring contributions. The campaign leaned into transparent storytelling—showing exactly how a few dollars keep billions of pages, books, and now AI‑trained datasets accessible.\n\nTwo takeaways stand out for anyone building sustainable tech services:\n\n- **Transparency wins trust.** When donors see the direct impact—more bandwidth, faster crawls, better preservation—they’re more likely to commit long‑term.\n- **Recurring models outperform one‑off asks.** A steady cash flow lets the Archive invest in hardware upgrades and redundancy, crucial as AI models start pulling massive amounts of historical data.\n\nIf we want open‑source and public‑good infrastructure to survive the AI boom, we need to treat funding as a continuous operation, not a seasonal sprint.\n\nWhat strategies have you found effective for turning occasional supporters into steady backers?  \n\n#OpenSource #DigitalPreservation #FundingModels #AIInfrastructure #NonProfitTech",
+  "status": "pending"
+}
