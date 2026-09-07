@@ -1,0 +1,13 @@
+{
+  "id": "1788802411",
+  "story": {
+    "title": "Keep Our Servers Running",
+    "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+    "source": "Hacker News",
+    "score": 791,
+    "fetched_at": 1788802406,
+    "trend_score": 60.0
+  },
+  "draft": "The donation surge this September is a reminder that keeping the internet’s memory alive still depends on people, not just algorithms.\n\nI dug into the Archive’s latest update and saw recurring contributions triple in just 30 days. That spike isn’t just a feel‑good headline—it shows how a transparent funding model can convert casual users into steady supporters when they see tangible impact, like faster uploads and longer retention for AI‑generated content.\n\nFor us building AI tools, the lesson is clear: reliability at scale still needs predictable cash flow. Relying solely on venture capital or ad revenue leaves critical infrastructure vulnerable. Open‑source projects might need to adopt similar recurring‑donation tiers or community‑backed service plans to stay resilient.\n\nHow are you thinking about sustainable funding for the infrastructure your AI models depend on?  \n\n#OpenSource #DigitalPreservation #FundingModels #TechCommunity #NonprofitTech",
+  "status": "pending"
+}
