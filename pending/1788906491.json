@@ -1,0 +1,13 @@
+{
+  "id": "1788906491",
+  "story": {
+    "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+    "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+    "source": "Hacker News",
+    "score": 984,
+    "fetched_at": 1788906485,
+    "trend_score": 60.0
+  },
+  "draft": "A breakthrough in the Navier‑Stokes regularity landscape just landed on my desk.\n\nTristan Buckmaster’s recent pre‑print pushes the partial regularity frontier: he constructs solutions that remain smooth on a set of times with positive Hausdorff dimension, yet develop singularities elsewhere. The technique blends convex integration with delicate frequency cascades, showing that even “almost everywhere” smoothness can coexist with turbulent blow‑up.\n\nWhy does this matter to us in AI‑driven simulation? If we can encode such irregular behavior in learned models, we might finally capture the intermittency that standard CFD misses. Conversely, the result warns that any data‑driven surrogate must respect the underlying analytic constraints, or risk hidden singularities.\n\nI’m curious—how many of you see a path to embed these mathematical insights into next‑generation physics‑informed neural networks?\n\n#NavierStokes #MathematicalPhysics #AIResearch #ComputationalFluidDynamics #DeepLearning",
+  "status": "pending"
+}
