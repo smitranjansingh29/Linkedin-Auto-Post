@@ -1,0 +1,13 @@
+{
+  "id": "1788839346",
+  "story": {
+    "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+    "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+    "source": "Hacker News",
+    "score": 597,
+    "fetched_at": 1788839342,
+    "trend_score": 60.0
+  },
+  "draft": "Your living room might be listening louder than you think.  \n\nI just watched the “216 M Spy TVs” video that broke on Hacker News, and the scale of LG’s data collection is staggering. Roughly 216 million units are sending usage metrics, voice snippets, and even screen captures back to the cloud—often without a clear opt‑out path.  \n\nWhat worries me isn’t the tech itself but the opacity. Users can’t easily verify what’s being recorded, and firmware updates roll out silently, blurring the line between feature upgrades and surveillance. This pushes us toward a future where every smart appliance becomes a data point, eroding trust in everyday devices.  \n\nI’m starting to think that regulatory frameworks need to catch up faster than the hardware cycle. Transparent consent dialogs, local‑only processing options, and third‑party audits should become baseline requirements, not nice‑to‑have extras.  \n\nHow should manufacturers balance convenience with privacy, and what role can we as developers play in demanding clearer standards?  \n\n#Privacy #SmartTV #AI #IoT #DataSecurity",
+  "status": "pending"
+}
