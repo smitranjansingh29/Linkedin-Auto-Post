@@ -1,0 +1,13 @@
+{
+  "id": "1788857043",
+  "story": {
+    "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+    "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+    "source": "Hacker News",
+    "score": 739,
+    "fetched_at": 1788857041,
+    "trend_score": 60.0
+  },
+  "draft": "A TV that can listen to you without you knowing.\n\nI just watched the “216 M Spy TVs” video and it hit me hard: LG’s latest smart‑TV firmware can capture audio and video streams even when the remote is idle. The issue isn’t a one‑off bug; it’s baked into the platform that now ships in over two hundred million living‑room screens.\n\nTwo takeaways stand out for me:\n\n- **Data pipelines are invisible** – Most consumers never see the telemetry that flows from their TV to the cloud. When manufacturers treat these pipelines as a feature, we lose the ability to audit or opt‑out.\n- **The IoT supply chain needs hardening** – The same code base runs on dozens of models, so a single vulnerability scales to millions of devices. Open‑source firmware or mandatory security audits could break that cascade.\n\nI’m left wondering how many other “smart” appliances are silently profiling us. What steps are you taking to audit the privacy posture of the connected devices in your home or office?  \n\n#Privacy #IoT #SmartTV #Security #AI",
+  "status": "pending"
+}
