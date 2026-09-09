@@ -1,0 +1,13 @@
+{
+  "id": "1788992510",
+  "story": {
+    "title": "Shopify acquires Tailwind",
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "source": "Hacker News",
+    "score": 806,
+    "fetched_at": 1788992506,
+    "trend_score": 63.0
+  },
+  "draft": "Shopify just bought Tailwind CSS—an open‑source tool I use daily to ship UI fast.\n\n- For Shopify merchants, this could mean tighter integration between storefront themes and a utility‑first workflow, cutting the friction of custom styling.\n- For the broader web community, the acquisition raises a question: will Tailwind stay as free and community‑driven, or will it tilt toward Shopify‑centric features?\n- From a developer’s perspective, the move signals that platform companies are willing to own the front‑end stack, not just the back‑end services.\n\nI’m curious—how do you think this will reshape the way we build e‑commerce sites?  \n\n#Shopify #TailwindCSS #WebDevelopment #Ecommerce #OpenSource",
+  "status": "pending"
+}
