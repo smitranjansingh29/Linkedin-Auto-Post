@@ -1,0 +1,13 @@
+{
+  "id": "1788970439",
+  "story": {
+    "title": "Muse – Meta’s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "source": "Hacker News",
+    "score": 597,
+    "fetched_at": 1788970436,
+    "trend_score": 63.0
+  },
+  "draft": "Muse promises a truly personal AI companion—no more “one‑size‑fits‑all” chatbots.\n\n- Meta positions Muse as a user‑owned assistant that lives on the device, keeping prompts and context local. That’s a rare move in a cloud‑first world and could reset expectations around data sovereignty for consumer AI.\n- The interface blends text, voice, and visual cues, aiming to become the glue between everyday apps. If it delivers seamless hand‑offs, it might finally make AI feel like an extension of our workflow rather than a separate tool.\n- Competition is fierce, but Muse’s focus on on‑device inference could give it an edge in latency and privacy—two pain points that have slowed broader adoption of generative assistants.\n\nWill a truly personal AI agent change how we structure our day, or will it become another notification hub we ignore?\n\n#AI #PersonalAssistant #Privacy #Meta #Productivity",
+  "status": "pending"
+}
