@@ -1,0 +1,13 @@
+{
+  "id": "1788943812",
+  "story": {
+    "title": "Muse – Meta’s personal AI agent",
+    "url": "https://ai.meta.com/muse/",
+    "source": "Hacker News",
+    "score": 493,
+    "fetched_at": 1788943808,
+    "trend_score": 62.3
+  },
+  "draft": "What if your AI knew you better than your calendar?\n\nMeta’s new Muse is pitched as a personal AI agent that can draft emails, summarize meetings, and even suggest next‑step actions—all from a single prompt. I’m intrigued by the promise of a unified “brain” that learns from my workflow, but the real test will be how transparently it handles my data. Meta’s track record on privacy makes me wonder whether Muse will stay a private assistant or become a data goldmine for the platform.\n\nIf Muse can truly understand context across apps, it could shift the productivity curve for knowledge workers. Yet the flip side is a dependency loop: the more we rely on an AI that shapes our decisions, the less we see the underlying reasoning. Building guardrails that let users audit suggestions will be crucial.\n\nI’m curious—would you hand over the day’s agenda to an AI like Muse, or keep the control in your own hands?\n\n#AI #PersonalAssistant #Meta #MachineLearning #FutureOfWork",
+  "status": "pending"
+}
