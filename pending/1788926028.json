@@ -1,0 +1,13 @@
+{
+  "id": "1788926028",
+  "story": {
+    "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+    "source": "Hacker News",
+    "score": 508,
+    "fetched_at": 1788926023,
+    "trend_score": 60.0
+  },
+  "draft": "A map of our genome at single‑base precision—finally.\n\nGoogle DeepMind’s AlphaGenome Atlas stitches together billions of DNA reads into a high‑resolution, three‑dimensional view of the human genome. The model learns patterns that traditional sequencing pipelines miss, revealing subtle regulatory elements and structural variants in real time.\n\nWhat excites me isn’t just the data density, but the way the system integrates deep learning with physical‑biology constraints. It turns raw sequencing into actionable insight, potentially accelerating drug target discovery and enabling truly personalized diagnostics. At the same time, the sheer granularity raises new privacy questions—how do we protect individuals when a “map” can pinpoint variations down to a single nucleotide?\n\nI’m curious: if we can visualize the genome at this fidelity, what new research questions become tractable, and how should we balance innovation with ethical safeguards?\n\n#Genomics #AI #DeepLearning #PrecisionMedicine #DataScience",
+  "status": "pending"
+}
