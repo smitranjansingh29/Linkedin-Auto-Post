@@ -1,0 +1,13 @@
+{
+  "id": "1789078869",
+  "story": {
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "source": "Hacker News",
+    "score": 493,
+    "fetched_at": 1789078865,
+    "trend_score": 62.3
+  },
+  "draft": "Researchers are handing their unpublished proofs to a black‑box and hoping the model won’t leak them.  \n\nI’ve been following the debate around OpenAI’s data‑ingestion policies, and the latest thread on Hacker News raises a stark point: once a pre‑print is fed into a massive language model, it becomes indistinguishable from public knowledge. That erodes the very “priority” system that underpins academic credit.  \n\nTwo practical worries stand out for me:  \n\n- **Attribution loss** – If a model reproduces a novel theorem without citing the original author, the creator may never get recognized, and the community loses a traceable lineage.  \n- **Intellectual‑property exposure** – Even if the model never outputs the exact text, embeddings can be reverse‑engineered, potentially revealing the underlying ideas to competitors or malicious actors.  \n\nWe need clearer consent mechanisms and audit trails before we let AI systems ingest work that hasn’t been formally shared. How should the research community balance open collaboration with protecting early‑stage discoveries?  \n\n#AIethics #AcademicFreedom #ResearchIntegrity #OpenAI #DataPrivacy",
+  "status": "pending"
+}
