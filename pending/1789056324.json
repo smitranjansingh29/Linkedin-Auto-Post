@@ -1,0 +1,13 @@
+{
+  "id": "1789056324",
+  "story": {
+    "title": "iPhone Duo",
+    "url": "https://www.apple.com/iphone-duo/",
+    "source": "Hacker News",
+    "score": 1330,
+    "fetched_at": 1789056321,
+    "trend_score": 60.0
+  },
+  "draft": "Two screens, one iPhone—Apple just rewrote the form factor.\n\nThe iPhone Duo’s hinge design means we’ll finally have native multitasking without resorting to split‑view hacks. For developers, that’s a call to rethink UI layouts, state management, and how we surface AI‑driven features across two displays. It also forces us to consider power budgeting: a second screen doubles the graphics pipeline, so efficiency becomes a first‑class concern.\n\nI’m curious how quickly the SDK will expose dual‑screen primitives and whether Apple will provide guidelines for adaptive design. Will we see a wave of apps that treat the two panels as a single canvas, or will most developers stick to mirrored experiences?\n\nHow are you planning to adapt your next project for a dual‑screen iPhone?\n\n#iPhoneDuo #Apple #MobileDev #UX #AI",
+  "status": "pending"
+}
