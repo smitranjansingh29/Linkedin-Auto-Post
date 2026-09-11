@@ -1,0 +1,13 @@
+{
+  "id": "1789142942",
+  "story": {
+    "title": "Shopify is moving from React Native back to Swift and Kotlin",
+    "url": "https://shopify.engineering/back-to-native",
+    "source": "Hacker News",
+    "score": 1195,
+    "fetched_at": 1789142939,
+    "trend_score": 60.0
+  },
+  "draft": "Shopify just announced it’s ditching React Native for Swift on iOS and Kotlin on Android—again.\n\nThe decision isn’t about “winning” a technology war; it’s a pragmatic response to scaling constraints. After months of growing technical debt in the shared codebase, the team hit performance cliffs that native modules alone couldn’t smooth over. Re‑investing in platform‑specific tooling gave them tighter control over UI latency, memory usage, and OS‑level integrations that a JavaScript bridge struggled to match.\n\nWhat this tells me is that cross‑platform frameworks still have a sweet spot—rapid prototyping and early‑stage products—but once you reach a critical mass of users and feature complexity, the cost of abstraction can outweigh its speed benefits. Companies need a clear migration path rather than treating “write once, run everywhere” as a permanent solution.\n\nIf you’re evaluating React Native for a high‑traffic app, what metrics would convince you to switch back to native code?  \n\n#MobileDevelopment #ReactNative #Swift #Kotlin #SoftwareArchitecture",
+  "status": "pending"
+}
