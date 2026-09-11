@@ -1,0 +1,13 @@
+{
+  "id": "1789116343",
+  "story": {
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "source": "Hacker News",
+    "score": 797,
+    "fetched_at": 1789116340,
+    "trend_score": 63.0
+  },
+  "draft": "Researchers are raising alarms: OpenAI may have trained its models on math papers that were never published.\n\nI’ve been following the debate sparked by a recent post on Mathstodon, where scholars point out that confidential preprints can surface in AI outputs, effectively leaking work that hasn’t undergone peer review. This isn’t just a privacy hiccup—it threatens the very incentive structure of academic research. If authors can’t be sure their early results stay private, the willingness to share breakthroughs diminishes.\n\nThe core issue isn’t the technology itself but the data governance around it. Transparent sourcing, opt‑out mechanisms for unpublished manuscripts, and clear attribution policies could restore trust. Without them, we risk a feedback loop where valuable insights disappear into black‑box models, never reaching the community that needs them.\n\nWhat concrete steps can AI developers and academic institutions take together to protect unpublished research while still advancing model capabilities?  \n\n#AIethics #AcademicIntegrity #MachineLearning #OpenAI #ResearchTransparency",
+  "status": "pending"
+}
