@@ -1,0 +1,13 @@
+{
+  "id": "1789165259",
+  "story": {
+    "title": "Claude is only available to people over 18 years",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "source": "Hacker News",
+    "score": 528,
+    "fetched_at": 1789165257,
+    "trend_score": 63.0
+  },
+  "draft": "Age gating AI is a reality check for the industry.\n\nClaude now requires users to be 18 + , a policy that surfaces the tension between responsible deployment and open access. The move is driven by regulatory pressure and liability concerns, but it also narrows the pool of early adopters who often experiment with cutting‑edge models while still in school.\n\nFor developers, the immediate impact is twofold: we must now embed age‑verification flows into our products, and we need backup models for younger users. This adds friction to rapid prototyping and could push younger talent toward less vetted, potentially riskier alternatives.\n\nThe broader signal is clear—AI providers are preparing for stricter oversight, and age is becoming a compliance checkpoint. It forces us to think about how to balance safety with inclusivity, especially in education and research contexts.\n\nHow are you handling age‑related restrictions in your AI workflows, and what alternatives are you considering for younger innovators?\n\n#AI #Ethics #AgeVerification #DeveloperCommunity #TechPolicy",
+  "status": "pending"
+}
