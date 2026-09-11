@@ -1,0 +1,13 @@
+{
+  "id": "1789098562",
+  "story": {
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "source": "Hacker News",
+    "score": 731,
+    "fetched_at": 1789098557,
+    "trend_score": 63.0
+  },
+  "draft": "When a cutting‑edge theorem vanishes into an AI black box, who’s really protecting the math?\n\nI’ve been following the debate sparked by recent reports that OpenAI trained models on unpublished research without clear consent. On one hand, the sheer scale of their data pipeline can accelerate discovery; on the other, it erodes the trust that underpins academic collaboration. If a researcher can’t be sure their work won’t be exposed before peer review, the incentive to share early drafts disappears.\n\nTwo implications stand out for me:\n\n- **Data provenance matters more than ever.** Without transparent sourcing, models risk embedding errors or biased assumptions from unreleased work, propagating them downstream.\n- **Governance frameworks lag behind capability.** The community needs enforceable standards—perhaps a “research‑use license” model—that balance open‑source ambitions with intellectual‑property rights.\n\nI’m curious: how should the AI industry and academia co‑design safeguards that respect both innovation speed and scholarly ownership?  \n\n#AIethics #ResearchIntegrity #MachineLearning #OpenScience #DataGovernance",
+  "status": "pending"
+}
