@@ -1,0 +1,13 @@
+{
+  "id": "1789201817",
+  "story": {
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "source": "Hacker News",
+    "score": 869,
+    "fetched_at": 1789201813,
+    "trend_score": 63.0
+  },
+  "draft": "AI can solve a crossword but stumble over a simple integral—this misalignment is more than a curiosity, it’s a warning.\n\nI’ve been watching the debate on mathandai.org, and three points keep resurfacing:\n\n- Large language models excel at pattern matching, yet they lack the symbolic rigor that mathematics demands.  \n- Training data rarely includes the step‑by‑step proofs that teach a model to “think” like a mathematician, so hallucinations become the norm.  \n- Without a clear objective that rewards correctness over fluency, we’ll keep seeing impressive‑looking answers that collapse under scrutiny.\n\nIf we want AI to be a genuine partner in research, we must redesign evaluation metrics and incorporate formal reasoning frameworks—not just more data.\n\nWhat concrete steps do you think will bridge the gap between language fluency and mathematical fidelity?\n\n#AIAlignment #MachineLearning #Mathematics #Research #TechEthics",
+  "status": "pending"
+}
