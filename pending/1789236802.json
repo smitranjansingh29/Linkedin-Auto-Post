@@ -1,0 +1,13 @@
+{
+  "id": "1789236802",
+  "story": {
+    "title": "google.com/goto: Google's anti-scraping update",
+    "url": "https://www.autom.dev/blog/google-search-goto-links",
+    "source": "Hacker News",
+    "score": 553,
+    "fetched_at": 1789236798,
+    "trend_score": 63.0
+  },
+  "draft": "Google just turned the screws on search scrapers.\n\nThe latest SERP update replaces plain result URLs with “/goto” redirects that resolve only after a client‑side request. In the raw HTML you now see a Google‑controlled link, not the destination site, and the final URL is hidden behind a short‑lived token.\n\nThat change breaks any pipeline that parses static HTML. Tools that once fetched the page source now get a dead end, forcing us to spin up headless browsers or rely on the official Custom Search API—both of which add latency and cost. It’s a clear signal that Google is willing to police data extraction more aggressively.\n\nFor me, the takeaway is less about fighting the redirect and more about re‑examining why we scrape at scale. If the data is essential, the API route is becoming the only sustainable path, and the cost of “quick‑and‑dirty” scraping is rising fast.\n\nHow are you adapting your data pipelines to this new barrier?\n\n#WebScraping #GoogleSearch #DataEngineering #AI #TechNews",
+  "status": "pending"
+}
