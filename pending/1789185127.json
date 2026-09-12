@@ -1,0 +1,13 @@
+{
+  "id": "1789185127",
+  "story": {
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "source": "Hacker News",
+    "score": 740,
+    "fetched_at": 1789185122,
+    "trend_score": 63.0
+  },
+  "draft": "AI can solve equations, but it still can’t think like a mathematician.\n\nI recently dug into the “misalignment of AI in mathematics” discussion on Hacker News (mathandai.org). The thread highlights a recurring problem: large language models can generate plausible‑looking proofs that crumble under scrutiny. The core issue isn’t just data quality; it’s that the reward signals we give these models don’t capture mathematical rigor.\n\n- Current training pipelines optimize for pattern matching, not for logical consistency.  \n- Even when a model produces a correct result, it often can’t explain *why* the steps are valid.  \n- Embedding formal proof assistants into the loop shows promise, but it also forces us to rethink how we evaluate AI progress.\n\nIf we want AI to become a genuine partner in research, we need metrics that reward provable correctness, not just surface fluency. How should the community redesign evaluation frameworks to bridge this gap?\n\n#AIAlignment #Mathematics #MachineLearning #FormalVerification #ResearchTools",
+  "status": "pending"
+}
