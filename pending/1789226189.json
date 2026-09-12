@@ -1,0 +1,13 @@
+{
+  "id": "1789226189",
+  "story": {
+    "title": "A misalignment of AI in mathematics",
+    "url": "https://mathandai.org/",
+    "source": "Hacker News",
+    "score": 1081,
+    "fetched_at": 1789226184,
+    "trend_score": 63.0
+  },
+  "draft": "AI can solve a Sudoku in milliseconds, yet stumble over a simple proof.  \n\nI’ve been following the discussion on Hacker News around the “misalignment of AI in mathematics” (https://mathandai.org/). The core issue isn’t just data scarcity— it’s that current models optimize for pattern matching, not logical consistency. When they’re asked to generate a step‑by‑step derivation, they often produce plausible‑looking but mathematically invalid statements. That gap reveals a deeper problem: we’re training on surface form rather than the underlying axioms that define mathematics.\n\nTwo takeaways stand out to me:  \n- **Evaluation matters** – Benchmarks that reward final answers hide reasoning errors. We need metrics that penalize logical slips.  \n- **Hybrid approaches** – Combining neural nets with symbolic engines could enforce constraint satisfaction, turning “creative guesses” into provable steps.\n\nIf we want AI to be a genuine partner in research, we must redesign training loops to respect mathematical rigor. What concrete steps do you think the community should take to align AI’s reasoning with the strict standards of mathematics?  \n\n#AI #Mathematics #Alignment #MachineLearning #Research",
+  "status": "pending"
+}
