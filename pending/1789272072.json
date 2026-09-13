@@ -1,0 +1,13 @@
+{
+  "id": "1789272072",
+  "story": {
+    "title": "We must pace the frontier",
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "source": "Hacker News",
+    "score": 587,
+    "fetched_at": 1789272069,
+    "trend_score": 60.0
+  },
+  "draft": "The AI race is speeding up, but the safety net isn’t keeping pace.\n\nI just read Dario Amodei’s “We must pace the frontier,” and a few points struck me. First, the incentive structure rewards rapid breakthroughs while penalizing the slower, safety‑focused work that actually prevents catastrophic outcomes. Second, we need coordinated funding streams that deliberately allocate resources to alignment research, not just headline‑grabbing models. Finally, transparent governance can turn “race‑to‑the‑bottom” dynamics into a collaborative frontier.\n\nIf we want powerful systems that serve humanity, we must redesign the game‑rules that drive progress. How can we, as engineers and researchers, embed pacing mechanisms into our day‑to‑day work?\n\n#AI #Safety #Research #TechPolicy #FutureOfAI",
+  "status": "pending"
+}
