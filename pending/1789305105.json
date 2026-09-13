@@ -1,0 +1,13 @@
+{
+  "id": "1789305105",
+  "story": {
+    "title": "Nvidia is the central bank of AI",
+    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "source": "Hacker News",
+    "score": 511,
+    "fetched_at": 1789305102,
+    "trend_score": 63.0
+  },
+  "draft": "Nvidia has turned its GPUs into the “currency” that powers every AI model today.\n\n- The market now treats Nvidia’s silicon like a central bank: supply constraints dictate the speed of research, the cost of inference, and even which startups can launch. When the “money supply” tightens, we see delayed product launches and a rush for pre‑orders that drives prices up.\n- This concentration gives Nvidia outsized influence over the AI ecosystem. It can set pricing, prioritize certain partners, and shape the roadmap of emerging technologies simply by deciding how many chips it ships each quarter.\n- At the same time, the analogy highlights a systemic risk. Just as monetary policy can affect an entire economy, Nvidia’s production decisions ripple through everything from autonomous‑vehicle testing to large‑language‑model training. Diversifying the compute base isn’t just a technical challenge—it’s a strategic imperative for the health of the field.\n\nIf compute is the new monetary policy, who should be writing the rules? How can we ensure broader access without stifling innovation?\n\n#AIInfrastructure #GPU #TechPolicy #StartupEcosystem #ComputingPower",
+  "status": "pending"
+}
