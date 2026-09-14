@@ -1,0 +1,13 @@
+{
+  "id": "1789397495",
+  "story": {
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "source": "Hacker News",
+    "score": 1122,
+    "fetched_at": 1789397493,
+    "trend_score": 60.0
+  },
+  "draft": "The Cyphral Distich, a 370‑year‑old cipher, finally fell to an algorithm.\n\nFable 5.1 combined deep language models with a specialized combinatorial search, iterating through millions of plausible word patterns until the historic text emerged. The breakthrough isn’t just a neat trivia win; it proves that modern AI can handle the kind of sparse, context‑driven puzzles that have stumped scholars for centuries.\n\nWhat this means for us in software and AI is twofold: first, unsupervised models are reaching a point where they can infer structure without hand‑crafted rules; second, the same techniques could be repurposed for modern security analysis, legacy code deobfuscation, or even decoding encrypted communications in real time.\n\nIf a centuries‑old cipher can be cracked, what other entrenched problems—be they in cybersecurity, data recovery, or historical research—are waiting for a similar AI‑driven key?\n\n#AI #Cryptography #MachineLearning #History #TechInnovation",
+  "status": "pending"
+}
