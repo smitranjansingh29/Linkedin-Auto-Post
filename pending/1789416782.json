@@ -1,0 +1,13 @@
+{
+  "id": "1789416782",
+  "story": {
+    "title": "An atlas of periodic solutions to the three-body problem",
+    "url": "https://www.threebodyorbits.com/",
+    "source": "Hacker News",
+    "score": 288,
+    "fetched_at": 1789416768,
+    "trend_score": 38.8
+  },
+  "draft": "A single image can capture centuries of chaos—this new atlas maps thousands of periodic three‑body orbits in stunning detail.\n\nI spent the weekend exploring the interactive gallery at threebodyorbits.com. What struck me was how the visual patterns reveal families of solutions that were only hinted at in textbooks. By cataloguing these trajectories, researchers now have a concrete dataset to train AI models that predict stability zones, something that could accelerate mission design for multi‑satellite constellations.\n\nBeyond aerospace, the atlas offers a playground for anyone interested in dynamical systems. Seeing the symmetry break and re‑emerge across different mass ratios makes the abstract math feel tangible, and it suggests new ways to benchmark numerical solvers.\n\nDo you think visual atlases like this could become standard reference tools for AI‑driven physics research?  \n\n#computationalphysics #AIresearch #dynamicalsystems #orbitalmechanics #datascience",
+  "status": "pending"
+}
