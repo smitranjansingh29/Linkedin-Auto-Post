@@ -1,0 +1,13 @@
+{
+  "id": "1789500912",
+  "story": {
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "url": "https://github.com/arnegiacomo/fugleramme",
+    "source": "Hacker News",
+    "score": 946,
+    "fetched_at": 1789500908,
+    "trend_score": 60.0
+  },
+  "draft": "A silent wall that turns bird songs into Victorian‑style sketches.\n\nI stumbled on a GitHub project that combines an e‑ink display, a microphone, and a lightweight neural net to identify passing birds and render them as 1800s illustrations. The whole loop runs on a modest single‑board computer, keeping power draw low enough for a year‑long deployment on a wall frame.\n\nWhat strikes me is the elegance of the constraints: low‑resolution e‑ink forces the model to simplify, which in turn produces artwork that feels authentic to the era it mimics. It’s a reminder that limiting hardware can actually guide creative AI outcomes, rather than the usual “more compute = better results” mindset.\n\nI’m curious how many other sensory‑to‑art pipelines we could build with similar frugal setups—perhaps soil moisture to watercolor landscapes, or city noise to abstract line work.\n\nWhat everyday data streams would you like to see transformed into art?\n\n#eInk #AIArt #EdgeComputing #OpenSource #TechArt",
+  "status": "pending"
+}
