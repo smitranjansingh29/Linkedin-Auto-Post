@@ -1,0 +1,13 @@
+{
+  "id": "1789512400",
+  "story": {
+    "title": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "source": "Hacker News",
+    "score": 525,
+    "fetched_at": 1789512395,
+    "trend_score": 63.0
+  },
+  "draft": "I’ve been watching the AI tooling landscape drift toward monoliths—System One flips that script.\n\nSystem One introduces a typed model catalog that lets us declare inputs, outputs, and version constraints in code. The result is a compile‑time safety net that catches mismatched tensors before they hit production. Coupled with Jev, a lightweight evaluation harness, we can spin up reproducible benchmarks with a single command, keeping the feedback loop tight.\n\nWhat excites me most is the shift from “run‑any‑model” to “run‑the‑right‑model” without sacrificing agility. By treating models as first‑class, versioned artifacts, we get the same confidence we expect from traditional software libraries, but for AI workloads.\n\nHow are you balancing model agility with production stability in your stack?  \n#MachineLearning #AIEngineering #TypeSafety #ModelOps #OpenSource",
+  "status": "pending"
+}
