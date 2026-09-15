@@ -1,0 +1,13 @@
+{
+  "id": "1789478312",
+  "story": {
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "source": "Hacker News",
+    "score": 488,
+    "fetched_at": 1789478310,
+    "trend_score": 61.8
+  },
+  "draft": "When an AI model knows a vulnerability before anyone else, the alarm bells should ring.  \n\nI was surprised to learn that OpenAI’s chatbots were already aware of the RubyGems caching flaw that only surfaced publicly days later. The bots must have ingested data from internal security reports, issue trackers, or even private discussions—sources that are typically off‑limits to the public. This isn’t just a curiosity; it’s a reminder that the training pipelines for large models can become accidental repositories of sensitive security intel.\n\nTwo takeaways for me:  \n\n- **Data hygiene matters** – If we feed models any unfiltered logs, bug reports, or internal memos, we risk leaking that knowledge back to users.  \n- **Supply‑chain visibility** – Open‑source ecosystems like RubyGems already struggle with trust; an AI that can surface hidden exploits adds another layer of complexity to risk management.\n\nWhat steps are you taking to audit the data that powers your AI tools and prevent unintended disclosures?  \n\n#AIsecurity #OpenSourceRisk #MachineLearning #CyberThreats #DevOpsInsight",
+  "status": "pending"
+}
