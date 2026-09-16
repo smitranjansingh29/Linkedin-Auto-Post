@@ -1,0 +1,13 @@
+{
+  "id": "1789586798",
+  "story": {
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+    "url": "https://github.com/arnegiacomo/fugleramme",
+    "source": "Hacker News",
+    "score": 1935,
+    "fetched_at": 1789586794,
+    "trend_score": 60.0
+  },
+  "draft": "What if your living room could sketch the song of a sparrow in Victorian ink?\n\nI stumbled on a GitHub project that turns an e‑ink frame into a bird‑song listener and illustrator. The device captures audio, runs a lightweight classifier to identify species, then feeds the result into a style‑transfer model that renders a 1800s‑style drawing on the low‑power screen. The whole loop runs on a modest microcontroller, proving that sophisticated perception and generative art don’t always need a cloud.\n\nTo me, this is more than a novelty. It demonstrates how edge AI can fuse sensory data with cultural aesthetics, opening doors for real‑time bioacoustic monitoring, ambient art installations, or even educational tools that teach species identification through visual storytelling. The open‑source nature also invites tweaks—imagine swapping the illustration style or adding seasonal motifs.\n\nI’m curious: what everyday objects could you reimagine as quiet observers that also create something beautiful?  \n\n#AI #Hardware #GenerativeArt #OpenSource #Bioacoustics",
+  "status": "pending"
+}
