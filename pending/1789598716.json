@@ -1,0 +1,13 @@
+{
+  "id": "1789598716",
+  "story": {
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "url": "https://mistral.ai/news/mistral-x-mozilla/",
+    "source": "Hacker News",
+    "score": 506,
+    "fetched_at": 1789598714,
+    "trend_score": 63.0
+  },
+  "draft": "What if your browser could think in every language without ever leaving your device?  \n\nMistral’s new X model is now embedded in Mozilla, delivering on‑device inference that keeps prompts and data local. The multilingual core handles dozens of languages, meaning users can ask complex queries in their native tongue without a cloud round‑trip.  \n\nFrom my perspective, this is a turning point for privacy‑first AI: the trade‑off between model size and responsiveness is finally being tackled on the edge, and it could level the playing field for non‑English speakers who have long been dependent on centralized services.  \n\nI’m curious how developers will adapt their web apps to leverage this on‑device intelligence while respecting the limited compute budget of browsers.  \n\nHow do you see private, on‑device AI reshaping the web experience for global users?  \n\n#AI #Privacy #Multilingual #EdgeComputing #BrowserTech",
+  "status": "pending"
+}
