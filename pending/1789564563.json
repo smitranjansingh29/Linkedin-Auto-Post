@@ -1,0 +1,13 @@
+{
+  "id": "1789564563",
+  "story": {
+    "title": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "source": "Hacker News",
+    "score": 1546,
+    "fetched_at": 1789564559,
+    "trend_score": 63.0
+  },
+  "draft": "A new take on “fast thinking” for LLMs just landed, and it feels like a missing piece in the current AI toolbox.\n\nSystem One models, as Typesafe AI describes, are lightweight, single‑pass networks that emulate the brain’s quick, intuitive responses. Unlike the heavyweight, multi‑step “System Two” pipelines we’ve been building, these models aim to produce useful outputs with a single forward pass—cutting latency and compute cost dramatically. The accompanying framework, Jev, lets you spin up, benchmark, and compose these models with a few lines of Scala, bridging the gap between research prototypes and production services.\n\nWhat struck me most is the pragmatic focus on “good enough” rather than perfect. In many real‑world scenarios—search autocomplete, anomaly alerts, or edge‑device inference—the latency budget is tighter than our appetite for exhaustive reasoning. System One gives us a calibrated trade‑off: acceptable accuracy at a fraction of the resource bill. Jev’s composability also means we can layer a System One pass before a deeper System Two refinement only when needed, creating a dynamic cascade that adapts to workload pressure.\n\nI’m curious: how many of your current pipelines could benefit from a fast, first‑pass model before falling back to a heavyweight scorer? Could this hybrid approach become the new default for latency‑sensitive AI?\n\n#MachineLearning #LLM #Scala #AIInfrastructure #PerformanceEngineering",
+  "status": "pending"
+}
