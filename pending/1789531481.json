@@ -1,0 +1,13 @@
+{
+  "id": "1789531481",
+  "story": {
+    "title": "Introducing System One Models and Jev",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "source": "Hacker News",
+    "score": 927,
+    "fetched_at": 1789531477,
+    "trend_score": 63.0
+  },
+  "draft": "I just ran a quick experiment with System One’s new Model API—and it feels like the missing type‑safe bridge between research notebooks and production services.\n\nSystem One Models let you declare input and output schemas in Scala, so the compiler catches shape mismatches before a single request hits the model. The framework also ships with **Jev**, a lightweight inference engine that spins up on‑demand without the overhead of a full‑blown serving stack. In practice, I could swap a BERT‑based classifier for a fine‑tuned GPT variant with a single line change, and the type system guaranteed that downstream code still compiled.\n\nWhat excites me most is the shift from “run‑time surprises” to “compile‑time confidence.” That changes how we think about model versioning: instead of guarding every deployment with integration tests, the language itself becomes the first line of defense. It could free data teams to iterate faster while keeping production stability.\n\nDo you think a type‑safe approach could become the new standard for AI pipelines in your organization?\n\n#Scala #MachineLearning #TypeSafety #AIEngineering #OpenSource",
+  "status": "pending"
+}
