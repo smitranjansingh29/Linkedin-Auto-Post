@@ -1,0 +1,13 @@
+{
+  "id": "1789685057",
+  "story": {
+    "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+    "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+    "source": "Hacker News",
+    "score": 472,
+    "fetched_at": 1789685053,
+    "trend_score": 57.2
+  },
+  "draft": "Japan just put a new CPU on the world stage.\n\nFujitsu’s “MONAKA” is the first high‑performance processor designed and fabricated entirely in Japan. It promises a tighter supply chain, lower latency for domestic AI workloads, and a design that prioritises security‑by‑hardware—something we’ve been lacking in a market dominated by overseas fabs.\n\nWhat catches my eye is the timing. As global chip shortages ease, a home‑grown silicon strategy could give Japanese firms a competitive edge in edge‑AI and autonomous systems, while also reducing geopolitical risk. If the architecture lives up to its specs, we might see a shift in how multinational cloud providers source their compute.\n\nI’m curious: will other regions follow suit and build sovereign processors, or will they double‑down on existing ecosystems?  \n\n#Fujitsu #CPU #Semiconductor #AI #TechIndependence",
+  "status": "pending"
+}
