@@ -1,0 +1,13 @@
+{
+  "id": "1789650755",
+  "story": {
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "source": "Hacker News",
+    "score": 595,
+    "fetched_at": 1789650751,
+    "trend_score": 66.0
+  },
+  "draft": "A 4‑billion‑parameter model can rewrite SQL execution plans 81 % faster than vanilla Postgres.\n\nI dug into the QORL project and was struck by two things: first, the model learns to predict cost‑based plans directly from query text, sidestepping the hand‑crafted heuristics that have defined relational engines for decades. Second, the training pipeline relies on millions of real‑world workloads, showing that scaling data, not just parameters, is the real catalyst for performance gains.\n\nThe results are promising, but they raise practical questions. Deploying a heavyweight model in a latency‑sensitive DB layer demands clever caching or distillation strategies, and we still need to understand how well the model generalizes to schema changes or exotic workloads.\n\nIf AI can out‑think the optimizer we’ve been polishing for 40 years, what new responsibilities will DBAs and developers face? How should we balance model transparency with raw speed?\n\n#AI #Database #MachineLearning #QueryOptimization #OpenSource",
+  "status": "pending"
+}
