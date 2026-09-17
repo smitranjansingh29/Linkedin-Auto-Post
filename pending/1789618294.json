@@ -1,0 +1,13 @@
+{
+  "id": "1789618294",
+  "story": {
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "url": "https://rohanbansal.com/qorl",
+    "source": "Hacker News",
+    "score": 445,
+    "fetched_at": 1789618290,
+    "trend_score": 60.5
+  },
+  "draft": "What if your database could think like a transformer?\n\nI’ve been digging into the recent QORL project, where a 4 billion‑parameter model learns to generate query plans that run up to 81 % faster than native PostgreSQL. The authors trained the model on a massive corpus of real‑world workloads, letting it internalize cost patterns that traditional optimizers approximate with static heuristics.\n\nTwo things stand out to me: first, the model’s ability to generalize across schemas suggests we’re moving from hand‑crafted rule sets to data‑driven reasoning. Second, the speed gains come without any hardware changes—just smarter planning. That flips the usual performance‑tuning narrative on its head.\n\nI’m curious how many of us will start treating the optimizer itself as a first‑class AI service rather than a static component. Could we eventually see a plug‑and‑play optimizer that adapts on the fly to each workload?\n\nHow do you see AI reshaping the core of our data stacks?\n\n#AI #Database #MachineLearning #QueryOptimization #OpenSource",
+  "status": "pending"
+}
