@@ -1,0 +1,13 @@
+{
+  "id": "1789747565",
+  "story": {
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "url": "https://prismml.com/news/bonsai-2-27b",
+    "source": "Hacker News",
+    "score": 524,
+    "fetched_at": 1789747563,
+    "trend_score": 63.0
+  },
+  "draft": "A 27‑billion‑parameter model that fits in a laptop?\n\nBonsai 2 27B shows that we can shrink a state‑of‑the‑art LLM to 1/9 of its original footprint while staying within a few percent of the baseline perplexity. The paper attributes the gain to a hybrid quant‑aware training pipeline that mixes 4‑bit weight sharing with adaptive activation scaling.  \n\nWhat caught my eye is the “near‑lossless” claim: the model’s downstream task scores barely dip, yet the memory and compute budget drops dramatically. That opens the door for on‑device inference on high‑end phones or edge servers without offloading to the cloud. It also forces us to rethink the economics of model scaling—size is no longer a hard ceiling, but a tunable knob.\n\nI’m curious how this compression will affect fine‑tuning workflows. If we can start from a tiny, high‑capacity base, does that reduce the data needed for domain adaptation, or do we simply shift the bottleneck to the quantization step?\n\nWould you consider swapping a massive GPU‑hosted model for a compressed version on the edge in your next project?\n\n#MachineLearning #ModelCompression #LLM #EdgeAI #AIResearch",
+  "status": "pending"
+}
