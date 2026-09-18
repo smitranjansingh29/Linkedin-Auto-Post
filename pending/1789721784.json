@@ -1,0 +1,13 @@
+{
+  "id": "1789721784",
+  "story": {
+    "title": "Hister: A private search engine for the pages you visit and the files you keep",
+    "url": "https://github.com/asciimoo/hister",
+    "source": "Hacker News",
+    "score": 596,
+    "fetched_at": 1789721780,
+    "trend_score": 60.0
+  },
+  "draft": "What if your browser history became a searchable knowledge base—without ever leaving your laptop?\n\nI’ve been playing with Hister, an open‑source tool that indexes every page you visit and the files you keep locally. It runs entirely on your machine, storing data in a lightweight SQLite DB and offering instant full‑text search. No cloud, no third‑party API, just your own indexed archive.\n\nWhat stands out to me is the shift in control: you can query past research, revisit snippets, or locate a forgotten PDF in seconds, all while keeping the data under your own encryption keys. The trade‑off is the responsibility to secure that local store and to manage the growth of the index over time—something cloud services abstract away.\n\nIf you’re already using tools like Notion or Google Search for personal knowledge, consider whether a self‑hosted engine could replace them for privacy‑first workflows.\n\nWould you trust a locally‑run search engine to replace your usual cloud‑based history tools?\n\n#Privacy #OpenSource #SearchEngine #Productivity #TechTools",
+  "status": "pending"
+}
