@@ -1,0 +1,13 @@
+{
+  "id": "1789770248",
+  "story": {
+    "title": "Cloudflare Quick Tunnels",
+    "url": "https://try.cloudflare.com/",
+    "source": "Hacker News",
+    "score": 487,
+    "fetched_at": 1789770243,
+    "trend_score": 61.7
+  },
+  "draft": "I just tried Cloudflare’s Quick Tunnels and it felt like a cheat code for local development.\n\nInstead of fiddling with NAT, firewalls, or third‑party proxies, a single command spins up a secure, globally routable endpoint that sits on Cloudflare’s edge. The tunnel terminates inside the network, so traffic never traverses the public internet unencrypted.\n\nWhat stands out to me is the built‑in Zero Trust policies. I can restrict access by identity, enforce TLS, and still keep the latency you’d expect from a CDN. For small teams or solo developers, that means faster iteration without compromising security.\n\nIf you could expose any local service instantly, what would you build next?\n\n#Cloudflare #QuickTunnels #DevOps #Security #WebDevelopment",
+  "status": "pending"
+}
