@@ -1,0 +1,13 @@
+{
+  "id": "1789790035",
+  "story": {
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "source": "Hacker News",
+    "score": 628,
+    "fetched_at": 1789790029,
+    "trend_score": 63.0
+  },
+  "draft": "A new Android release just broke a decade‑old convention.\n\nAndroid 17 is the first version since the 3.x era to introduce fresh system APIs without first publishing them to AOSP. The changes landed directly in the proprietary stack, meaning developers get access only through the official SDK, while the open‑source community watches from the sidelines.\n\nWhat does this mean for us?  \n- **Fragmentation risk:** Independent ROMs and security‑focused forks lose a predictable upgrade path, forcing them to either reverse‑engineer or stay on older builds.  \n- **Speed vs. transparency:** Google can ship features faster, but the trade‑off is reduced visibility into low‑level behavior—something that matters when we audit permissions or harden devices.  \n- **Opportunity for tooling:** The gap creates a niche for third‑party analysis tools that surface undocumented APIs, a space where open‑source contributors can still add value.\n\nI’m curious: how are you balancing the need for cutting‑edge Android features with the desire to keep your stack auditable and reproducible?  \n\n#AndroidDevelopment #OpenSource #MobileSecurity #APIs #TechPolicy",
+  "status": "pending"
+}
