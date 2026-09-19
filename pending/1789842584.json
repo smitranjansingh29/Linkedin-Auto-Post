@@ -1,0 +1,13 @@
+{
+  "id": "1789842584",
+  "story": {
+    "title": "I Built Non-Autoregressive Decision Models with RL a Year Ago",
+    "url": "https://laya.convaiinnovations.com/",
+    "source": "Hacker News",
+    "score": 705,
+    "fetched_at": 1789842578,
+    "trend_score": 63.0
+  },
+  "draft": "I proved you can skip the token‑by‑token grind and still let a model learn to act.\n\nA year ago I built a non‑autoregressive decision model trained with reinforcement learning. Instead of generating one step after another, the network predicts the entire action set in parallel and receives a single reward signal. The result was a 3‑5× speedup on benchmark tasks with only a modest drop in optimality.\n\nWhat surprised me most wasn’t the raw latency gain—it was how the RL signal forced the model to discover coordinated strategies that a classic autoregressive decoder would never explore. The trade‑off between parallelism and precision feels like a new design knob for any system where decisions must be made under tight time constraints.\n\nI’m curious: which real‑world pipelines could tolerate a little “wiggle room” in exchange for massive throughput?  \n\n#ReinforcementLearning #NonAutoregressive #AIResearch #MachineLearning #DecisionMaking",
+  "status": "pending"
+}
