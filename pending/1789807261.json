@@ -1,0 +1,13 @@
+{
+  "id": "1789807261",
+  "story": {
+    "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+    "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+    "source": "Hacker News",
+    "score": 806,
+    "fetched_at": 1789807257,
+    "trend_score": 63.0
+  },
+  "draft": "A new Android release just broke a decade‑long pattern: Android 17 ships fresh APIs that never made it into the open‑source tree.\n\n- Google’s decision to keep these interfaces private feels like a subtle shift toward a more closed platform, even as the core OS remains open source. It gives OEMs and app developers a narrower window to experiment, but it also raises the bar for compatibility testing.\n- For security‑focused projects like GrapheneOS, the move is a double‑edged sword. On one hand, we gain powerful primitives that could harden devices; on the other, we lose the ability to audit and adapt them independently, potentially widening the trust gap.\n- From a developer’s perspective, the new APIs could accelerate feature roll‑outs on flagship devices, yet they may also fragment the Android ecosystem further, forcing us to maintain separate code paths for “AOSP‑only” versus “Google‑enhanced” builds.\n\nHow do you think this balance between innovation and openness will shape the next wave of Android apps and custom ROMs?\n\n#Android #OpenSource #MobileSecurity #DeveloperExperience #GrapheneOS",
+  "status": "pending"
+}
