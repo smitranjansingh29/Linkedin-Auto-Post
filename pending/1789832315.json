@@ -1,0 +1,13 @@
+{
+  "id": "1789832315",
+  "story": {
+    "title": "AI-generated posters don’t have to be horrible",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "source": "Hacker News",
+    "score": 643,
+    "fetched_at": 1789832310,
+    "trend_score": 63.0
+  },
+  "draft": "I stopped treating AI‑generated posters like an after‑thought.\n\nWhen I first fed a diffusion model a vague “tech conference flyer” prompt, the results were noisy, illegible, and frankly terrible. The breakthrough came when I stopped asking the model to guess the layout and instead gave it concrete constraints: a grid, a hierarchy of text, and a reference style sheet. By feeding the model a simple SVG skeleton and using CLIP‑guided loss for balance, the output kept the visual flair of AI while respecting basic design rules.\n\nA few practical takeaways that have worked for me:\n- **Prompt scaffolding** – start with “poster layout with three sections: header, central image, footer” before adding content details.\n- **Reference images** – supply a small set of brand‑consistent examples; the model learns composition faster than from text alone.\n- **Iterative curation** – generate a batch, rank with a quick human review, then feed the top picks back into the model for refinement.\n\nThe result feels less like a novelty and more like a usable asset that can be handed to a designer for final polish. I’m curious: what strategies have you found most effective for turning AI art into functional marketing assets?  \n\n#AI #Design #PromptEngineering #CreativeTech #MachineLearning",
+  "status": "pending"
+}
