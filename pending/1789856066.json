@@ -1,0 +1,13 @@
+{
+  "id": "1789856066",
+  "story": {
+    "title": "I built non-autoregressive decision models with RL a year ago",
+    "url": "https://laya.convaiinnovations.com/",
+    "source": "Hacker News",
+    "score": 990,
+    "fetched_at": 1789856062,
+    "trend_score": 63.0
+  },
+  "draft": "Non‑autoregressive decision models aren’t just a research curiosity—they can cut inference latency by an order of magnitude.\n\nA year ago I tackled the problem with reinforcement learning, replacing the usual sequential policy with a parallelizable architecture. The key was shaping the reward to penalize inconsistent actions early, so the model learned to coordinate its outputs without looking back. The result: comparable accuracy to autoregressive baselines, but inference that scales linearly with batch size instead of sequence length.\n\nTwo takeaways stuck with me. First, the reward design often matters more than the network tweaks; a well‑crafted penalty can steer a model toward truly parallel behavior. Second, debugging non‑autoregressive RL pipelines feels like hunting ghosts—most failures surface only when you inspect the joint action distribution, not individual steps.\n\nI’m curious: have you tried parallel decision policies in your own projects, and what tricks helped you keep the training stable?  \n\n#ReinforcementLearning #DecisionModels #AIResearch #MLEngineering #NonAutoregressive",
+  "status": "pending"
+}
