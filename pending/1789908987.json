@@ -1,0 +1,13 @@
+{
+  "id": "1789908987",
+  "story": {
+    "title": "AI-generated posters don’t have to be horrible",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "source": "Hacker News",
+    "score": 1644,
+    "fetched_at": 1789908985,
+    "trend_score": 63.0
+  },
+  "draft": "Good design can still come from a neural net.\n\nI’ve been watching the wave of AI‑generated event posters and, like many, I expected the usual garish mash‑ups. The underlying models are powerful, but without clear prompts and a sense of hierarchy they churn out noise. The recent write‑up on Hacker News shows how a few disciplined steps—curated style references, iterative prompt refinement, and a quick human touch—turn those generic outputs into usable assets.\n\nWhat surprised me most is how little “artistry” is required once the workflow is nailed down. A simple template for composition, a few seed images, and a feedback loop in seconds replace hours of manual layout. It’s not about replacing designers; it’s about extending our reach and freeing us to focus on the narrative, not the pixel grind.\n\nAre you experimenting with AI for visual work, and if so, what process tweaks have given you the best results?\n\n#AI #Design #GenerativeArt #Productivity #Tech",
+  "status": "pending"
+}
