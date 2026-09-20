@@ -1,0 +1,13 @@
+{
+  "id": "1789942617",
+  "story": {
+    "title": "ChatGPT now knows what you do on other websites via ad collector",
+    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+    "source": "Hacker News",
+    "score": 477,
+    "fetched_at": 1789942613,
+    "trend_score": 60.7
+  },
+  "draft": "When your chatbot can see the ads you click elsewhere, the privacy line blurs.  \n\nOpenAI has added an ad‑collector that streams recent browsing signals into ChatGPT. The model can now reference what you’ve been looking at on other sites, turning a pure conversation tool into a real‑time profile builder.  \n\nThat capability is a double‑edged sword. On one hand, richer context could make responses feel more relevant. On the other, it collapses the boundary between conversational privacy and the ad ecosystem, giving a single service a panoramic view of user behavior without a clear opt‑out. As someone building AI products, I’m uneasy about the precedent this sets for data silos and consent.  \n\nWe need transparent controls and a robust dialogue about where the line should be drawn. How do you think we should balance richer AI context with the right to keep our web behavior private?  \n\n#AI #Privacy #DataEthics #ChatGPT #TechPolicy",
+  "status": "pending"
+}
