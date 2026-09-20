@@ -1,0 +1,13 @@
+{
+  "id": "1789877466",
+  "story": {
+    "title": "AI-generated posters don’t have to be horrible",
+    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+    "source": "Hacker News",
+    "score": 1445,
+    "fetched_at": 1789877461,
+    "trend_score": 63.0
+  },
+  "draft": "AI can actually make event posters that look professional—if we stop treating the model like a random doodle generator.\n\nI tried the same diffusion pipeline many developers use to crank out “AI art” and got the usual garish, font‑clash nightmare. The breakthrough wasn’t a new model; it was a workflow: start with a clean layout template, feed the AI only the visual elements, and let a human pick the typography and hierarchy afterwards. By separating composition from text, the model focuses on color, texture, and imagery, while we retain control over readability.\n\nThree takeaways that changed the results:\n\n- **Prompt discipline:** Describe the scene, mood, and color palette, but leave font choices out of the prompt.  \n- **Iterative curation:** Generate a batch, pick the strongest visual, then apply a lightweight graphic‑design tool for the copy.  \n- **Style anchoring:** Use a reference image of a well‑designed poster to guide the model’s aesthetic, not a vague “modern” adjective.\n\nThe result is a poster that feels intentionally designed, not a mishmash of AI guesses. It shows that the “human‑in‑the‑loop” approach still matters, even when the heavy lifting is done by a model.\n\nHow are you balancing AI creativity with design discipline in your visual projects?  \n\n#AIArt #GraphicDesign #PromptEngineering #DiffusionModels #CreativeWorkflow",
+  "status": "pending"
+}
