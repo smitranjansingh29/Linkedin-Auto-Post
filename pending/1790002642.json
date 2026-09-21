@@ -1,0 +1,13 @@
+{
+  "id": "1790002642",
+  "story": {
+    "title": "ZuckOff Know when a camera is in the room",
+    "url": "https://zuckoff.app/",
+    "source": "Hacker News",
+    "score": 561,
+    "fetched_at": 1790002637,
+    "trend_score": 60.0
+  },
+  "draft": "Imagine your laptop silently telling you when a webcam is watching.\n\nI just tried ZuckOff, a lightweight app that pings you the moment a camera becomes active in the room. It hooks into the OS‑level device APIs, so even hidden or software‑enabled cameras trigger an alert. The UI is minimal—just a discreet icon and a push notification—yet the impact feels immediate.\n\nWhat this shows is a shift from passive consent to active awareness. In a world where video calls are the norm, we’re often oblivious to who’s listening. Tools like ZuckOff force a conversation about consent and could push manufacturers to build hardware‑level shutters as a default.\n\nDo you think we’ll see more “privacy‑first” utilities become a standard part of our daily workflow?  \n\n#Privacy #AI #Surveillance #Webcam #TechEthics",
+  "status": "pending"
+}
