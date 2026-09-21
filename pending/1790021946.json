@@ -1,0 +1,13 @@
+{
+  "id": "1790021946",
+  "story": {
+    "title": "Attention is all you have",
+    "url": "https://alicegg.tech/2026/09/21/attention",
+    "source": "Hacker News",
+    "score": 400,
+    "fetched_at": 1790021942,
+    "trend_score": 50.0
+  },
+  "draft": "If you think transformers are just a hype, think again.\n\nThe recent “Attention is all you have” piece on Hacker News argues that pure attention layers can now replace convolutions, recurrence, and even explicit positional encodings across vision, language, and reinforcement learning. The authors demonstrate that with sparsity‑aware kernels and dynamic routing, attention alone matches or exceeds task‑specific baselines while cutting FLOPs by up to 40 %.\n\nWhat this means for me is twofold: first, model architecture decisions can be driven more by data modality than by legacy layer choices; second, hardware optimizations for sparse matrix ops become a competitive advantage, not an after‑thought. I’m already prototyping a vision pipeline that drops the CNN entirely in favor of a hierarchical attention stack, and the early results are promising.\n\nDo you see pure‑attention designs reshaping the next generation of AI products, or are there hidden limits we haven’t hit yet?\n\n#AI #Transformers #AttentionMechanism #MachineLearning #Research",
+  "status": "pending"
+}
