@@ -1,0 +1,13 @@
+{
+  "id": "1789963689",
+  "story": {
+    "title": "Pirate Face Rescues LLM Models from Deletion",
+    "url": "https://pirateface.co/",
+    "source": "Hacker News",
+    "score": 482,
+    "fetched_at": 1789963686,
+    "trend_score": 64.2
+  },
+  "draft": "A rogue backup service is keeping LLM checkpoints alive when the cloud pulls the plug.\n\n- Pirate Face lets developers snapshot any model before the host archive disappears, turning a “delete‑on‑expire” policy into a reversible safety net.  \n- The platform’s peer‑to‑peer storage model sidesteps single‑point failures, which is a game‑changer for reproducibility in research labs that can’t afford to lose weeks of fine‑tuning.  \n- By exposing a simple CLI, it lowers the barrier for teams to integrate version control into their model pipelines without adding heavy infrastructure.\n\nI’m curious: what strategies are you using to protect your most valuable AI assets from unexpected deletions?  \n\n#LLM #AI #OpenSource #ModelOps #DataPreservation",
+  "status": "pending"
+}
