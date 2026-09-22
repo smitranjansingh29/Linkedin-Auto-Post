@@ -1,0 +1,13 @@
+{
+  "id": "1790082813",
+  "story": {
+    "title": "Transformers Explained Visually",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "source": "Hacker News",
+    "score": 482,
+    "fetched_at": 1790082810,
+    "trend_score": 61.2
+  },
+  "draft": "Seeing is believing when it comes to transformers.  \n\nI just walked through the visual explainer at Poloclub and the “attention matrix” finally stopped feeling like a black box. The interactive diagrams show how each token distributes its focus across the sequence, making the quadratic cost of self‑attention obvious at a glance.  \n\nWhat struck me most was the way positional encodings are visualized as a shifting wave—reminding me that without them, the model would have no notion of order despite processing everything in parallel. The step‑by‑step breakdown of multi‑head attention also clarifies why multiple heads capture complementary patterns rather than redundant copies.  \n\nI’m starting to use these visuals in my own workshops; they turn abstract math into something you can point to and explain in minutes.  \n\nHow are you leveraging visual tools to demystify complex AI concepts in your work?  \n\n#MachineLearning #Transformers #AI #DataScience #Education",
+  "status": "pending"
+}
