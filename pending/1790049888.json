@@ -1,0 +1,13 @@
+{
+  "id": "1790049888",
+  "story": {
+    "title": "MiMo v2.6",
+    "url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "source": "Hacker News",
+    "score": 641,
+    "fetched_at": 1790049883,
+    "trend_score": 60.0
+  },
+  "draft": "MiMo v2.6 finally bridges the gap between cloud‑grade performance and on‑device constraints.\n\nThe new release cuts inference latency by roughly 30 % while keeping the 7 B parameter count unchanged. Xiaomi achieves this by pruning redundant attention heads and introducing a mixed‑precision engine that leverages the latest Kirin‑9000 GPU. The result is a model that can run real‑time vision‑language tasks on a mid‑range smartphone without offloading to the cloud.\n\nWhat catches my eye is the open‑source licensing. By publishing the training recipe and quantization tools, Xiaomi invites the community to iterate on edge‑optimizations that were previously the domain of a handful of big players. This could democratize multimodal AI on consumer hardware and force larger providers to rethink their cloud‑first strategies.\n\nI’m curious: will we see a wave of truly offline AI experiences—think instant translation or visual search—that no longer depend on a persistent internet connection? Or will the ecosystem still gravitate toward hybrid models that ping the cloud for the heavy lifting?\n\n#AI #LLM #EdgeComputing #OpenSource #Xiaomi",
+  "status": "pending"
+}
