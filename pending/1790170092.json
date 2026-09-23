@@ -1,0 +1,13 @@
+{
+  "id": "1790170092",
+  "story": {
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "source": "Hacker News",
+    "score": 690,
+    "fetched_at": 1790170089,
+    "trend_score": 66.0
+  },
+  "draft": "When a 21st‑century AI cracks a WWII cipher, history feels immediate.  \n\nGPT‑6 “Astra” just decrypted an Enigma message that stumped experts for two decades. It didn’t rely on brute force; the model leveraged pattern recognition across massive linguistic corpora and a deep simulation of rotor mechanics. The result is a reminder that language models are evolving into general problem‑solvers, not just text generators.\n\nFor me, the breakthrough raises two questions. First, how many legacy cryptographic challenges are now within reach of LLMs, and what does that mean for current security standards? Second, the line between powerful analysis and privacy intrusion is blurring—are we prepared to set boundaries before the tools become ubiquitous?\n\nWhat safeguards should we prioritize as AI steps into cryptanalysis?  \n\n#AI #Cryptography #MachineLearning #Security #History",
+  "status": "pending"
+}
