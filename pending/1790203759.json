@@ -1,0 +1,13 @@
+{
+  "id": "1790203759",
+  "story": {
+    "title": "Jev in 25 Lines of Python",
+    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+    "source": "Hacker News",
+    "score": 605,
+    "fetched_at": 1790203755,
+    "trend_score": 60.0
+  },
+  "draft": "A 25‑line Python script that can parse and evaluate a tiny language?  \n\nI dug into the “Jev in 25 Lines of Python” post and was struck by how the author leverages Python’s `ast` module to turn a string into an executable abstract syntax tree with almost no boilerplate. The result is a minimalist REPL that supports basic arithmetic, variable assignment, and function calls—everything you need to experiment with language design without getting bogged down in parsing theory.\n\nWhat this shows is twofold: first, Python’s standard library still packs enough",
+  "status": "pending"
+}
