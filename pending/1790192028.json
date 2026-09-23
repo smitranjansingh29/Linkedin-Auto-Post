@@ -1,0 +1,13 @@
+{
+  "id": "1790192028",
+  "story": {
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "source": "Hacker News",
+    "score": 715,
+    "fetched_at": 1790192026,
+    "trend_score": 66.0
+  },
+  "draft": "When an AI cracks a 70‑year‑old cipher, the alarm bells start ringing.  \n\nGPT‑6 “Astra” just decoded an Enigma‑style message that has stumped researchers since 2005. The model leveraged massive language patterns and a fresh approach to statistical inference, turning a historic cryptographic dead‑end into a solved puzzle in minutes.\n\nWhat this shows is twofold: first, AI’s pattern‑recognition now rivals the best human cryptanalysts, suggesting we can revisit old, supposedly secure archives with fresh eyes. Second, it forces us to rethink the longevity of any encryption that relies solely on obscurity—what we thought was “unbreakable” may already be vulnerable.\n\n- Legacy systems may need immediate reassessment.  \n- AI‑driven decryption could become a standard forensic tool.  \n- The line between security research and weaponization grows thinner.\n\nI’m curious—what other long‑standing cryptographic challenges should we bring into the AI lab, and how can we balance discovery with responsible disclosure?  \n\n#AI #Cryptography #OpenAI #Security #MachineLearning",
+  "status": "pending"
+}
