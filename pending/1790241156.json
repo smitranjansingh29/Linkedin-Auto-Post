@@ -1,0 +1,13 @@
+{
+  "id": "1790241156",
+  "story": {
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "source": "Hacker News",
+    "score": 643,
+    "fetched_at": 1790241151,
+    "trend_score": 60.0
+  },
+  "draft": "Claude just identified a previously unknown enzyme system that carries CRISPR‑style repeat motifs.\n\nI’m impressed by how an LLM can sift through millions of papers, spot patterns that escape human eyes, and suggest a whole new class of molecular tools. It’s a reminder that AI isn’t just a speed‑up for coding—it’s becoming a partner in hypothesis generation.\n\nIf these repeats prove functional, we could have a fresh toolbox for precise genome manipulation, potentially sidestepping some of the delivery challenges that have hampered current CRISPR platforms. The real test will be moving from in‑silico prediction to wet‑lab validation, but the shortcut to that first clue is already here.\n\nWhat role do you see for generative AI in the early stages of biological discovery?  \n\n#AI #Biotech #GeneEditing #ScientificDiscovery #Anthropic",
+  "status": "pending"
+}
