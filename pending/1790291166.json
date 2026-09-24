@@ -1,0 +1,13 @@
+{
+  "id": "1790291166",
+  "story": {
+    "title": "F-Droid 2.0",
+    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "source": "Hacker News",
+    "score": 835,
+    "fetched_at": 1790291160,
+    "trend_score": 60.0
+  },
+  "draft": "F‑Droid 2.0 finally gives Android the open‑source app store it’s been missing.\n\nThe new release rewrites the client in Kotlin, adds a sandboxed installer, and introduces a metadata‑driven review pipeline that can reject malicious binaries before they reach users. For developers, the built‑in CI integration means a single push can publish a new version across all supported devices, cutting release friction dramatically.\n\nWhat stands out to me is the shift from a “catalog” mindset to a “trusted marketplace” model. By cryptographically signing every index entry and enforcing reproducible builds, F‑Droid is turning the old fear of “unvetted APKs” into a concrete security guarantee—something Google Play has struggled to articulate.\n\nI’m curious: will you start testing your next Android release on F‑Droid 2.0, or keep it as a niche fallback?  \n\n#Android #OpenSource #AppSecurity #DevOps #FOSS",
+  "status": "pending"
+}
