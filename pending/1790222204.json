@@ -1,0 +1,13 @@
+{
+  "id": "1790222204",
+  "story": {
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "source": "Hacker News",
+    "score": 548,
+    "fetched_at": 1790222198,
+    "trend_score": 60.0
+  },
+  "draft": "When a language model spots a new enzyme, the lab bench gets a fresh partner.  \n\nClaude, Anthropic’s LLM, flagged a previously unknown enzyme system that carries CRISPR‑like repeat sequences. The pattern suggests a natural, programmable nuclease—something we’ve only seen in a handful of bacterial families.  \n\n- This is the first time an AI has moved from text prediction to proposing a concrete biochemical mechanism. It shows that large models can sift through massive sequence databases and literature faster than any human team, surfacing hypotheses that would otherwise stay buried.  \n- The discovery also forces us to rethink validation pipelines. If an AI can generate a candidate, the bottleneck shifts to rapid experimental confirmation and clear attribution of intellectual property.  \n\nIf the system proves functional, we could add a whole new class of gene‑editing tools to the CRISPR toolbox, lowering barriers for labs that lack deep bio‑engineering resources.  \n\nWhat other scientific fields could be accelerated by AI‑driven hypothesis mining?  \n\n#AI #Biotech #SyntheticBiology #MachineLearning #CRISPR",
+  "status": "pending"
+}
