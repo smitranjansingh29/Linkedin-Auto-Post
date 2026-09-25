@@ -1,0 +1,13 @@
+{
+  "id": "1790342734",
+  "story": {
+    "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+    "url": "https://www.dawo.community/en/",
+    "source": "Hacker News",
+    "score": 509,
+    "fetched_at": 1790342729,
+    "trend_score": 60.0
+  },
+  "draft": "A sovereign cloud built on NixOS could rewrite the rulebook for public‑sector IT.\n\nThe Dutch government is funding an open‑source stack that mimics Microsoft’s core services—identity, collaboration, and device management—using Nix’s declarative, reproducible model. By baking the entire configuration into immutable artifacts, they can audit, patch, and roll back systems without the hidden layers typical of proprietary platforms.\n\nWhat excites me most isn’t just the cost savings; it’s the shift in control. When the OS and the service definitions live in a version‑controlled repository, policy compliance becomes a matter of code review, not vendor negotiation. It also forces a cultural change: engineers must think in terms of immutable infrastructure, which can raise the bar for security and reliability across the board.\n\nI’m curious—how many organizations are ready to trade the convenience of a single‑vendor ecosystem for the transparency and resilience that NixOS offers?\n\n#OpenSource #NixOS #DigitalSovereignty #PublicSectorTech #InfrastructureAsCode",
+  "status": "pending"
+}
