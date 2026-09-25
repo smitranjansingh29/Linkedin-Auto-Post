@@ -1,0 +1,13 @@
+{
+  "id": "1790377840",
+  "story": {
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "source": "Hacker News",
+    "score": 345,
+    "fetched_at": 1790377837,
+    "trend_score": 47.5
+  },
+  "draft": "The courts just confirmed that Anthropic is a “supply‑chain risk” for the Pentagon – and the ruling could reshape how we treat AI vendors.\n\n- A federal appeals panel upheld the Department of Defense’s decision to flag the startup, citing concerns over data provenance and export controls. This isn’t about competition; it’s about the integrity of the software that could end up in critical systems.\n- The precedent means any AI model that processes external data may face similar scrutiny, pushing vendors to harden their pipelines now rather than after an incident. It also signals that “risk” will be defined more by geopolitical factors than pure technical merit.\n- For founders, the message is clear: security and compliance can no longer be an afterthought. Building provenance logs, encryption‑first architectures, and transparent licensing will become prerequisites for government contracts and, increasingly, for enterprise customers.\n\nHow are you preparing your AI stack for a future where legal risk assessments start at the model‑training stage?  \n\n#AIRegulation #SupplyChainSecurity #TechLaw #StartupRiskManagement",
+  "status": "pending"
+}
