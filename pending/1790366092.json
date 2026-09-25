@@ -1,0 +1,13 @@
+{
+  "id": "1790366092",
+  "story": {
+    "title": "Why is the liver so weirdly regenerative?",
+    "url": "https://dynomight.substack.com/p/liver",
+    "source": "Hacker News",
+    "score": 537,
+    "fetched_at": 1790366089,
+    "trend_score": 60.0
+  },
+  "draft": "The liver can rebuild itself after losing up to 70 % of its mass—something no other organ does.\n\nI’ve been reading the recent deep‑dive on why the liver’s regenerative loop works so flawlessly. The key isn’t just a cocktail of growth factors; it’s a tightly coordinated feedback system that constantly monitors function, not just structure. When damage is detected, dormant progenitor cells are summoned, and the organ re‑optimizes its metabolic pathways on the fly.\n\nWhat strikes me as a parallel for software is the idea of “self‑healing” at the architectural level. Most systems rely on external monitoring and manual patches, but a truly regenerative design would embed continuous state validation and autonomous reconfiguration—much like the liver’s built‑in quality control. In AI, we see similar concepts with models that can detect drift and retrain themselves without full redeployment.\n\nIf we could translate that biological principle into our codebases, could we finally move beyond reactive debugging to truly resilient, self‑repairing software?\n\n#Biology #Regeneration #AI #Resilience #TechInsights",
+  "status": "pending"
+}
