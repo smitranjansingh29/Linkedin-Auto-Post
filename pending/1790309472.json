@@ -1,0 +1,13 @@
+{
+  "id": "1790309472",
+  "story": {
+    "title": "F-Droid 2.0",
+    "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+    "source": "Hacker News",
+    "score": 1023,
+    "fetched_at": 1790309468,
+    "trend_score": 60.0
+  },
+  "draft": "F‑Droid 2.0 finally breaks the glass ceiling that kept open‑source Android apps in the shadows.\n\nThe new release overhauls the client UI, adds deterministic builds, and introduces a signed‑by‑the‑developer verification flow. For me, the biggest win is the shift from a “download‑and‑trust” model to one where the repository can cryptographically prove that the binary matches the source code published by the maintainer. That alone raises the bar for supply‑chain security on Android devices that refuse to rely on Google Play.\n\nAt the same time, F‑Droid’s revamped metadata system makes it feasible to surface niche utilities alongside mainstream apps without sacrificing discoverability. If developers can reach users through a trusted, ad‑free channel, we might finally see a viable alternative to the Play Store’s monopoly on distribution.\n\nI’m curious: will you start publishing your next open‑source Android project on F‑Droid 2.0, or do you think the ecosystem still needs more momentum?  \n\n#Android #OpenSource #FOSS #AppDistribution #Privacy",
+  "status": "pending"
+}
