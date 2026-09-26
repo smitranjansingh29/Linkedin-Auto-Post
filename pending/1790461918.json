@@ -1,0 +1,13 @@
+{
+  "id": "1790461918",
+  "story": {
+    "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+    "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+    "source": "Hacker News",
+    "score": 611,
+    "fetched_at": 1790461916,
+    "trend_score": 60.0
+  },
+  "draft": "Free‑to‑use, no strings attached. Conversations just left Google Play and opened its doors to anyone willing to sideload.\n\nI’ve been following the shift for months: Google’s 30 % cut, opaque policy updates, and the growing friction for indie devs. By pulling the app, the creator not only avoids the revenue share but also re‑asserts control over updates and user data. For a messaging client that touts end‑to‑end encryption, that autonomy matters.\n\nThe move also forces us to rethink Android distribution. When a popular app goes “off‑store,” users must weigh convenience against privacy and the health of the ecosystem. It’s a reminder that the Play Store isn’t the only path, but it does raise questions about discoverability and security for the average user.\n\nWhat would it take for more developers to follow suit, and how would that reshape the Android landscape?\n\n#Android #OpenSource #AppDistribution #Privacy #DeveloperFreedom",
+  "status": "pending"
+}
