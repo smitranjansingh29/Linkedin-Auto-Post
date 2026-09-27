@@ -1,0 +1,13 @@
+{
+  "id": "1790516474",
+  "story": {
+    "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+    "url": "https://github.com/InfinityLoop1308/PipePipe",
+    "source": "Hacker News",
+    "score": 452,
+    "fetched_at": 1790516470,
+    "trend_score": 55.2
+  },
+  "draft": "A fork that finally gives YouTube viewers real control over sponsor segments.\n\nI’ve been following NewPipe for years because it lets us stream YouTube without the Google‑tracking stack. PipePipe pushes the project a step further by embedding SponsorBlock directly into the client. No more manual extensions or separate apps—skip sponsorships with a single tap, all while staying in an open‑source, privacy‑first environment.\n\n- The integration means the community‑maintained blocklist can be updated in real time, something NewPipe’s original architecture didn’t support natively.  \n- By handling the skip on the client side, PipePipe sidesteps the need for any server‑side ad‑tech, preserving bandwidth and reducing latency.  \n- It also raises an interesting governance question: as the blocklist grows, who decides what counts as a “sponsor” and how do we keep the filter transparent?\n\nI’m curious—do you think native SponsorBlock support will make open‑source YouTube clients a viable daily alternative for most users, or will platform restrictions eventually erode that advantage?  \n\n#OpenSource #PrivacyTech #YouTubeAlternatives #SponsorBlock #AndroidDev",
+  "status": "pending"
+}
