@@ -1,0 +1,13 @@
+{
+  "id": "1790549586",
+  "story": {
+    "title": "When did Google get so weird?",
+    "url": "https://sancho.bearblog.dev/google-weird/",
+    "source": "Hacker News",
+    "score": 470,
+    "fetched_at": 1790549581,
+    "trend_score": 57.0
+  },
+  "draft": "Google used to feel like a quiet, reliable engine—now it feels like a lab experiment gone rogue.\n\nI’ve been tracking the recent wave of oddball launches and feature rollbacks: AI‑driven search tweaks that sometimes miss the mark, experimental UI changes that disappear overnight, and a flurry of niche products that never seem to find a home. The pattern isn’t random; it’s a symptom of a company trying to reinvent itself in the AI arms race while still wrestling with legacy scale.\n\nWhat strikes me most is the cultural shift. Engineers who once built for stability are now encouraged to ship “crazy” prototypes quickly, accepting failure as a data point. That mindset can accelerate breakthroughs, but it also erodes the predictability that developers and users rely on.\n\nFor anyone building on Google’s platforms, the takeaway is clear: stay adaptable, but keep an eye on the signals that indicate whether a feature is a fleeting experiment or a long‑term commitment.\n\nDo you think this experimental approach will ultimately give Google an edge, or will it alienate the ecosystem that depends on its stability?\n\n#AI #ProductDesign #TechTrends #DeveloperExperience #GoogleInsights",
+  "status": "pending"
+}
