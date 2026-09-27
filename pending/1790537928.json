@@ -1,0 +1,13 @@
+{
+  "id": "1790537928",
+  "story": {
+    "title": "Go Concurrency Distilled",
+    "url": "https://antonz.org/go-concurrency-distilled/",
+    "source": "Hacker News",
+    "score": 348,
+    "fetched_at": 1790537926,
+    "trend_score": 44.8
+  },
+  "draft": "Go’s concurrency model feels like a breath of fresh air—if you treat goroutines and channels as the language’s native “actors,” you can sidestep a lot of the lock‑driven headaches that plague other stacks.\n\nI just finished “Go Concurrency Distilled” and the biggest takeaway for me was how the author frames *select* as a structured way to handle timeouts and cancellation, not just a multiplexing tool. By wiring context propagation into every goroutine, the code stays leak‑free without sprinkling manual cleanup everywhere.\n\nA couple of practical notes I’m already applying:\n- Keep goroutine lifetimes bounded by a single `context.Context`; it makes testing and shutdown trivial.\n- Prefer channel pipelines over shared mutable state; the compiler catches mismatched types early, and the runtime guarantees safe hand‑offs.\n- Use `sync.WaitGroup` only for “fire‑and‑wait” scenarios—mixing it with channels usually signals a design smell.\n\nDo you find yourself reaching for mutexes in Go when a channel‑first approach would be cleaner?  \n\n#golang #concurrency #softwareengineering #programming #opensource",
+  "status": "pending"
+}
