@@ -1,0 +1,13 @@
+{
+  "id": "1790569989",
+  "story": {
+    "title": "When did Google get so weird?",
+    "url": "https://sancho.bearblog.dev/google-weird/",
+    "source": "Hacker News",
+    "score": 945,
+    "fetched_at": 1790569984,
+    "trend_score": 60.0
+  },
+  "draft": "Google’s AI‑first push feels more like a hobby project than a product strategy.\n\nI’ve been watching the recent “weird” updates—Bard’s hallucinations, the experimental “Search Labs” UI, and the sudden rollout of Gemini across every consumer tool. Each rollout feels half‑baked, as if Google is testing the waters with a beta flag on for the world. The result? Users get inconsistent answers, developers scramble to patch flaky APIs, and the brand’s reliability, once its biggest asset, starts to wobble.\n\nWhat’s striking is the shift from incremental improvement to headline‑grabbing experiments. The company’s massive data pipelines could power far more stable, privacy‑first features, yet the focus is on flashy AI demos. In the long run, that trade‑off could erode trust faster than any competitor can capitalize on it.\n\nDo you think Google’s rapid AI experimentation will ultimately pay off, or is it risking the core value that made it the go‑to search engine?  \n\n#AI #SearchEngine #ProductStrategy #TechTrends #DeveloperCommunity",
+  "status": "pending"
+}
