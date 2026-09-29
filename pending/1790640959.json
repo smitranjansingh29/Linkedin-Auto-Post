@@ -1,0 +1,13 @@
+{
+  "id": "1790640959",
+  "story": {
+    "title": "Sonnet 5.5",
+    "url": "https://www.anthropic.com/claude-sonnet-5-5",
+    "source": "Hacker News",
+    "score": 535,
+    "fetched_at": 1790640956,
+    "trend_score": 60.0
+  },
+  "draft": "The new Claude Sonnet 5.5 feels like a quiet power shift.\n\nAnthropic just released Sonnet 5.5, a mid‑tier model that claims roughly 30 % better reasoning speed, a 2‑times larger context window, and a lower per‑token cost than its predecessor. The technical note highlights tighter safety tuning and a modest bump in code‑generation accuracy.\n\nFor me, the sweet spot is obvious: I can run more complex prompts in real time without blowing up the budget, and the longer context means fewer “chunk‑and‑continue” workarounds in document‑analysis pipelines. It also nudges the trade‑off curve between Claude’s flagship models and the cheaper, faster options—something many product teams have been wrestling with.\n\nI’m already sketching a prototype that stitches Sonnet 5.5 into our internal knowledge‑base search, hoping the expanded context will let the model surface nuanced answers that were previously lost in truncation. If the safety improvements hold up under stress testing, it could become the default for customer‑facing chatbots where compliance matters.\n\nWhat use case are you most excited to test with Sonnet 5.5?\n\n#AI #LLM #Anthropic #MachineLearning #ProductDevelopment",
+  "status": "pending"
+}
