@@ -1,0 +1,13 @@
+{
+  "id": "1790677831",
+  "story": {
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "url": "https://github.com/firelex/jeff",
+    "source": "Hacker News",
+    "score": 498,
+    "fetched_at": 1790677827,
+    "trend_score": 65.8
+  },
+  "draft": "Jeff’s 0.8 B decision model runs inference in ~30 ms on a consumer GPU—trained entirely on a laptop.\n\nI dug into the repo and was surprised by the simplicity of the training pipeline. By stripping away the transformer scaffolding and focusing on decision‑tree‑style layers, the author kept the parameter count low enough to fit in VRAM while still delivering near‑real‑time responses. The trade‑off is clear: you lose the flexibility of large language models, but you gain deterministic, low‑latency predictions that can be deployed on edge devices without a cloud contract.\n\nWhat this shows is that the “big‑model” narrative doesn’t have to dominate every use case. When the problem is classification or rule‑based inference, a purpose‑built 0.8 B model can be both affordable and performant. I’m curious how many teams will start building similar home‑trained, latency‑aware models for their specific domains.\n\nWould you consider swapping a generic LLM for a lightweight decision model if it met your speed and cost constraints?\n\n#MachineLearning #OpenSource #AIResearch #DecisionModels #HardwareEfficiency",
+  "status": "pending"
+}
