@@ -1,0 +1,13 @@
+{
+  "id": "1790779524",
+  "story": {
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "source": "Hacker News",
+    "score": 1005,
+    "fetched_at": 1790779521,
+    "trend_score": 63.0
+  },
+  "draft": "A $0.20‑per‑token LLM that rivals Astra?  \n\nOpenAI just unveiled GPT‑6.1 Sol, a model that delivers near‑Astra reasoning power while costing roughly a fifth of the price tag. The headline‑grabbing claim is backed by a mix of sparsity‑focused layers and an on‑the‑fly retrieval system that trims unnecessary compute.\n\nI see three immediate consequences:  \n- **Cost democratization** – Teams that previously needed multi‑million‑dollar budgets can now experiment with state‑of‑the‑art reasoning on a modest cloud spend.  \n- **Speed‑to‑market** – Faster iteration cycles become viable when inference budgets shrink, accelerating product development and research validation.  \n- **Competitive pressure** – Vendors locked into higher‑priced architectures will need to justify their premium or adopt similar efficiency tricks to stay relevant.\n\nIf the economics of top‑tier LLMs are changing this quickly, how are you adjusting your AI roadmap?  \n\n#MachineLearning #LLM #AIEconomics #OpenAI #TechStrategy",
+  "status": "pending"
+}
