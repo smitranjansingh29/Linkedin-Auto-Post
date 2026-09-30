@@ -1,0 +1,13 @@
+{
+  "id": "1790800758",
+  "story": {
+    "title": "You said no MCP",
+    "url": "https://earendil.com/posts/you-said-no-mcp/",
+    "source": "Hacker News",
+    "score": 542,
+    "fetched_at": 1790800754,
+    "trend_score": 63.0
+  },
+  "draft": "You can’t solve every problem by slapping “MCP” on it.\n\nI just read the Hacker News discussion around “You said no MCP.” The author dismantles the myth that a “Managed Control Plane” (MCP) magically solves scaling, observability, and security at once. By treating the control plane as a black box, teams often hide operational debt instead of confronting it. The post walks through real‑world cases where the supposed shortcut introduced hidden coupling and forced teams into vendor‑lock‑in.\n\nWhat resonated with me was the reminder that tooling should amplify, not replace, clear ownership. When a platform promises “set‑and‑forget,” the cost usually shows up later as debugging hell or performance cliffs. I’ve seen projects where a hastily adopted MCP delayed critical refactors for months, eroding trust in the platform itself.\n\nIf we keep questioning the allure of “one‑size‑fits‑all",
+  "status": "pending"
+}
