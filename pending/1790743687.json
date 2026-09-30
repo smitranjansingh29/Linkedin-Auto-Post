@@ -1,0 +1,13 @@
+{
+  "id": "1790743687",
+  "story": {
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "source": "Hacker News",
+    "score": 844,
+    "fetched_at": 1790743683,
+    "trend_score": 63.0
+  },
+  "draft": "What if you could run near‑Astra models for a fraction of the cost?\n\nOpenAI just unveiled GPT‑6.1 Sol, promising “near‑Astra” intelligence at roughly one‑fifth the price of its predecessor. The claim isn’t just about cheaper API calls; it’s a shift in the economics of high‑end LLMs. By optimizing the inference stack and leveraging newer hardware kernels, Sol delivers comparable reasoning speed while slashing the compute budget.\n\n- **Cost curve compression:** Startups and research teams can now experiment with state‑of‑the‑art prompts without draining venture capital.\n- **Hardware accessibility:** The reduced demand on GPUs opens the door for on‑prem deployments on mid‑tier clusters.\n- **Safety trade‑offs:** Faster, cheaper models may be rolled out more aggressively—raising the stakes for alignment testing before wide release.\n\nI’m curious: with the barrier to entry dropping, how will you rethink the balance between model capability, cost, and responsible deployment in your projects?\n\n#AI #MachineLearning #LLM #OpenAI #TechInnovation",
+  "status": "pending"
+}
