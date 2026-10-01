@@ -1,0 +1,13 @@
+{
+  "id": "1790888002",
+  "story": {
+    "title": "StreetComplete on iOS is now in public beta",
+    "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+    "source": "Hacker News",
+    "score": 471,
+    "fetched_at": 1790887998,
+    "trend_score": 57.1
+  },
+  "draft": "iOS users can finally map the world with StreetComplete.  \n\nThe public beta just landed on the App Store, bringing the Android‑first, gamified OSM editor to Apple devices. The repo now lists a full iOS build, test‑flight links, and a roadmap for parity with the Android feature set.\n\nFrom my perspective, this closes a long‑standing gap in community‑driven mapping. iOS holds a sizable share of the mobile market, yet many volunteers have been stuck on Android or web tools. By lowering the entry barrier on iPhone and iPad, we can expect a surge in localized data—especially in regions where iOS is dominant. The open‑source nature also means contributors can patch platform quirks directly, accelerating feature rollout.\n\nWhat challenges do you think the iOS version will face in catching up to its Android counterpart, and how can the community help smooth that transition?  \n\n#OpenSource #Mapping #iOS #OpenStreetMap #Community",
+  "status": "pending"
+}
