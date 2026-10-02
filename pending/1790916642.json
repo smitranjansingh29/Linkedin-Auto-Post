@@ -1,0 +1,13 @@
+{
+  "id": "1790916642",
+  "story": {
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "source": "Hacker News",
+    "score": 937,
+    "fetched_at": 1790916637,
+    "trend_score": 60.0
+  },
+  "draft": "Pi 1.0 shows how quickly an “assistant‑first” model can go from prototype to public rollout.\n\n- Inflection’s new model is built on a 2‑trillion‑parameter backbone but deliberately trims context windows to keep latency under 200 ms. The result is a chat experience that feels more “present” than the larger, slower LLMs we’ve been testing.\n- The team released a lightweight inference library that runs on a single RTX 4090, meaning hobbyists can now experiment with a model that was previously restricted to cloud‑only APIs. It’s a reminder that hardware‑efficient design can democratize cutting‑edge AI.\n- What surprised me most is the focus on safety primitives baked into the prompt‑engineering layer, rather than relying on post‑hoc moderation. It feels like a shift toward “guardrails‑by‑design” rather than bolt‑on filters.\n\nDo you think this approach will change the balance between accessibility and responsibility in AI development?\n\n#AI #MachineLearning #LLM #OpenSource #TechInnovation",
+  "status": "pending"
+}
