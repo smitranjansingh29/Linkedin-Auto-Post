@@ -1,0 +1,13 @@
+{
+  "id": "1790973000",
+  "story": {
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "source": "Hacker News",
+    "score": 334,
+    "fetched_at": 1790972996,
+    "trend_score": 43.4
+  },
+  "draft": "A law that asks the impossible just got a reality check.  \n\nUtah’s “VPN Transparency Act” required providers to retain every user’s traffic metadata and hand it over on demand. In practice, that demand collides with the very design of end‑to‑end encryption—there’s nothing to log once the data is encrypted. The court’s agreement with the EFF underscores that legislation can’t force a technical impossibility without violating both privacy expectations and basic engineering principles.\n\nFor developers, this ruling is a reminder that we must embed feasibility into policy discussions. When a law tries to mandate capabilities that break the underlying protocol, the result isn’t just a legal battle; it creates a chilling effect on innovation and forces companies to either risk non‑compliance or shut down services altogether.\n\nI see this as a precedent that could protect other states from similar overreach, but it also raises the question of how proactive we should be in shaping future tech policy.  \n\nHow should we, as engineers and product leaders, engage when legislation tries to outpace technology?\n\n#Privacy #VPN #TechLaw #EFF #Cybersecurity",
+  "status": "pending"
+}
