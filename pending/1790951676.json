@@ -1,0 +1,13 @@
+{
+  "id": "1790951676",
+  "story": {
+    "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "source": "Hacker News",
+    "score": 561,
+    "fetched_at": 1790951672,
+    "trend_score": 63.0
+  },
+  "draft": "What if we could fine‑tune a decision model without ever sharing its proprietary weights?\n\nI’ve been digging into Cloudflare’s new Clef platform. It separates the model’s architecture (the “open weight” part) from the data‑driven parameters, letting teams upload decision logic while keeping sensitive weight files on‑prem. The result is a collaborative playground where anyone can experiment with reinforcement‑learning fine‑tuning without exposing the core IP.\n\nTwo things stand out to me:\n- **Speed and cost:** By offloading the heavy lifting to Cloudflare’s edge, you can iterate on policies in seconds rather than hours, cutting compute bills dramatically.\n- **Privacy by design:** Open‑weight models let you audit the decision flow while the confidential weights stay locked, a rare combination in today’s AI stack.\n\nI’m curious—if you could decouple model logic from its learned parameters, how would that change the way you build and ship AI services?\n\n#MachineLearning #ReinforcementLearning #AIInfrastructure #OpenSource #DecisionModels",
+  "status": "pending"
+}
