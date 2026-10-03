@@ -1,0 +1,13 @@
+{
+  "id": "1791054360",
+  "story": {
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "source": "Hacker News",
+    "score": 756,
+    "fetched_at": 1791054357,
+    "trend_score": 60.0
+  },
+  "draft": "The Utah “VPN logging” statute is a textbook case of law meeting technical reality—and losing.\n\n- The law demanded that any VPN service retain a complete record of every user’s traffic, timestamps, and destination IPs. In practice, that would require a VPN to store petabytes of data per day while still delivering the low‑latency experience users expect—something no provider can feasibly do.\n- The court’s ruling, siding with the EFF, acknowledges that a regulation can be unenforceable when it asks for the impossible. It’s a reminder that legislators need to consult engineers before codifying privacy requirements.\n\nI see this as a win for privacy‑first design: when the law respects technical limits, developers can focus on real security innovations instead of building “paper compliance” workarounds.\n\nWhat steps can we take to ensure future policies are grounded in technical feasibility without sacrificing user rights?\n\n#Privacy #VPN #CyberLaw #EFF #TechPolicy",
+  "status": "pending"
+}
