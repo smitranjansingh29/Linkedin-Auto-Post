@@ -1,0 +1,13 @@
+{
+  "id": "1791033005",
+  "story": {
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "source": "Hacker News",
+    "score": 685,
+    "fetched_at": 1791033000,
+    "trend_score": 60.0
+  },
+  "draft": "A law that asks the impossible just got a legal reality check.  \n\nThe Utah legislature tried to require VPN services to block access to “objectionable” content, effectively demanding that providers know the destination of every encrypted packet and filter it in real time. As the EFF and I argued, that requirement contradicts the very definition of a VPN—its purpose is to hide traffic from anyone who can’t see inside the tunnel. The court’s ruling confirms that you can’t legislate a technical impossibility without breaking the protocol you’re trying to regulate.\n\nFor developers, this is a reminder that privacy‑by‑design isn’t a nice‑to‑have feature; it’s a safeguard against overreaching policy. When lawmakers try to force technical workarounds, they end up creating security holes that hurt the very users they claim to protect. The decision also sets a precedent that could deter other states from drafting similarly unworkable mandates.\n\nHow should we, as engineers and advocates, respond when legislation tries to outpace the technology it seeks to control?  \n\n#Privacy #VPN #TechLaw #EFF #SoftwareFreedom",
+  "status": "pending"
+}
