@@ -1,0 +1,13 @@
+{
+  "id": "1791002011",
+  "story": {
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+    "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "source": "Hacker News",
+    "score": 563,
+    "fetched_at": 1791002006,
+    "trend_score": 60.0
+  },
+  "draft": "The law that tried to make VPNs “turn off” for Utah residents is a dead end.\n\nI’ve been following the Utah “VPN ban” saga, and the recent court ruling with the EFF makes one thing clear: you can’t legislate a technical impossibility. The statute demanded that VPN providers block traffic to any site the state deems illegal—a requirement that contradicts how encryption and routing actually work. In practice, a VPN can’t selectively “un‑encrypt” or filter traffic without breaking the very service it promises.\n\nWhat this means for developers is twofold. First, any future privacy‑related legislation will need to be drafted with an understanding of the underlying protocols, or it will be tossed out as unworkable. Second, the decision reinforces the legal precedent that privacy‑preserving tools are not just optional add‑ons; they’re essential infrastructure that the law must respect, not undermine.\n\nI’m also thinking about the broader impact on state‑level attempts to control internet traffic. If Utah’s approach is invalidated, other jurisdictions will have to rethink how they target illicit content without compromising the technical foundations of the internet.\n\nHow do you think lawmakers should balance the desire to curb illegal activity with the technical realities of encryption and privacy tools?\n\n#PrivacyLaw #VPN #Cybersecurity #EFF #TechPolicy",
+  "status": "pending"
+}
