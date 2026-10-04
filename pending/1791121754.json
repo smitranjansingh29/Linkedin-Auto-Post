@@ -1,0 +1,13 @@
+{
+  "id": "1791121754",
+  "story": {
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "source": "Hacker News",
+    "score": 500,
+    "fetched_at": 1791121751,
+    "trend_score": 60.0
+  },
+  "draft": "Hard caps on resources aren’t just a nice‑to‑have—they’re becoming a safety net we can’t ignore.\n\nI’ve been following the push for default hard budget limits on everything from cloud VMs to AI model training. Without them, teams constantly chase performance and end up with surprise bills that stall projects. A hard cap forces us to ask “what’s the real cost of this feature?” before we ship.\n\nTwo things stand out to me:\n- **Predictability:** When the ceiling is set, engineering decisions become data‑driven rather than reactive to a growing invoice.\n- **Governance:** Hard limits give finance and security teams a concrete lever to enforce policy, turning budget discipline from a after‑thought into a built‑in constraint.\n\nThe trade‑off is clear: we might need to redesign workloads to stay within tighter bounds, but the upside is a more sustainable scaling model. I’m curious—how are you handling budget overruns in your current projects, and have you tried hard caps as a proactive measure?\n\n#CloudComputing #AI #FinOps #SoftwareEngineering #CostManagement",
+  "status": "pending"
+}
