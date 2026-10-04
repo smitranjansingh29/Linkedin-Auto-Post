@@ -1,0 +1,13 @@
+{
+  "id": "1791090245",
+  "story": {
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "source": "Hacker News",
+    "score": 547,
+    "fetched_at": 1791090241,
+    "trend_score": 63.0
+  },
+  "draft": "A truly sovereign LLM just landed.\n\nKolibri’s open‑weight architecture lets you download and run a state‑of‑the‑art model on‑premises, without any external API calls. That shifts the control loop back to the user: data never leaves your environment, and you can audit every weight.\n\nFor developers, the trade‑off is clear. You gain full privacy and compliance, but you also inherit the operational burden of managing compute and updates. In practice, this could democratize high‑performing AI for regulated industries that can’t trust cloud providers.\n\nI’m curious—if you could host a cutting‑edge LLM inside your own data center, what new applications would you unlock that are currently off‑limits?\n\n#AI #OpenSource #LLM #DataSovereignty #MachineLearning",
+  "status": "pending"
+}
