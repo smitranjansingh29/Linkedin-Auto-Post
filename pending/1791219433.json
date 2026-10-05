@@ -1,0 +1,13 @@
+{
+  "id": "1791219433",
+  "story": {
+    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+    "url": "https://github.com/Niko1221/Strata",
+    "source": "Hacker News",
+    "score": 891,
+    "fetched_at": 1791219429,
+    "trend_score": 60.0
+  },
+  "draft": "A 125‑billion‑parameter LLM on a single RTX 4090? It just happened.\n\nI spent the weekend testing the Strata repo that runs Qwen 3.8 Flash Next (125B) at roughly 100 T ops/s on consumer hardware. By combining 4‑bit quantization with FlashAttention‑2, the model fits into the 24 GB VRAM and still delivers near‑real‑time inference.\n\nWhat this tells me is that the “research‑only” barrier for massive LLMs is collapsing. Developers can now prototype with state‑of‑the‑art models without a multi‑node cluster, opening the door for rapid experimentation and niche applications that previously required cloud budgets.\n\nAt the same time, the setup is fragile: memory bandwidth, kernel optimizations, and careful prompt batching are still essential. Scaling beyond 125B will demand smarter off‑loading or newer GPU architectures, but the proof‑of‑concept is clear—high‑end consumer GPUs are becoming viable inference platforms.\n\nWhat do you think is the next realistic barrier for running even larger models on a desktop?\n\n#LLM #AIHardware #Quantization #DeepLearning #GPU",
+  "status": "pending"
+}
