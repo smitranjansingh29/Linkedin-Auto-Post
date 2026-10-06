@@ -1,0 +1,13 @@
+{
+  "id": "1791249169",
+  "story": {
+    "title": "Web Search API",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "source": "Hacker News",
+    "score": 479,
+    "fetched_at": 1791249165,
+    "trend_score": 60.9
+  },
+  "draft": "What if you could run a full‑text web search from the edge?\n\nCloudflare’s new Web Search API puts a searchable index directly behind its global network. By pulling the crawl, ranking and caching layers into the same edge fabric, latency drops dramatically and query costs stay predictable. For anyone building retrieval‑augmented generation pipelines, that means fresher context without the overhead of a separate search service.\n\n- The API returns structured snippets, not just URLs, making it easier to feed LLMs.\n- Rate‑limiting is tied to Cloudflare’s existing plan tiers, so scaling is a matter of traffic, not infrastructure.\n- Privacy‑by‑default: queries never leave the edge, which could be a differentiator for regulated industries.\n\nI’m curious—how many of you see this as a viable alternative to traditional search providers for AI‑driven products?\n\n#WebSearchAPI #EdgeComputing #AI #RetrievalAugmentedGeneration #Cloudflare",
+  "status": "pending"
+}
