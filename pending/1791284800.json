@@ -1,0 +1,13 @@
+{
+  "id": "1791284800",
+  "story": {
+    "title": "Web Search API",
+    "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+    "source": "Hacker News",
+    "score": 556,
+    "fetched_at": 1791284796,
+    "trend_score": 63.0
+  },
+  "draft": "Imagine a search engine that runs at the edge, not in a distant data center.\n\nCloudflare’s new Web Search API lets developers tap into real‑time indexing directly from the edge network. The latency drop alone feels like a paradigm shift—queries travel milliseconds instead of seconds, and the result set is already filtered by Cloudflare’s security layers.\n\nWhat excites me most is the privacy angle. Because the request never leaves the edge, user data stays out of the traditional search‑engine pipelines, opening a path for privacy‑first applications without building a full crawler stack.\n\nI’m curious: how many of you see this as a stepping stone toward decentralized search experiences, and where would you integrate it first?\n\n#WebSearchAPI #EdgeComputing #Cloudflare #AI #DeveloperTools",
+  "status": "pending"
+}
