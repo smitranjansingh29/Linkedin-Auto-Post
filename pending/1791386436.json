@@ -1,0 +1,13 @@
+{
+  "id": "1791386436",
+  "story": {
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "source": "Hacker News",
+    "score": 1106,
+    "fetched_at": 1791386432,
+    "trend_score": 63.0
+  },
+  "draft": "When an AI starts proving theorems, the math community sits up.\n\nI just read OpenAI’s “Sharing AI progress in mathematics” and it’s a reminder that breakthroughs happen fastest when we make the work transparent. By publishing model weights, datasets, and detailed evaluation scripts, they’re inviting researchers to reproduce, critique, and extend the results—not just celebrate a single headline.\n\nTwo things stand out to me. First, the models are already tackling problems that were previously out of reach for automated solvers, suggesting a new research assistant that can draft conjectures and check proofs. Second, the open‑source approach exposes the gaps—biases in training data, failure modes on obscure domains—so the community can collectively harden the tools before they become “black‑box” staples.\n\nIf we keep the momentum of open collaboration, AI could shift from a curiosity to a partner in discovery, accelerating fields that rely on deep, formal reasoning. The question is: how do we, as developers and researchers, ensure that this partnership respects rigor while remaining accessible?\n\nWhat safeguards or standards would you prioritize as we hand over more of the proof‑crafting to machines?  \n\n#AI #Mathematics #OpenSource #Research #MachineLearning",
+  "status": "pending"
+}
