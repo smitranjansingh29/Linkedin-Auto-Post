@@ -1,0 +1,13 @@
+{
+  "id": "1791349676",
+  "story": {
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "source": "Hacker News",
+    "score": 645,
+    "fetched_at": 1791349671,
+    "trend_score": 63.0
+  },
+  "draft": "AI is finally getting serious about proving theorems, not just crunching numbers.  \n\nOpenAI just opened the doors on its latest mathematics‑focused model, publishing both the code and a growing benchmark of solved problems. What caught my eye is the emphasis on transparent evaluation: they invite the community to stress‑test the system, surface failures, and improve the reasoning pipeline together. It’s a reminder that progress in symbolic AI still hinges on rigorous peer review, just like any new theorem.  \n\nI’m curious—how many of you see AI as a collaborator that can suggest proof strategies, and how many view it as a tool that still needs a human to certify the final steps?  \n\n#AI #Mathematics #OpenResearch #MachineLearning #OpenAI",
+  "status": "pending"
+}
