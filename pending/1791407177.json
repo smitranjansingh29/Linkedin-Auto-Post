@@ -1,0 +1,13 @@
+{
+  "id": "1791407177",
+  "story": {
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "source": "Hacker News",
+    "score": 1200,
+    "fetched_at": 1791407175,
+    "trend_score": 63.0
+  },
+  "draft": "When a model can prove theorems, the research community finally has a reason to celebrate openly.\n\nOpenAI just released the full suite of its latest math‑focused AI—datasets, training code, and the model weights themselves. By putting the entire pipeline on GitHub, they’re inviting anyone with a GPU to test, extend, or even break the system. This level of transparency is rare in a field where breakthroughs are often guarded until the next paper.\n\nTwo things stand out to me: first, the benchmark results show the model solving problems that previously required human insight, hinting that AI could become a genuine research partner rather than a glorified calculator. Second, open access means we can now measure progress on a common footing, reducing the “black‑box” hype that has clouded many recent claims.\n\nI’m curious—how many of you plan to experiment with these tools in your own work, and what safeguards should we put in place to ensure the math community benefits collectively rather than competitively?\n\n#AI #Mathematics #OpenSource #MachineLearning #Research",
+  "status": "pending"
+}
