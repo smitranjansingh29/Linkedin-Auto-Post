@@ -1,0 +1,13 @@
+{
+  "id": "1791473015",
+  "story": {
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "source": "Hacker News",
+    "score": 974,
+    "fetched_at": 1791473011,
+    "trend_score": 63.0
+  },
+  "draft": "A model that finally feels conversationally human.  \n\nClaude Haiku 5.5 arrives with a 30 % jump in context length and a tighter latency budget, meaning I can keep more of a project’s history in the prompt without sacrificing responsiveness. For me, that translates into fewer “memory‑reset” loops and smoother code‑review sessions with the assistant.  \n\nAnthropic’s focus on safety tweaks also shows up: the new refusal handling is less noisy, letting the model stay on task longer while still flagging risky suggestions. In practice, I’m seeing fewer false positives when it’s asked to generate production‑grade snippets.  \n\nIf the trade‑off holds—more context, better safety, and comparable pricing—will we start treating LLMs as persistent teammates rather than occasional tools?  \n\n#AI #LLM #Anthropic #ClaudeHaiku #MachineLearning",
+  "status": "pending"
+}
