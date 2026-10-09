@@ -1,0 +1,13 @@
+{
+  "id": "1791523312",
+  "story": {
+    "title": "Whistle: Speech to Text in 16.9 MB",
+    "url": "https://cactuscompute.com/blog/whistle",
+    "source": "Hacker News",
+    "score": 652,
+    "fetched_at": 1791523306,
+    "trend_score": 60.0
+  },
+  "draft": "A 16.9 MB model that transcribes speech? That’s the new baseline for edge AI.\n\nI dug into Whistle’s design and was surprised by how much they squeezed into a single‑digit megabyte file. By pruning aggressively and swapping to a lightweight transformer architecture, they keep word‑error rates within a few points of cloud‑grade models while staying under the memory limits of most microcontrollers.\n\n- No reliance on server‑side APIs means zero latency and true data sovereignty.  \n- The tiny footprint opens doors for offline transcription in wearables, IoT sensors, and low‑cost devices that previously couldn’t afford a neural net.  \n- It also forces us to rethink the “bigger is better” mantra—sometimes a lean model can win on cost, power, and privacy.\n\nI’m curious: as we push more AI to the edge, will we see a wave of ultra‑compact models replace the cloud‑centric pipelines we’ve built over the last decade?\n\n#SpeechToText #EdgeAI #ModelCompression #PrivacyFirst #MachineLearning",
+  "status": "pending"
+}
