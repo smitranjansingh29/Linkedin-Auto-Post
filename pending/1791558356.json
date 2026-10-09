@@ -1,0 +1,13 @@
+{
+  "id": "1791558356",
+  "story": {
+    "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+    "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+    "source": "Hacker News",
+    "score": 922,
+    "fetched_at": 1791558352,
+    "trend_score": 60.0
+  },
+  "draft": "Why does the most powerful LLM upgrade slip under the radar?\n\nDeepSeek just released 4.1 Flash—an architecture that shaves latency by 30% while keeping the same 175B parameter count. The paper shows impressive token‑per‑second gains on a single A100, and the open‑source community has already ported it to several inference stacks.\n\nWhat catches my eye isn’t the speed boost itself, but the muted market reaction. Most of the hype around LLMs has shifted from raw scale to alignment, safety, and multimodal capabilities. A 30 % latency win feels like an engineering refinement rather than a paradigm shift, especially when the broader AI narrative is dominated by foundation models that can see, hear, and act. In practice, many enterprises are already bottlenecked by data pipelines and cost, so a faster inference layer doesn’t immediately unlock new use cases.\n\nStill, I think we’re underestimating the cumulative effect of these incremental upgrades. If every major model improves latency by a similar margin, the cost of serving at scale could drop dramatically, making real‑time AI more viable for edge applications.\n\nAre we overlooking the strategic value of speed in the race to democratize AI services?  \n\n#DeepSeek #LLM #AIInfrastructure #MachineLearning #TechTrends",
+  "status": "pending"
+}
