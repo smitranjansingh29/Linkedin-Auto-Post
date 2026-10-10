@@ -1,0 +1,13 @@
+{
+  "id": "1791642037",
+  "story": {
+    "title": "Cloudflare acquires Deno",
+    "url": "https://deno.com/blog/cloudflare",
+    "source": "Hacker News",
+    "score": 1277,
+    "fetched_at": 1791642033,
+    "trend_score": 63.0
+  },
+  "draft": "Edge runtimes just got a power boost.\n\nCloudflare’s acquisition of Deno means the JavaScript/TypeScript runtime I’ve been watching will now run natively at the edge. The move gives developers a single, secure sandbox that combines Deno’s modern tooling with Cloudflare’s global network. I’m already seeing the first hints of tighter integration with Workers, which could reduce cold‑start latency and simplify dependency management.\n\nTwo implications stand out for me:\n\n- **Developer experience:** Deno’s built‑in permissions and ES‑module support could become the default for edge functions, lowering the barrier for teams that still wrestle with Node’s quirks.\n- **Platform competition:** By owning the runtime, Cloudflare can iterate faster than the typical “runtime‑as‑a‑service” model, potentially reshaping the serverless landscape and putting pressure on other edge providers.\n\nI’m curious: what edge use cases do you think will benefit most from a Deno‑powered stack?  \n\n#EdgeComputing #Deno #Cloudflare #Serverless #JavaScript",
+  "status": "pending"
+}
