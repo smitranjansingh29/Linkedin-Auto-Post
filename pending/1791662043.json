@@ -1,0 +1,13 @@
+{
+  "id": "1791662043",
+  "story": {
+    "title": "REA Reverse – Engineer Anything",
+    "url": "https://rea.tools/",
+    "source": "Hacker News",
+    "score": 633,
+    "fetched_at": 1791662040,
+    "trend_score": 60.0
+  },
+  "draft": "Ever tried to understand a black‑box binary in a day? REA Reverse promises exactly that.\n\n- REA Reverse lets you upload any executable and, using AI‑driven analysis, spits out annotated source‑like snippets. It’s not just a decompiler; it maps control flow, data structures, and even suggests original variable names.\n- The real kicker is the “Engineer Anything” mode, where you can ask the model to rewrite a function in a language of your choice or generate unit tests on the fly. It feels like having a senior engineer on standby for every legacy component.\n- I tested it on an old C library with no documentation. Within minutes I had a readable outline, enough to patch a critical bug without digging through obscure build scripts. The speed‑up for debugging and security audits is hard to ignore.\n\nIf tools like REA can reliably reconstruct intent from compiled code, we might see a shift from “write‑once, maintain forever” to “iterate‑fast on any artifact.” How would you integrate AI‑assisted reverse engineering into your development or security workflow?\n\n#ReverseEngineering #AI #SoftwareDevelopment #OpenSource #DeveloperTools",
+  "status": "pending"
+}
