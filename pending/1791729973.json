@@ -1,0 +1,13 @@
+{
+  "id": "1791729973",
+  "story": {
+    "title": "2D Vehicles",
+    "url": "https://patkerr.co.uk/2d-vehicles/",
+    "source": "Hacker News",
+    "score": 546,
+    "fetched_at": 1791729970,
+    "trend_score": 60.0
+  },
+  "draft": "A 2‑D car that feels like a real‑world machine? Turns out you can get surprisingly authentic handling without stepping into a full 3‑D engine.\n\nI dug into Pat Kerr’s latest write‑up, where he builds a complete vehicle system on top of Box2D. The trick isn’t more polygons—it’s how he models the suspension and tire friction as separate constraints. By treating each wheel as a small “motor” that applies torque based on slip angle, the car responds to steering input with a natural drift, even on a flat sprite canvas.\n\nWhat struck me most is the trade‑off he highlights: you can iterate on vehicle dynamics in minutes, then port the same parameters to a 3‑D physics engine later. For indie teams that can’t afford a full physics pipeline, a well‑tuned 2‑D prototype can de‑risk the whole gameplay loop before committing to heavy assets.\n\nWould you consider a 2‑D physics sandbox as the first step for your next vehicle‑centric game, or do you jump straight into 3‑D?  \n\n#GameDev #PhysicsSimulation #IndieDev #Box2D #Prototyping",
+  "status": "pending"
+}
