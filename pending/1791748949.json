@@ -1,0 +1,13 @@
+{
+  "id": "1791748949",
+  "story": {
+    "title": "3rd Yandex Cloud Data Center Was Hit",
+    "url": "https://status.yandex.cloud/en/incidents/2136",
+    "source": "Hacker News",
+    "score": 487,
+    "fetched_at": 1791748947,
+    "trend_score": 61.7
+  },
+  "draft": "Yandex Cloud’s third data‑center outage in a single week is a stark reminder that even the biggest providers can hit a single point of failure.\n\n- The incident was triggered by a network‑switch cascade, taking down compute, storage, and managed services across the region.  \n- Yandex’s public status page shows a 45‑minute recovery, but customers reported prolonged latency as services re‑balanced.  \n- For teams that rely on a single cloud, this is a costly lesson; diversifying workloads or using cross‑region failover can shave minutes off downtime and protect SLA commitments.\n\nI’m re‑evaluating my own cloud strategy—how many of you have built automated failover to another provider, and what’s been the biggest friction point?  \n\n#CloudComputing #YandexCloud #Reliability #MultiCloud #Infrastructure",
+  "status": "pending"
+}
