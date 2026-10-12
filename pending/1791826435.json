@@ -1,0 +1,13 @@
+{
+  "id": "1791826435",
+  "story": {
+    "title": "Fingerprints are the new cookies",
+    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+    "source": "Hacker News",
+    "score": 626,
+    "fetched_at": 1791826431,
+    "trend_score": 60.0
+  },
+  "draft": "Cookies are dying; browser fingerprints are taking their place.  \n\nI’ve been following the shift from first‑party cookies to probabilistic fingerprinting, and the momentum is undeniable. Modern browsers expose enough entropy—screen size, font list, hardware concurrency—that a unique profile can be built in milliseconds. For marketers it’s a goldmine, but for privacy advocates it’s a nightmare because users can’t clear a “fingerprint” the way they delete a cookie.\n\nFrom a developer’s standpoint this forces a rethink of consent flows. If a user opts out of tracking, we must now block or obfuscate the APIs that leak identifying signals, not just stop setting cookies. The emerging “privacy‑by‑design” libraries that randomize canvas, audio, and WebGL outputs feel like a necessary counter‑measure, but they also add complexity to performance testing.\n\nI’m curious: how are you adapting your product’s data collection strategy to survive in a world where fingerprints replace cookies?  \n\n#Privacy #BrowserFingerprinting #WebSecurity #AdTech #DataProtection",
+  "status": "pending"
+}
