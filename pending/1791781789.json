@@ -1,0 +1,13 @@
+{
+  "id": "1791781789",
+  "story": {
+    "title": "Total Annihilation, rebuilt for modern computers",
+    "url": "https://nanolathe.gg",
+    "source": "Hacker News",
+    "score": 427,
+    "fetched_at": 1791781785,
+    "trend_score": 52.7
+  },
+  "draft": "Total Annihilation finally runs on today’s hardware, and the community effort behind it is a reminder of why open‑source tooling matters.\n\n- The rebuild swaps the original DirectX engine for a modern OpenGL/Vulkan stack, fixing long‑standing crashes and unlocking higher resolutions without sacrificing the game’s classic feel.  \n- Source code released under a permissive license means anyone can contribute, test, and extend the project—turning a nostalgic title into a living codebase.  \n- Watching the patch process, I see a micro‑lesson in how legacy code can be refactored incrementally, a strategy that applies far beyond games.\n\nWhat legacy project in your toolbox could benefit from a similar community‑driven refresh?  \n\n#GameDev #OpenSource #SoftwarePreservation #RTS #TechHistory",
+  "status": "pending"
+}
