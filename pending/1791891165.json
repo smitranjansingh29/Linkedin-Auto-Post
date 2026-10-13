@@ -1,0 +1,13 @@
+{
+  "id": "1791891165",
+  "story": {
+    "title": "GLM-Legal",
+    "url": "https://z.ai/blog/glm-legal",
+    "source": "Hacker News",
+    "score": 583,
+    "fetched_at": 1791891161,
+    "trend_score": 60.0
+  },
+  "draft": "Legal AI finally gets a model that speaks the language of statutes, not just code.\n\nI’ve been watching the race to domain‑specific LLMs, and GLM‑Legal feels like the first serious attempt to bridge the gap between raw language power and the rigor of legal reasoning. By fine‑tuning the open‑source GLM‑130B on millions of Chinese court opinions, contracts, and regulatory texts, the team at Z.ai has delivered a model that can draft clauses, flag risky language, and even generate concise case briefs—all without the “hallucination” rates that plague generic models.\n\nTwo things stand out to me:\n\n- **Transparency** – The model and its training data are openly documented, letting practitioners audit its outputs against actual statutes. That’s a rare move in a space where black‑box models dominate.\n- **Workflow integration** – Early adapters report using GLM‑Legal through a simple API that plugs into existing document‑review tools, turning what used to be a manual slog into a conversational check‑list.\n\nIf we can trust a model to interpret law today, what does that mean for the future of legal research and the role of junior associates? Could we see a shift from rote document drafting to higher‑order strategic analysis?\n\n#LegalTech #AI #LargeLanguageModels #OpenSourceAI #LawInnovation",
+  "status": "pending"
+}
