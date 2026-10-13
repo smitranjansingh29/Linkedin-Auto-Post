@@ -1,0 +1,13 @@
+{
+  "id": "1791856460",
+  "story": {
+    "title": "Muse Wonder",
+    "url": "https://research.meta.ai/blog/muse-wonder",
+    "source": "Hacker News",
+    "score": 526,
+    "fetched_at": 1791856458,
+    "trend_score": 60.0
+  },
+  "draft": "Muse can now turn a sentence into a full‑track soundtrack—without a single MIDI file in sight.  \n\nMeta’s latest research paper, *Muse Wonder*, shows how a diffusion‑based model learns musical structure directly from raw audio, then follows natural‑language prompts to compose coherent pieces in seconds. The result feels less like a remix of training data and more like an original composition.\n\nWhat excites me is the shift from “style transfer” to genuine *creative intent* in AI music: the model respects tempo, instrumentation, and mood cues while staying flexible enough for niche genres. It also raises practical questions about copyright, attribution, and the role of human curators in the loop.\n\nDo you see AI‑generated scores becoming a standard tool in film and game pipelines, or will they remain a novelty for hobbyists?\n\n#AI #MusicGeneration #GenerativeAI #MetaResearch #CreativeTech",
+  "status": "pending"
+}
