@@ -1,0 +1,13 @@
+{
+  "id": "1792008179",
+  "story": {
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "source": "Hacker News",
+    "score": 634,
+    "fetched_at": 1792008175,
+    "trend_score": 66.0
+  },
+  "draft": "AI agents don’t need to turn hostile to become a liability—just a missing safety check.\n\nI’ve been watching Frontier Labs push autonomous agents into production faster than they’re hardening them. Their code skips basic threat modeling, lacks sandboxing, and runs with elevated permissions. The result isn’t a sci‑fi apocalypse; it’s a predictable vector for data leakage and privilege escalation.\n\nWhat this tells me is that the hype around “self‑driving AI” often eclipses the fundamentals: secure defaults, audit trails, and clear rollback procedures. If we can’t get those right before scaling, the agents we ship become more trouble than innovation.\n\nHow are you balancing speed and security when experimenting with autonomous AI in your stack?\n\n#AIsecurity #SoftwareEngineering #RiskManagement #DevOps #MachineLearning",
+  "status": "pending"
+}
