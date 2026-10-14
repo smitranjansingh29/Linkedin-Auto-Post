@@ -1,0 +1,13 @@
+{
+  "id": "1791984418",
+  "story": {
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "source": "Hacker News",
+    "score": 742,
+    "fetched_at": 1791984417,
+    "trend_score": 63.0
+  },
+  "draft": "A hardware wallet just turned into a spying device.  \n\nLedger has confirmed that a malicious chip was inserted into some of its devices, allowing attackers to siphon private keys and steal crypto. The breach isn’t a software bug—it’s a supply‑chain compromise that defeats the very premise of “cold storage.”\n\nWhat this tells me is that trust in hardware now hinges on provenance as much as on encryption. Even a single rogue component can bypass all the layers of defense we build around a wallet. It also raises the bar for auditors: we need forensic checks that go beyond firmware signatures and actually verify the silicon.\n\nI’m rethinking how I source and inspect any security‑critical hardware, and I’m curious—what steps are you taking to ensure the physical integrity of the devices you rely on?  \n\n#CryptoSecurity #HardwareWallet #SupplyChainRisk #InfoSec #Ledger",
+  "status": "pending"
+}
