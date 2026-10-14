@@ -1,0 +1,13 @@
+{
+  "id": "1791951118",
+  "story": {
+    "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+    "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "source": "Hacker News",
+    "score": 529,
+    "fetched_at": 1791951114,
+    "trend_score": 63.0
+  },
+  "draft": "A hidden chip turned my “cold” storage into a hot target.\n\nLedger just admitted that a sophisticated hardware implant was used to siphon crypto from its wallets. The device wasn’t a software bug—it was a physical component inserted somewhere along the supply chain, silently exfiltrating private keys.\n\nWhat this tells me is that even the most trusted “air‑gapped” solutions can be compromised before they ever reach a user’s desk. It forces us to rethink how we verify hardware provenance: random sampling, tamper‑evident seals, and perhaps a move toward open‑source silicon designs where the community can audit every layer.\n\nI’m also wondering whether the industry will shift toward multi‑device key management, where a single compromised wallet can’t empty an entire portfolio. If the attacker can embed a chip, can we design a detection mechanism that flags anomalous power draws or communication patterns?\n\nHow are you securing the hardware side of your crypto stack against supply‑chain threats?\n\n#CryptoSecurity #HardwareWallets #SupplyChain #InfoSec #Ledger",
+  "status": "pending"
+}
