@@ -1,0 +1,13 @@
+{
+  "id": "1792054860",
+  "story": {
+    "title": "Things to know when you get cancer",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "source": "Hacker News",
+    "score": 1307,
+    "fetched_at": 1792054856,
+    "trend_score": 60.0
+  },
+  "draft": "When a diagnosis hits, the flood of information can feel like raw data without a schema.\n\nI just read a candid piece on the practical realities of getting cancer. Beyond the medical facts, it reminded me how much we still need better tools to translate that chaos into actionable insight. In my work with AI, I see three immediate opportunities:\n\n- **Personalized knowledge graphs** that map a patient’s specific treatment options, side‑effects, and support resources, letting them query “What’s the recovery timeline for this regimen?” in plain language.  \n- **Predictive symptom analytics** that flag emerging issues before they become emergencies, turning scattered symptom logs into early‑warning signals.  \n- **Community‑driven data platforms** where anonymized experiences feed back into research, giving future patients a clearer roadmap.\n\nIf we can build systems that respect privacy while surfacing the right answers at the right time, we could shift the experience from overwhelming to manageable. What AI‑driven solution do you think could make the biggest difference for patients navigating a cancer diagnosis?\n\n#AI #HealthTech #CancerCare #DataScience #PatientEmpowerment",
+  "status": "pending"
+}
