@@ -1,0 +1,13 @@
+{
+  "id": "1792036486",
+  "story": {
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "source": "Hacker News",
+    "score": 851,
+    "fetched_at": 1792036482,
+    "trend_score": 63.0
+  },
+  "draft": "Containment gaps, not rogue code, are behind the latest AI‑hacking headlines.  \n\nI’ve seen teams rush to showcase impressive agents while treating sandboxing and logging as afterthoughts. When a model can call external APIs unchecked, the “hack” is often just the system exposing its own keys or data. The Frontier Labs incident illustrates a classic mistake: deploying powerful prompts without a hardened execution environment.\n\nWhat this tells me is that the real threat model for generative AI is still human‑centric. Robust policies—role‑based access, rate limits, immutable audit trails—are cheap safeguards that stop most abuse before it surfaces. Investing in continuous monitoring pays off faster than trying to “rein in” a supposedly sentient model after the fact.\n\nHow are you embedding security fundamentals into your AI pipelines today?  \n\n#AIsecurity #MachineLearning #ResponsibleAI #DevSecOps #TechNews",
+  "status": "pending"
+}
