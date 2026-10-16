@@ -1,0 +1,13 @@
+{
+  "id": "1792167618",
+  "story": {
+    "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+    "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+    "source": "Hacker News",
+    "score": 677,
+    "fetched_at": 1792167614,
+    "trend_score": 60.0
+  },
+  "draft": "When a crow leaves you a shiny trinket, it feels like a real‑world reward signal.\n\nI just watched a video of a woman who nursed an injured crow back to health. Weeks later, the bird—and other local birds—started dropping twigs, bottle caps, and even a tiny plastic key at her doorstep. It’s a simple act, but it mirrors the feedback loops we chase in reinforcement learning: an agent receives a tangible reward for a helpful action, then repeats the behavior.\n\nTwo takeaways for me:\n\n- **Reciprocity as data:** The birds are collecting the outcome of their interaction and adjusting future actions, just as an AI model updates its policy based on reward signals.\n- **Unscripted environments:** Unlike sandbox simulations, the natural world supplies noisy, unexpected rewards. Designing systems that can interpret and respond to such signals could make AI more adaptable and trustworthy.\n\nWhat kinds of “thank‑you gifts” could we design into our own AI pipelines to encourage responsible, reciprocal behavior?  \n\n#AI #ReinforcementLearning #NatureInspired #EthicalTech #MachineLearning",
+  "status": "pending"
+}
