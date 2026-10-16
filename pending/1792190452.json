@@ -1,0 +1,13 @@
+{
+  "id": "1792190452",
+  "story": {
+    "title": "Tesla Roadster",
+    "url": "https://www.tesla.com/roadster",
+    "source": "Hacker News",
+    "score": 1023,
+    "fetched_at": 1792190448,
+    "trend_score": 60.0
+  },
+  "draft": "The new Tesla Roadster isn’t just a sports car—it’s a rolling proof‑of‑concept for the next generation of EV powertrains.\n\n- With a claimed 0‑60 mph in under 2 seconds, the Roadster pushes the limits of torque vectoring and thermal management. Those figures force us to rethink how quickly a battery can discharge safely while keeping cells within temperature bounds.\n- The 200 kWh “space‑grade” battery pack promises a 620‑mile range, which could redefine the trade‑off between performance and range that has dominated EV design for years. If the chemistry lives up to the specs, we may finally see long‑haul EVs that don’t compromise on speed.\n- Tesla’s approach of integrating a carbon‑fiber chassis with a high‑voltage architecture also hints at a more modular platform, potentially lowering the barrier for future models to adopt similar performance metrics without a proportional cost jump.\n\nI’m curious: will the Roadster’s extreme specs drive broader industry adoption of high‑performance batteries, or will it remain a niche halo product?  \n\n#ElectricVehicles #BatteryTech #AutomotiveInnovation #Tesla #PerformanceEngineering",
+  "status": "pending"
+}
