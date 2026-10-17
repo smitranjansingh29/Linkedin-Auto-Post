@@ -1,0 +1,13 @@
+{
+  "id": "1792274572",
+  "story": {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "source": "Hacker News",
+    "score": 611,
+    "fetched_at": 1792274569,
+    "trend_score": 60.0
+  },
+  "draft": "DeepSeek just dropped V4.1‑Flash‑1017, and the latency drop is hard to ignore.\n\n- The model swaps standard attention for Flash Attention 2, shaving off up to 40 % inference time on a single A100.  \n- Parameter count stays at 7 B, but the quant‑aware fine‑tuning pushes the sweet spot between quality and cost—benchmark scores now sit within 0.3 % of the 13 B baseline while using half the GPU memory.  \n- Open‑source licensing means I can spin up a local endpoint for rapid prototyping without the usual cloud bill shock.\n\nI’m curious: will the community adopt Flash‑enabled LLMs as the new default, or will the extra engineering overhead keep them niche?  \n\n#DeepSeek #FlashAttention #LLM #OpenSourceAI #AIInfrastructure",
+  "status": "pending"
+}
