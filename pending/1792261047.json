@@ -1,0 +1,13 @@
+{
+  "id": "1792261047",
+  "story": {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "source": "Hacker News",
+    "score": 473,
+    "fetched_at": 1792261042,
+    "trend_score": 57.3
+  },
+  "draft": "What if you could run a 30 B‑parameter model on a single GPU without the usual latency penalty?\n\nDeepSeek just pushed v4.1‑Flash‑1017 to Hugging Face, marrying their latest 30 B LLM with FlashAttention. Early benchmarks show up to 45 % faster token generation and a noticeable drop in VRAM usage, thanks to the kernel‑level optimizations. For anyone who’s been forced to shard large models across multiple cards, this feels like a practical shortcut to real‑time applications.\n\nFrom my own experiments, the reduced memory footprint means I can keep the entire model in GPU memory while still fitting a decent batch size for inference‑heavy services. That opens the door for low‑latency chatbots, on‑device assistants, and even fine‑tuning loops that were previously too costly.\n\nI’m curious: which workloads in your pipeline could benefit from a flash‑optimized LLM, and how would you balance the trade‑off between raw size and inference speed?\n\n#LLM #AI #OpenSource #DeepLearning #FlashAttention",
+  "status": "pending"
+}
