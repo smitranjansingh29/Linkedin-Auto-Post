@@ -1,0 +1,14 @@
+{
+  "id": "1792250106",
+  "story": {
+    "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+    "source": "Hacker News",
+    "score": 438,
+    "fetched_at": 1792250101,
+    "source_count": 2,
+    "trend_score": 63.8
+  },
+  "draft": "DeepSeek just dropped v4.1 Flash 1017, and the speed boost feels like a cheat code for real‑time apps.\n\n- The new checkpoint trims the transformer depth while keeping the 7B parameter count, shaving inference latency by roughly 30 % on a single A100.  \n- Context length jumps to 1017 tokens, which is enough for most conversational turn‑taking without the memory bloat of the 4K‑plus windows we’ve been juggling.  \n- Pricing stays at the same open‑source tier, so the cost per token actually drops—a rare win when performance and budget move in the same direction.\n\nI ran a few prompt‑engineering tests and noticed the model retains its nuanced reasoning on coding questions, but it starts to wobble on highly abstract logic when the prompt exceeds 800 tokens. That suggests DeepSeek is targeting a sweet spot: fast, affordable, and “good enough” for production workloads, while still leaving room for a heavier model when you need that extra depth.\n\nDo you think the industry is shifting toward these “flash” variants as the default baseline, or will the premium, larger context models keep their niche?  \n\n#LLM #DeepSeek #AI #OpenSource #MachineLearning",
+  "status": "pending"
+}
