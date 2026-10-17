@@ -1,0 +1,13 @@
+{
+  "id": "1792225372",
+  "story": {
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "source": "Hacker News",
+    "score": 490,
+    "fetched_at": 1792225369,
+    "trend_score": 62.0
+  },
+  "draft": "When AI benchmarks miss 90 % of what we actually do, we’re measuring the wrong thing.\n\nA Mercor Labor Index shows that only a tenth of U.S. working hours fall under tasks well‑covered by today’s AI benchmarks. The rest—planning, problem‑solving, coordination—are largely invisible to the metrics that drive research funding and hype.\n\nThat mismatch tells me we’re training models to excel at narrow, well‑defined problems while the bulk of daily work remains out of reach. Real productivity gains will require benchmarks that capture context, collaboration, and iterative decision‑making, not just isolated subtasks.\n\nI’m starting to think our next research agenda should be built around the messy, human‑centric activities that actually power businesses. What kinds of real‑world tasks do you think should be the next focus for AI evaluation?\n\n#AIResearch #Benchmarks #FutureOfWork #Productivity #MachineLearning",
+  "status": "pending"
+}
