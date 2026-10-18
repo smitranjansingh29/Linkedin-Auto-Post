@@ -1,0 +1,13 @@
+{
+  "id": "1792295220",
+  "story": {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "source": "Hacker News",
+    "score": 744,
+    "fetched_at": 1792295215,
+    "trend_score": 60.0
+  },
+  "draft": "The latest DeepSeek release just turned the efficiency dial up to 11.\n\n- DeepSeek‑V4.1‑Flash‑1017 swaps the classic attention kernel for Flash Attention 2, cutting VRAM usage by up to 40 % while keeping latency under 30 ms on a single A100.  \n- The checkpoint size stays the same, so the model’s capabilities haven’t been trimmed—only the cost of running them. That makes fine‑tuning and serving on modest hardware a realistic option for more teams.  \n- Because DeepSeek keeps the weights fully open, the community can now experiment with high‑throughput inference without waiting for a cloud provider’s premium tier.\n\nI’m curious: if you could run a 30‑billion‑parameter model on a single GPU, what new applications would you prototype first?\n\n#LLM #DeepLearning #OpenSource #AIOptimization #MachineLearning",
+  "status": "pending"
+}
