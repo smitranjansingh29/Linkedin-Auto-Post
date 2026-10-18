@@ -1,0 +1,13 @@
+{
+  "id": "1792312942",
+  "story": {
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "source": "Hacker News",
+    "score": 844,
+    "fetched_at": 1792312937,
+    "trend_score": 60.0
+  },
+  "draft": "The new DeepSeek‑V4.1‑Flash‑1017 flips the speed‑vs‑size trade‑off on its head.  \n\nI ran the 1.0‑billion‑parameter checkpoint on a single A100 with flash‑attention enabled, and inference latency dropped by roughly 40 % compared with the standard V4.1 release. The model keeps the same training data mix, so quality isn’t sacrificed—just delivered faster.\n\nFor teams that can’t afford multi‑GPU clusters, this opens the door to real‑time RAG or on‑device assistants without the usual latency penalty. It also forces the community to rethink how much compute we actually need to get “good enough” results, especially when the bottleneck is often inference rather than training.\n\nI’m curious: which low‑resource use cases—maybe personalized tutoring bots or edge‑first analytics—could you see thriving with a flash‑optimized 1B‑parameter model?\n\n#LLM #OpenSourceAI #DeepLearning #AIResearch #ModelOptimization",
+  "status": "pending"
+}
