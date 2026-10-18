@@ -1,0 +1,13 @@
+{
+  "id": "1792361866",
+  "story": {
+    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+    "url": "https://api-docs.deepseek.com/guides/search/",
+    "source": "Hacker News",
+    "score": 511,
+    "fetched_at": 1792361864,
+    "trend_score": 60.0
+  },
+  "draft": "What if you could run a production‑grade LLM search for less than a coffee per thousand calls?\n\nI dug into DeepSeek’s new Search‑and‑Fetch API and the pricing caught my eye: $0.75 for every 1,000 successful requests. Compared with the $5‑$10 range most vendors charge, the margin is huge—especially for high‑volume workloads.  \n\nThe model itself is on par with other open‑source alternatives, but the low cost unlocks use cases that were previously shelved as “too expensive”: real‑time recommendation loops, fine‑grained document retrieval in SaaS tools, and even edge‑deployed assistants where every cent matters.\n\nI’m curious how teams will re‑budget their AI stacks now that the search layer can be almost free. Will we see a shift from cached results to dynamic LLM queries, or will the savings simply fund more experimentation?\n\nHow would you allocate that budget in your own AI projects?  \n\n#AI #LLM #Search #Startup #CostEfficiency",
+  "status": "pending"
+}
