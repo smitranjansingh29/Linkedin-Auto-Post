@@ -1,0 +1,13 @@
+{
+  "id": "1792337788",
+  "story": {
+    "title": "Pele – Mermaid diagrams as themeable SVG",
+    "url": "https://pele.run/",
+    "source": "Hacker News",
+    "score": 514,
+    "fetched_at": 1792337786,
+    "trend_score": 63.0
+  },
+  "draft": "Pele turns static Mermaid charts into theme‑aware SVGs in a single step.\n\nI’ve been wrestling with mismatched diagram colors every time a product switched to dark mode. Pele injects CSS variables directly into the SVG, so the same source file can render correctly across light, dark, or brand‑specific palettes without manual edits. The output is pure SVG—tiny, searchable, and instantly printable—making it a natural fit for docs, dashboards, and even email newsletters.\n\nWhat stands out to me is the simplicity of the workflow: write Mermaid as usual, pipe it through Pele, and you get a reusable asset that respects the surrounding UI. It also opens doors for dynamic theming at runtime, something we’ve only seen in charting libraries, not in static diagram generators.\n\nI’m curious—how are you currently handling diagram theming in your technical documentation or internal tools? Are you using a similar approach, or still stuck with static assets?\n\n#Mermaid #SVG #OpenSource #DataViz #WebDev",
+  "status": "pending"
+}
