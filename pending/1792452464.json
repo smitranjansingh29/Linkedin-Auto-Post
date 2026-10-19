@@ -1,0 +1,13 @@
+{
+  "id": "1792452464",
+  "story": {
+    "title": "Timestral: Mistral's time-series foundation models",
+    "url": "https://mistral.ai/news/timestral/",
+    "source": "Hacker News",
+    "score": 526,
+    "fetched_at": 1792452460,
+    "trend_score": 63.0
+  },
+  "draft": "Time‑series data finally gets its own foundation model.\n\nMistral just released **Timestral**, an open‑source foundation model trained on billions of timestamps from finance, climate, IoT, and more. It’s built on the same architecture that powers their LLMs, but the training objective is tuned for forecasting, anomaly detection, and representation learning across any temporal dataset.\n\nWhat excites me is the shift from domain‑specific pipelines to a single model that can be fine‑tuned for any sequential problem. If the transfer learning works as advertised, we could cut months of feature engineering off projects ranging from predictive maintenance to demand planning. It also forces us to rethink evaluation: accuracy alone won’t capture the value of a model that can adapt to new frequencies and missing data patterns.\n\nDo you see a near‑term use case where a universal time‑series model could replace a bespoke solution in your work?\n\n#TimeSeries #FoundationModels #AI #MistralAI #OpenSource",
+  "status": "pending"
+}
