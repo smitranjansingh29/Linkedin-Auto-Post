@@ -1,0 +1,13 @@
+{
+  "id": "1792403178",
+  "story": {
+    "title": "Someone behind the software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "source": "Hacker News",
+    "score": 442,
+    "fetched_at": 1792403173,
+    "trend_score": 54.2
+  },
+  "draft": "When a bug costs a company millions, the person who wrote it rarely makes the headlines.  \n\nI just read “Someone behind the software” on Hacker News, and it struck me how easily we treat code as a black box. The piece reminds us that every line of logic carries the assumptions, constraints, and even the fatigue of its author. Ignoring that human layer makes debugging a guessing game and blinds us to the ethical weight of our releases.\n\nIn practice, I’ve started tagging the primary contributor on critical tickets and encouraging post‑mortems that focus on decision context, not just error logs. It’s a small shift, but it surfaces the real expertise—and the real responsibility—behind the product.\n\nWhat concrete steps do you take to keep the people behind your code visible and accountable?  \n\n#SoftwareEngineering #HumanCenteredTech #AIethics #DevOps #Leadership",
+  "status": "pending"
+}
