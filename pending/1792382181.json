@@ -1,0 +1,13 @@
+{
+  "id": "1792382181",
+  "story": {
+    "title": "Someone behind the software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "source": "Hacker News",
+    "score": 352,
+    "fetched_at": 1792382176,
+    "trend_score": 45.2
+  },
+  "draft": "When a feature crashes, I’m reminded we’re not fighting a mysterious “software” – we’re fighting a person’s late‑night code.\n\nI just read Karris Aarinen’s piece “Someone behind the software.” It strips away the abstraction of binaries and APIs and forces us to see the constraints, trade‑offs, and burnout that shape every line we ship. The article reminded me that open‑source maintainers often juggle full‑time jobs, family, and a flood of issues, yet the community expects instant fixes.\n\nMy takeaway: treating code as a product rather than a person’s output leads to unrealistic expectations and hidden technical debt. When we acknowledge the human cost, we start asking better questions—like how we can fund maintainers or design processes that respect their limits.\n\nHow do you make space for the humans behind the tools you rely on?\n\n#SoftwareEngineering #OpenSource #HumanCenteredTech #DeveloperWellbeing #TechCulture",
+  "status": "pending"
+}
