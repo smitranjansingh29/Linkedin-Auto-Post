@@ -1,0 +1,13 @@
+{
+  "id": "1792526088",
+  "story": {
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "source": "Hacker News",
+    "score": 1966,
+    "fetched_at": 1792526082,
+    "trend_score": 63.0
+  },
+  "draft": "DeepInfer turns the slow‑poke inference bottleneck into a sprint for DeepSeek models.\n\nI dug into the repo and was impressed by three choices that matter in production:\n- Built on Rust, the runtime shaves off microseconds that Python can’t touch.\n- Native support for INT4/INT8 quantization lets you trade a hair of accuracy for massive throughput gains.\n- Asynchronous batching means the same GPU can juggle dozens of requests without idle time.\n\nWhat this means for us is not just faster responses, but cheaper scaling. In environments where latency directly impacts user experience—or where cloud budgets are tight—having a lean inference layer can be the difference between a prototype and a product.\n\nI’m curious: how are you balancing model quality and inference cost in your own projects?  \n\n#MachineLearning #LLM #Inference #OpenSource #Rust",
+  "status": "pending"
+}
