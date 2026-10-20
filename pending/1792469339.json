@@ -1,0 +1,13 @@
+{
+  "id": "1792469339",
+  "story": {
+    "title": "Wine ported to OpenBSD",
+    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+    "source": "Hacker News",
+    "score": 527,
+    "fetched_at": 1792469335,
+    "trend_score": 60.0
+  },
+  "draft": "OpenBSD just got a new way to run Windows apps.\n\nThe community has finally ported Wine to the platform, turning a historically pure‑Unix OS into a bridge for legacy Windows binaries. It’s a bold move because OpenBSD’s reputation rests on minimal attack surface and rigorous code audit—adding a complex compatibility layer challenges those guarantees.\n\nI see two immediate effects. First, developers who need a hardened host for occasional Windows tools can now consolidate workloads without spinning up separate VMs. Second, the port forces the OpenBSD team to confront Wine’s extensive system calls, potentially tightening the OS’s syscall interface and exposing hidden security gaps that will need patching.\n\nFor me, the real test will be whether the performance and stability hold up under real‑world loads, or if Wine becomes a niche curiosity. If it proves reliable, we might see a modest shift in how OpenBSD is positioned for mixed‑environment environments.\n\nWhat Windows workloads would you feel comfortable running on OpenBSD now that Wine is in the mix?\n\n#OpenBSD #Wine #OpenSource #CrossPlatform #Security",
+  "status": "pending"
+}
