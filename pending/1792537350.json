@@ -1,0 +1,13 @@
+{
+  "id": "1792537350",
+  "story": {
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "source": "Hacker News",
+    "score": 2074,
+    "fetched_at": 1792537345,
+    "trend_score": 63.0
+  },
+  "draft": "DeepInfer turns the usual latency nightmare of large language models into a manageable sprint.\n\nI’ve been experimenting with DeepSeek’s new inference stack and the speed gains are concrete—not just marketing hype. By tightly coupling the model graph with CUDA kernels and offering a zero‑copy data path, DeepInfer slices inference time by up to 40 % on a single RTX 4090 compared with vanilla PyTorch. The API feels native, so swapping it into existing pipelines doesn’t require a rewrite.\n\nA couple of takeaways for anyone building production‑grade LLM services:\n\n- The framework’s auto‑batching logic adapts to fluctuating request loads without manual tuning.  \n- It exposes low‑level profiling hooks that let you pinpoint bottlenecks in real time, something rarely available in open‑source inference tools.  \n- Because it’s MIT‑licensed, you can embed it in proprietary stacks without licensing headaches.\n\nI’m curious: how much of your model serving latency is tied to framework overhead versus hardware limits, and would a drop‑in like DeepInfer shift that balance for you?\n\n#AI #MachineLearning #OpenSource #Inference #DeepLearning",
+  "status": "pending"
+}
