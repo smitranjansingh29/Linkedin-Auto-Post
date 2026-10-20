@@ -1,0 +1,13 @@
+{
+  "id": "1792502745",
+  "story": {
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "source": "Hacker News",
+    "score": 576,
+    "fetched_at": 1792502742,
+    "trend_score": 63.0
+  },
+  "draft": "Hidden prompts in WhatsApp’s help center tell its AI “don’t recommend a regulator.”  \n\nI dug into the page and found a subtle instruction that steers the language model away from suggesting official oversight. It’s a reminder that even consumer‑facing AI can be quietly nudged to protect a company’s legal posture, blurring the line between user assistance and corporate self‑interest.\n\nTwo takeaways for me:  \n\n- Transparency isn’t just about data policies; it also means surfacing the rules we bake into our models. When those rules are concealed, users can’t gauge the bias shaping their answers.  \n- The move hints at a broader tension: AI can help users navigate compliance, yet firms may suppress that very guidance to avoid regulatory scrutiny. The trade‑off will shape trust in any AI‑driven support system.\n\nWhat safeguards do you think we need to make hidden AI instructions visible and accountable?  \n\n#AITransparency #LLM #TechEthics #RegTech #WhatsApp",
+  "status": "pending"
+}
