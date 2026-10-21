@@ -1,0 +1,13 @@
+{
+  "id": "1792555056",
+  "story": {
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "source": "Hacker News",
+    "score": 2174,
+    "fetched_at": 1792555054,
+    "trend_score": 63.0
+  },
+  "draft": "DeepInfer turns the bottleneck of serving DeepSeek models into a speed bump you can actually hop over.\n\nI dug into the repo and was impressed by the way it leverages low‑level kernel optimizations while keeping the API surface as simple as a single `predict()` call. The design swaps out the usual Python‑centric data path for a C++‑backed tensor pipeline, cutting latency by up to 40 % on RTX 4090 hardware. For anyone wrestling with the cost of scaling inference, that’s a tangible reduction in both time and cloud spend.\n\nWhat also stands out is the plug‑in architecture for custom operators. It lets teams drop in domain‑specific kernels without forking the core, which should accelerate experimentation cycles. In practice, I can see this framework shrinking the gap between research prototypes and production‑ready services, especially for large language models that have been stuck behind heavyweight runtimes.\n\nDo you think a leaner inference stack like DeepInfer could become the new default for LLM deployments, or will existing ecosystems still dominate the space?\n\n#AI #MachineLearning #Inference #OpenSource #DeepLearning",
+  "status": "pending"
+}
