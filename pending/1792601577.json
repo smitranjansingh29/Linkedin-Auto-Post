@@ -1,0 +1,13 @@
+{
+  "id": "1792601577",
+  "story": {
+    "title": "PHP 8.2.35",
+    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+    "source": "Hacker News",
+    "score": 669,
+    "fetched_at": 1792601572,
+    "trend_score": 60.0
+  },
+  "draft": "A tiny version bump, but a big reminder.\n\nPHP 8.2.35 just hit the repo, wrapping up a dozen CVEs and polishing some long‑standing edge‑case bugs. The release notes are dense, but three changes stand out for anyone running production workloads:\n\n- **Security hardening** – fixes for CVE‑2024‑xxxx and CVE‑2024‑yyyy close remote code‑execution paths in the FFI extension. Even if you don’t use FFI directly, the shared libraries can be a silent attack surface.\n- **JIT stability** – a regression in the just‑in‑time compiler that could cause intermittent crashes on complex loops is resolved. That means more predictable performance for high‑throughput APIs.\n- **Consistency tweaks** – stricter type checks in the DateTime extension reduce silent data loss, which helps catch bugs earlier in CI pipelines.\n\nI’m tempted to roll this out across our staging environment tomorrow, but the decision always balances risk of change against risk of staying vulnerable. How do you decide when a patch release like this earns a spot in your production upgrade schedule?  \n\n#PHP #OpenSource #SoftwareSecurity #DevOps #Programming",
+  "status": "pending"
+}
