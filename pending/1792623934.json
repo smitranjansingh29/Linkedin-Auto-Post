@@ -1,0 +1,13 @@
+{
+  "id": "1792623934",
+  "story": {
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "source": "Hacker News",
+    "score": 608,
+    "fetched_at": 1792623930,
+    "trend_score": 63.0
+  },
+  "draft": "When a language that powers most of the web gets a security overhaul, the whole stack feels it.\n\nThe PHP Foundation just released a patch that tightens input validation, removes several long‑standing unsafe functions, and adds stricter type enforcement across core extensions. For me, the real takeaway isn’t just the list of fixes—it’s the signal that PHP is finally treating security as a first‑class concern rather than an afterthought. That shift forces us to revisit legacy code and adopt more defensive patterns before a breach forces us to.\n\nIn practice I’m updating our CI pipelines to fail on any deprecated or insecure functions and rolling out the new extensions in a staged rollout. The early adopters will see fewer runtime warnings and a smaller attack surface, which translates into less firefighting and more time for feature work.\n\nHow are you integrating the latest PHP security updates into your development workflow?\n\n#PHP #WebSecurity #OpenSource #DevOps #Cybersecurity",
+  "status": "pending"
+}
