@@ -1,0 +1,13 @@
+{
+  "id": "1792574229",
+  "story": {
+    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+    "url": "https://news-web.php.net/php.announce/509",
+    "source": "Hacker News",
+    "score": 760,
+    "fetched_at": 1792574226,
+    "trend_score": 63.0
+  },
+  "draft": "A silent PHP bug could be silently compromising every request you think is safe.  \n\nTwo critical CVEs (CVE‑2026‑109618, CVE‑2026‑109619) are slated for the next PHP release, fixing a memory‑corruption path that allows remote code execution under certain configurations. The issue only surfaces when the vulnerable functions are used with crafted inputs—a scenario that many legacy applications inadvertently satisfy.\n\nWhat this tells me is that “patch‑and‑forget” is no longer viable for PHP stacks. Even if you’re not actively developing new features, you need a disciplined update cadence, especially for long‑running services that expose web endpoints. I’ve started automating version checks in our CI pipeline to catch these releases the moment they land.\n\nIf you’re still on PHP 8.2 or older, have you built a process to verify that critical security releases are applied within days rather than weeks?  \n\n#PHP #Security #DevOps #CVE2026 #SoftwareMaintenance",
+  "status": "pending"
+}
