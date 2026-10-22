@@ -1,0 +1,13 @@
+{
+  "id": "1792687973",
+  "story": {
+    "title": "Security Disclosure",
+    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+    "source": "Hacker News",
+    "score": 551,
+    "fetched_at": 1792687971,
+    "trend_score": 63.0
+  },
+  "draft": "When a platform admits a flaw, the real work begins.\n\nRailway’s latest security disclosure shows a misconfigured environment variable exposed internal API keys for a short window. The team detected the breach, revoked the credentials, and pushed a fix within hours—demonstrating that speed matters as much as the fix itself.\n\nTwo takeaways for me:\n\n- **Transparency wins trust.** Publishing the details, even the uncomfortable ones, lets users verify the response and prevents speculation.\n- **Automation is a safety net.** Continuous scanning for secret leaks could have caught the misconfiguration before it ever hit production.\n\nI’m curious: how do you balance rapid feature delivery with the discipline needed for thorough security checks?  \n\n#Security #DevOps #Transparency #SoftwareEngineering #BugBounty",
+  "status": "pending"
+}
