@@ -1,0 +1,13 @@
+{
+  "id": "1792660798",
+  "story": {
+    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+    "source": "Hacker News",
+    "score": 508,
+    "fetched_at": 1792660795,
+    "trend_score": 63.0
+  },
+  "draft": "A single malicious upload turned a popular LLM wrapper into a credential thief.\n\nLiteLLM 1.107.0, recently published on PyPI, contained a hidden payload that harvested AWS keys and opened a backdoor to the host machine. The package passed basic checks, yet the malicious code executed on install, exposing every downstream project that trusted the library.\n\nWhat this reminds me is that “trusted” in the open‑source ecosystem is a moving target. Even well‑known packages can be compromised if the publishing pipeline isn’t hardened with signatures, reproducible builds, or automated vetting. I’m now double‑checking every dependency with SBOM tools and pinning exact hashes in my environments.\n\nHow are you protecting your supply chain against silent compromises like this?  \n\n#SupplyChainSecurity #Python #OpenSource #AI #DevSecOps",
+  "status": "pending"
+}
