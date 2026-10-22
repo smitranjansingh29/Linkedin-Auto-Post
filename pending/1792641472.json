@@ -1,0 +1,13 @@
+{
+  "id": "1792641472",
+  "story": {
+    "title": "Today's PHP security release, and how we're strengthening security",
+    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+    "source": "Hacker News",
+    "score": 697,
+    "fetched_at": 1792641469,
+    "trend_score": 63.0
+  },
+  "draft": "When a single CVE can expose millions of sites, I double‑check my PHP version.\n\nThe PHP Foundation just shipped its latest security release, patching three critical vulnerabilities that affect the core engine, the FPM process manager, and the OpenSSL bindings. What caught my eye is the new “hardening mode” that disables legacy stream wrappers by default and forces stricter type checks on user‑supplied data. It’s a subtle shift from “fix‑the‑bug” to “raise the baseline security posture” for every installation.\n\nFor me, the takeaway isn’t just to apply the patches—though that’s non‑negotiable—but to bake the release into our CI pipeline. Automating version checks and running the built‑in PHP security scanner before a merge can catch regressions before they hit production. It also forces teams to revisit deprecated functions that the hardening mode now blocks, turning a maintenance chore into a security win.\n\nHow are you integrating PHP security updates into your development workflow?  \n\n#PHP #CyberSecurity #OpenSource #DevOps #WebDevelopment",
+  "status": "pending"
+}
