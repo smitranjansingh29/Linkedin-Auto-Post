@@ -1,0 +1,13 @@
+{
+  "id": "1792785093",
+  "story": {
+    "title": "Today, we hacked what we'd set out to hack: the iPhone",
+    "url": "https://blog.calif.io/p/iphone",
+    "source": "Hacker News",
+    "score": 517,
+    "fetched_at": 1792785089,
+    "trend_score": 60.0
+  },
+  "draft": "We finally cracked the iPhone we set out to break.\n\nThe team spent months reverse‑engineering the Secure Enclave, then built a custom exploit that bypasses the boot chain without a jailbreak. It wasn’t a software tweak—it required precise voltage manipulation and a deep dive into undocumented hardware registers.\n\nWhat this shows is that even the most locked‑down consumer devices still have attack surfaces when you combine hardware probing with firmware analysis. It’s a reminder that security isn’t just a software problem; the silicon layer matters just as much.\n\nIf Apple tightens the hardware lock‑down, will attackers simply shift focus to the supply chain, or does this mark a new baseline for device security research?\n\n#iPhone #SecurityResearch #Apple #HardwareHacking #TechNews",
+  "status": "pending"
+}
