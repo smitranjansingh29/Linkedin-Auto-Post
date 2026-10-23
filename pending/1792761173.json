@@ -1,0 +1,13 @@
+{
+  "id": "1792761173",
+  "story": {
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "source": "Hacker News",
+    "score": 565,
+    "fetched_at": 1792761171,
+    "trend_score": 66.0
+  },
+  "draft": "A 360‑million‑parameter model that actually *talks* like a shell.\n\nI’ve been digging into WorldTUI, a compact model trained to emulate a terminal session. The author fed it raw command‑line logs and let the network learn the syntax, error patterns, and typical workflows. The result? A surprisingly coherent “pretend terminal” that can suggest commands, parse errors, and even simulate file system state without any external API calls.\n\nWhat strikes me is how far a domain‑specific model can go with modest resources. While the big LLMs dominate headlines, a focused model like this can run locally, respects privacy, and offers instant feedback—exactly the kind of tool that could sit on a developer’s laptop and act as a silent pair‑programmer for routine tasks.\n\nAt the same time, the model still hallucinates under ambiguous prompts, reminding us that narrow AI isn’t a silver bullet. The challenge will be building guardrails that keep it helpful without letting it generate dangerous commands.\n\nHow do you see narrow, offline AI agents reshaping everyday dev workflows?\n\n#AI #MachineLearning #DevOps #LLM #OpenSource",
+  "status": "pending"
+}
