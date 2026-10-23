@@ -1,0 +1,13 @@
+{
+  "id": "1792728075",
+  "story": {
+    "title": "Quad9 (DNS Resolver) to Exit France",
+    "url": "https://quad9.net/news/blog/au-revoir-france/",
+    "source": "Hacker News",
+    "score": 1049,
+    "fetched_at": 1792728072,
+    "trend_score": 60.0
+  },
+  "draft": "Quad9 is pulling the plug on its French DNS service—because regulators are demanding more data control than a privacy‑first resolver wants to give.\n\nI’ve watched Quad9’s model of community‑sourced threat blocking grow into a real defensive layer for millions. France’s new DNS‑logging mandates clash with that ethos, forcing a tough choice between compliance and the core promise of privacy‑preserving security.\n\nFor users, the loss means a gap in free, globally‑shared threat intel. It also signals how national policies can reshape the open‑internet tools we rely on, nudging us toward either more localized services or the rise of decentralized alternatives.\n\nWhat do you think is the best path forward for DNS security when privacy regulations start dictating technical design?  \n\n#DNS #CyberSecurity #Privacy #InternetInfrastructure #TechPolicy",
+  "status": "pending"
+}
