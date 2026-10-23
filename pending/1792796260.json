@@ -1,0 +1,13 @@
+{
+  "id": "1792796260",
+  "story": {
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "source": "Hacker News",
+    "score": 621,
+    "fetched_at": 1792796256,
+    "trend_score": 60.0
+  },
+  "draft": "Kimi just turned the dial up on local LLM inference with the K3.1 Pro and its Highspeed sibling.\n\nThe Pro packs a 16‑core ARM CPU, 32 GB LPDDR5 and a custom NPU that pushes 30 TOPS, letting a 7B model run fully offline with sub‑second latency. The Highspeed version trims the memory footprint but doubles the inference throughput, targeting real‑time applications like transcription and code completion.\n\nWhat catches me is the trade‑off they’ve engineered: you get privacy and latency without the cloud bill, yet the hardware cost stays under $1,500. If this performance scales to larger models, we could see a shift where enterprises run proprietary data pipelines on‑premise instead of relying on opaque APIs.\n\nDo you think the market is ready to move critical workloads to these edge boxes, or will cloud providers still dominate the AI stack?\n\n#LLM #EdgeAI #AIHardware #Privacy #OpenSource",
+  "status": "pending"
+}
