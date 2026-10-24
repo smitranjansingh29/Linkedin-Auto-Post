@@ -1,0 +1,13 @@
+{
+  "id": "1792814135",
+  "story": {
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "source": "Hacker News",
+    "score": 777,
+    "fetched_at": 1792814129,
+    "trend_score": 60.0
+  },
+  "draft": "When latency decides whether a conversation feels natural or robotic, the new Kimi K3.1 Pro line forces a rethink.\n\nThe K3.1 Pro model pushes transcription accuracy into the high‑90 % range on noisy data while keeping the footprint small enough for on‑device deployment. The Highspeed variant trims end‑to‑end latency to under 100 ms, making real‑time captions viable on low‑power hardware.\n\nWhat catches me is the pricing model: a flat‑rate per‑hour usage that scales linearly, so I can prototype a voice assistant without worrying about surprise cloud bills. It also means I can swap out a proprietary API for a self‑hosted Kimi node and keep the same quality.\n\nI’m curious—how many of you plan to replace your current speech‑to‑text stack with a solution that promises both lab‑grade accuracy and edge‑ready speed?\n\n#AI #SpeechRecognition #NLP #DeveloperTools #OpenSource",
+  "status": "pending"
+}
