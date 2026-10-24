@@ -1,0 +1,13 @@
+{
+  "id": "1792856276",
+  "story": {
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "source": "Hacker News",
+    "score": 1008,
+    "fetched_at": 1792856272,
+    "trend_score": 60.0
+  },
+  "draft": "A new benchmark for on‑device AI: Kimi just dropped the K3.1 Pro and its Highspeed variant, and the performance jump is hard to ignore.\n\n- The Pro model pushes 30 B parameters to 2‑digit latency on a single GPU, while the Highspeed version trims inference time by another 40 % at the cost of a modest 5 % accuracy dip.  \n- What matters to me is the pricing model—Kimi is moving away from per‑token fees toward a flat‑rate subscription, which could make large‑scale deployments far more predictable.  \n- Early tests show the Highspeed variant handling real‑time transcription and code completion without the usual lag, opening doors for low‑latency SaaS tools that previously needed dedicated inference clusters.\n\nDo you think the trade‑off between raw speed and a slight accuracy loss will reshape how we architect AI‑driven products?\n\n#AI #LLM #InferenceOptimization #ProductEngineering #TechTrends",
+  "status": "pending"
+}
