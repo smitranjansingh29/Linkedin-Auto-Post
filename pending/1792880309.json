@@ -1,0 +1,13 @@
+{
+  "id": "1792880309",
+  "story": {
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "url": "https://edjefferson.com/localwiki/",
+    "source": "Hacker News",
+    "score": 1527,
+    "fetched_at": 1792880306,
+    "trend_score": 60.0
+  },
+  "draft": "What if Wikipedia only covered the block you’re standing on?\n\nI just read about Local Wikipedia—a hyper‑local knowledge base that pulls articles for everything within a half‑hour walk. The prototype shows how we can combine geofencing with crowd‑sourced content to make place‑specific information instantly relevant. Imagine a tourist discovering the story behind a historic doorway, or a city planner pulling localized data without sifting through city‑wide archives.\n\nThe idea forces us to rethink the scale of “knowledge graphs.” Instead of a monolithic, global corpus, we could have layered, context‑aware nodes that surface only what matters to a user’s immediate environment. The challenge will be maintaining quality and avoiding fragmented silos, but the upside—real‑time, place‑centric learning—feels like a natural evolution for AI‑augmented search.\n\nWould a hyper‑local encyclopedia change how you explore your neighborhood or conduct research?  \n\n#LocalWiki #GeospatialAI #CommunityTech #OpenData #ProductDesign",
+  "status": "pending"
+}
