@@ -1,0 +1,13 @@
+{
+  "id": "1792867164",
+  "story": {
+    "title": "Dessa: Conversation Model trained only on speech",
+    "url": "https://block.xyz/dessa",
+    "source": "Hacker News",
+    "score": 473,
+    "fetched_at": 1792867162,
+    "trend_score": 63.3
+  },
+  "draft": "A model that learns to talk by listening, not by reading.\n\nDessa’s new conversation model is trained exclusively on raw speech—no transcripts, no text corpora. By letting the network discover phonetics, prosody, and semantics directly from audio, they sidestep the bias introduced by written language and open a path to truly voice‑first AI.\n\n- The approach forces the model to internalize timing, intonation, and speaker cues that text‑only systems miss.\n- It could reduce the data‑labeling bottleneck; raw recordings are far cheaper to collect than high‑quality transcripts.\n- Early results suggest comparable language understanding with a fraction of the preprocessing pipeline, hinting at more privacy‑preserving assistants that never need to transcribe user speech.\n\nI’m curious how this will reshape the balance between text‑centric and voice‑centric AI development. Could listening‑first models become the new baseline for conversational agents?\n\n#AI #SpeechTech #ConversationalAI #MachineLearning #VoiceFirst",
+  "status": "pending"
+}
