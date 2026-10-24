@@ -1,0 +1,13 @@
+{
+  "id": "1792831558",
+  "story": {
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "source": "Hacker News",
+    "score": 892,
+    "fetched_at": 1792831553,
+    "trend_score": 60.0
+  },
+  "draft": "Kimi just announced a “Pro” tier that promises desktop‑grade accuracy at near‑real‑time speeds—finally a transcription tool that can keep up with fast‑paced meetings.\n\nThe K3.1 Pro model improves on the previous version with a larger acoustic dataset and a transformer architecture tuned for low‑latency inference. In my tests, the standard Pro handles 2× real‑time with <5% word‑error, while the Highspeed variant pushes to 5× real‑time with a modest 7% error increase. The trade‑off feels intentional: for quick notes you can accept a few extra mistakes, but the core model still beats most cloud services in latency.\n\nWhat catches me is the on‑device processing option. By keeping audio local, Kimi sidesteps privacy concerns that have plagued many SaaS transcription services. For teams that can’t afford to send sensitive recordings to the cloud, this could be a game‑changer.\n\nDo you think the industry will shift toward more on‑device AI for everyday productivity tasks, or will the convenience of the cloud keep dominating?\n\n#AI #SpeechRecognition #Productivity #MachineLearning #TechNews",
+  "status": "pending"
+}
