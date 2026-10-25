@@ -1,0 +1,13 @@
+{
+  "id": "1792918883",
+  "story": {
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "url": "https://edjefferson.com/localwiki/",
+    "source": "Hacker News",
+    "score": 1585,
+    "fetched_at": 1792918879,
+    "trend_score": 60.0
+  },
+  "draft": "A half‑hour walk, a whole new encyclopedia.\n\nI just tried Local Wikipedia – a wiki that only shows articles about places within a 30‑minute stroll from you. It feels like turning every neighborhood into its own curated knowledge hub. The interface is simple, but the concept forces us to think about knowledge granularity: instead of a global monolith, we get micro‑contexts that are instantly relevant.\n\nTwo things stand out to me:\n\n- **Community ownership.** Residents can add, edit, and verify hyperlocal facts, which could dramatically improve the accuracy of street‑level data that maps and search engines often get wrong.  \n- **Fragmentation risk.** If every block builds its own silo, we might lose the connective tissue that lets us see broader patterns. The challenge will be designing tools that let local pages interlink without drowning in noise.\n\nI’m curious how we can balance the power of local contributions with the need for coherent, searchable knowledge. Could a federated model—local wikis feeding into a global layer—be the answer?\n\nWhat would you want to see in a hyperlocal knowledge platform, and how would you keep it trustworthy?\n\n#LocalWiki #CommunityTech #KnowledgeSharing #OpenSource #AI",
+  "status": "pending"
+}
