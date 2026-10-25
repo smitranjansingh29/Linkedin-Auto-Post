@@ -1,0 +1,13 @@
+{
+  "id": "1792900487",
+  "story": {
+    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+    "url": "https://edjefferson.com/localwiki/",
+    "source": "Hacker News",
+    "score": 1557,
+    "fetched_at": 1792900485,
+    "trend_score": 60.0
+  },
+  "draft": "What if the world’s knowledge base stopped at your front door?\n\nI’ve been tinkering with the idea of a “Local Wikipedia” – a curated, walk‑radius view of the encyclopedia that only includes places, events, and history you can reach in a half‑hour stroll. It forces us to think about knowledge not as a global monolith but as a layered map of relevance. The prototype pulls geotagged entries from Wikipedia, filters them by distance, and lets contributors add ultra‑local facts that never make it into the global article.\n\n- Hyperlocal focus surfaces hidden cultural gems and micro‑histories that get drowned out in broader narratives.  \n- Community curation could boost civic engagement; neighbors become editors of their own neighborhood’s story.  \n- The model raises data‑privacy questions – how much location granularity should we expose, and who governs it?\n\nI’m curious: if a hyperlocal encyclopedia were at my fingertips, would I use it to plan a weekend walk, to teach a class about local history, or to spot emerging trends in my district? How would you integrate such a tool into your workflow?\n\n#LocalWiki #Hyperlocal #KnowledgeManagement #AI #CommunityTech",
+  "status": "pending"
+}
