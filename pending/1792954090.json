@@ -1,0 +1,13 @@
+{
+  "id": "1792954090",
+  "story": {
+    "title": "We should be more ambitious with the software we build",
+    "url": "https://danluu.com/ambitious/",
+    "source": "Hacker News",
+    "score": 663,
+    "fetched_at": 1792954086,
+    "trend_score": 60.0
+  },
+  "draft": "The software we ship today often settles for “good enough,” but the real breakthroughs happen when we aim higher.\n\nI’ve been revisiting Dan Luu’s argument that ambition isn’t a luxury—it’s a necessity. When teams chase modest, incremental tweaks, they miss the chance to reshape the problem space. Building tools that solve the “hard” parts of a domain forces us to confront architectural debt early, resulting in systems that scale, adapt, and stay relevant longer.\n\nTwo takeaways that resonated with me:\n- **Invest in foundational abstractions** before the product pressure mounts. A well‑designed core can absorb future feature churn without collapsing.\n- **Measure success beyond immediate metrics.** Long‑term impact, like reduced cognitive load for engineers or opening new business models, often outweighs early velocity.\n\nWhat ambitious problem are you willing to tackle head‑on, even if it means slower short‑term progress?\n\n#SoftwareEngineering #SystemDesign #TechLeadership #LongTermThinking #AmbitiousCoding",
+  "status": "pending"
+}
