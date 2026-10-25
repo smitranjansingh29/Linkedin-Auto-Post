@@ -1,0 +1,14 @@
+{
+  "id": "1792943317",
+  "story": {
+    "title": "The Goose Programming Language",
+    "url": "https://aardappel.github.io/goose/",
+    "source": "Hacker News",
+    "score": 503,
+    "fetched_at": 1792943314,
+    "source_count": 2,
+    "trend_score": 70.0
+  },
+  "draft": "A language that lets you write Go‑style code without the heavyweight toolchain.\n\nI dug into Goose, a tiny interpreter that mimics Go’s syntax while staying pure Python under the hood. Its biggest win is the instant feedback loop—no `go build`, no cross‑compilation, just run the script and see results. That makes it a surprisingly effective teaching aid for newcomers who want to grasp Go’s concurrency primitives without wrestling with the full compiler.\n\nWhat caught my eye is the deliberate trade‑off: Goose drops static typing and the rich standard library, but it gains flexibility for rapid prototyping. In a world where every new project feels forced into a monolithic stack, a sandbox like Goose can surface ideas faster, then you can migrate to real Go when the design solidifies.\n\nI’m curious—could a stripped‑down interpreter be a stepping stone rather than a dead‑end for production‑grade projects, or is it destined to stay a curiosity?\n\n#ProgrammingLanguages #Go #OpenSource #DeveloperTools #TechTrends",
+  "status": "pending"
+}
