@@ -1,0 +1,13 @@
+{
+  "id": "1792966955",
+  "story": {
+    "title": "We should be more ambitious with the software we build",
+    "url": "https://danluu.com/ambitious/",
+    "source": "Hacker News",
+    "score": 724,
+    "fetched_at": 1792966953,
+    "trend_score": 60.0
+  },
+  "draft": "Building software that merely “works” is no longer enough.\n\nI’ve been reflecting on Dan Luu’s argument that we should aim higher—designing systems that solve problems we haven’t yet imagined, not just patching today’s pain points. The article reminded me that ambition isn’t about adding flashy features; it’s about choosing architectures that can evolve, investing in abstractions that stay relevant as the domain grows, and tolerating the upfront cost of complexity for long‑term payoff.\n\nIn practice, that means questioning whether a quick fix truly reduces future maintenance or simply postpones the inevitable rewrite. It also means encouraging teams to treat technical debt as a design decision, not a hidden cost, and to allocate time for exploratory prototypes that can become the foundation of the next generation of tools.\n\nWhat ambitious software challenge are you willing to tackle, even if it feels out of reach today?\n\n#SoftwareEngineering #ProductDesign #SystemsThinking #OpenSource #TechLeadership",
+  "status": "pending"
+}
