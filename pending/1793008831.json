@@ -1,0 +1,13 @@
+{
+  "id": "1793008831",
+  "story": {
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "source": "Hacker News",
+    "score": 558,
+    "fetched_at": 1793008828,
+    "trend_score": 63.0
+  },
+  "draft": "A decade‑old CNN just reminded us why specialization matters.  \n\nA 10‑year‑old convolutional network trained on dermoscopic images outperforms the newest large language models when tasked with skin‑cancer diagnosis. The LLMs, even when paired with visual encoders, lag behind the classic model’s accuracy and confidence calibration.\n\nWhy does this happen? CNNs excel at extracting low‑level texture and color patterns directly from pixels—a skill honed on massive, domain‑specific datasets. LLMs, built for language, lack that visual grounding and are forced to rely on generic vision backbones that aren’t tuned to the nuances of medical imagery. The result is a classic case of the right tool for the right job, not a failure of LLM technology.\n\nThe takeaway for me is clear: we shouldn’t discard proven, task‑specific models in favor of hype. Instead, we can let CNNs do the heavy lifting on image classification while LLMs add interpretability, generate reports, or suggest next steps. A hybrid pipeline could give clinicians both accuracy and context.\n\nWhat do you think is the most promising way to combine the visual acuity of CNNs with the reasoning abilities of LLMs in clinical AI?\n\n#AI #MedicalImaging #DeepLearning #LLM #HealthcareTech",
+  "status": "pending"
+}
