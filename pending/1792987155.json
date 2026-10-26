@@ -1,0 +1,13 @@
+{
+  "id": "1792987155",
+  "story": {
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "source": "Hacker News",
+    "score": 484,
+    "fetched_at": 1792987152,
+    "trend_score": 61.4
+  },
+  "draft": "A decade‑old CNN is still beating the newest LLMs at skin cancer detection.\n\nResearchers at Lynch Lab fine‑tuned several frontier language models on dermoscopic images and found that a 10‑year‑old convolutional network, trained exclusively on visual data, outperformed them on both accuracy and false‑negative rates. The LLMs struggled with the fine‑grained spatial patterns that CNNs capture by design.\n\nThe result is a reminder that architectural bias matters: language‑first models excel at text, but they don’t magically inherit vision expertise. In high‑stakes domains like medical imaging, throwing a bigger model at the problem isn’t a shortcut; we still need purpose‑built networks or truly multimodal hybrids.\n\nWhat balance should we strike between universal models and domain‑specific networks when building AI for healthcare?\n\n#AI #MachineLearning #Healthcare #ComputerVision #LLM",
+  "status": "pending"
+}
