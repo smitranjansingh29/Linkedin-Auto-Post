@@ -1,0 +1,13 @@
+{
+  "id": "1793074815",
+  "story": {
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "source": "Hacker News",
+    "score": 611,
+    "fetched_at": 1793074812,
+    "trend_score": 63.0
+  },
+  "draft": "I just finished a deep dive into Sebastian Raschka’s new from‑scratch video course on building reasoning models.\n\n- The curriculum forces you to implement every component yourself, so you truly understand how symbolic reasoning meshes with neural nets—not just copy‑paste code.\n- I appreciated the focus on data‑efficient learning; the exercises show how a small, well‑structured model can outperform massive black‑boxes on logical tasks.\n- The “debug‑as‑you‑go” mindset reminded me that interpretability isn’t an afterthought—it’s built into the architecture from day one.\n\nWhat reasoning challenge are you tackling in your own work, and how are you balancing transparency with performance?\n\n#MachineLearning #AI #ReasoningModels #DeepLearning #Education",
+  "status": "pending"
+}
