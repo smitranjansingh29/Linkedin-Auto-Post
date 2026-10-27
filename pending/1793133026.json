@@ -1,0 +1,13 @@
+{
+  "id": "1793133026",
+  "story": {
+    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+    "source": "Hacker News",
+    "score": 587,
+    "fetched_at": 1793133022,
+    "trend_score": 60.0
+  },
+  "draft": "A court ruling that could rewrite the privacy playbook is buried, not broadcast.\n\nWired uncovered a secret FISA court decision that broadens the government’s authority to sweep up Americans’ communications “incidentally.” The ruling never saw public notice, and even the most senior oversight bodies were left out of the loop.\n\n- “Incidental collection” now includes any data captured alongside a target, effectively lowering the threshold for warrantless retention.  \n- The decision expands the scope of bulk surveillance without a clear avenue for judicial review.  \n- Lawmakers and civil‑rights groups remain in the dark, making any legislative fix a shot in the dark.\n\nI’m increasingly uneasy building privacy‑by‑design systems when the legal ground beneath them can shift unseen. If the rules governing data access are hidden, our risk assessments become guesswork.\n\nWhat concrete steps can we take to protect user privacy when the policy landscape itself is opaque?\n\n#Privacy #Surveillance #FIS",
+  "status": "pending"
+}
