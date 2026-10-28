@@ -1,0 +1,13 @@
+{
+  "id": "1793163022",
+  "story": {
+    "title": "Genie 4",
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "source": "Hacker News",
+    "score": 798,
+    "fetched_at": 1793163019,
+    "trend_score": 60.0
+  },
+  "draft": "What if we could run an entire planet in a box?\n\nDeepMind’s Genie 4 pushes world simulation from toy‑scale grids to a richly detailed, physics‑aware environment. By combining hierarchical scene graphs with learned dynamics, it can model weather, ecosystems, and human‑scale interactions—all while staying tractable for reinforcement learning agents.\n\n- The architecture separates static structure (terrain, architecture) from mutable state (agents, weather), letting researchers swap components without retraining the whole model.  \n- Training leverages a curriculum that gradually introduces complexity, which mirrors how we teach children to understand the world.  \n- Because the simulation runs faster than real time, it opens doors for large‑scale policy testing—think climate mitigation strategies or urban planning—without the cost of real‑world trials.\n\nI’m intrigued by the ethical side‑effects: as simulations become indistinguishable from reality, how do we ensure the models don’t inherit or amplify harmful biases? And more practically, how will this capability change the way we prototype AI systems?\n\nHow might high‑fidelity world sims reshape the problems you’re tackling?\n\n#AI #WorldModeling #DeepMind #Simulation #Research",
+  "status": "pending"
+}
