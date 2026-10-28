@@ -1,0 +1,13 @@
+{
+  "id": "1793199423",
+  "story": {
+    "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+    "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+    "source": "Hacker News",
+    "score": 514,
+    "fetched_at": 1793199420,
+    "trend_score": 60.0
+  },
+  "draft": "When immigration enforcement teams start mapping political activism, the line between security and overreach blurs dramatically.\n\nI just read Wired’s deep dive into ICE’s “Operation Sovereign” – a data‑driven program that harvests social‑media footprints, public records, and even facial‑recognition tags to flag left‑leaning organizers. The scale is staggering: thousands of profiles, automated risk scores, and cross‑agency data sharing. It’s a reminder that the same AI pipelines we build for fraud detection can be repurposed for political targeting with minimal oversight.\n\nWhat worries me most isn’t the technology itself, but the lack of transparent governance. If a federal agency can weaponize open‑source tools against lawful dissent, the precedent sets a low bar for private firms that already sell similar capabilities. We need clearer safeguards, not just after‑the‑fact audits.\n\nHow should the tech community respond when the tools we create become instruments of political surveillance?  \n\n#Privacy #Surveillance #TechEthics #AI #CivilLiberties",
+  "status": "pending"
+}
