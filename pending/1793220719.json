@@ -1,0 +1,13 @@
+{
+  "id": "1793220719",
+  "story": {
+    "title": "Gemini 4 Carbon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+    "source": "Hacker News",
+    "score": 596,
+    "fetched_at": 1793220715,
+    "trend_score": 60.0
+  },
+  "draft": "Gemini 4 Carbon shows you don’t have to sacrifice power for sustainability.\n\nGoogle just released a new tier of its Gemini 4 family that’s built for speed, cost‑efficiency, and a dramatically lower carbon footprint. The model delivers roughly twice the inference speed of its predecessor while cutting energy use by about 50 %. It also supports vision, audio, and text in a single prompt, so you can build truly multimodal applications without the usual compute overhead.\n\n- 2× faster inference, 2× cheaper to run  \n- 50 % fewer emissions per token processed  \n- Same multimodal capabilities as the flagship Gemini 4 model  \n- Optimized for edge and cloud deployments, making it easier to scale responsibly  \n\nWhat excites me most is the signal that high‑performance AI can be made greener without a noticeable drop in capability. If the industry can adopt these efficiency‑first designs at scale, we might finally see a shift from “bigger is better” to “smarter is sustainable.”\n\nHow are you balancing model performance with environmental impact in your projects?\n\n#AI #MachineLearning #Sustainability #Gemini4 #TechTrends",
+  "status": "pending"
+}
