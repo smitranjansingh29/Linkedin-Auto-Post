@@ -1,0 +1,13 @@
+{
+  "id": "1793286150",
+  "story": {
+    "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+    "url": "https://divagr.com/blog/qwenputer",
+    "source": "Hacker News",
+    "score": 613,
+    "fetched_at": 1793286145,
+    "trend_score": 60.0
+  },
+  "draft": "A CPU that lives inside a language model—yes, it’s happening.\n\nI just dug into the Qwenputer project, where the Qwen 3.5 LLM hosts a fully deterministic RISC‑V core. The design runs the instruction fetch‑decode‑execute loop as part of the model’s forward pass, turning the LLM into its own execution environment. It’s not a simulation layer; the CPU state is stored in the model’s tensors, guaranteeing reproducibility across runs.\n\n- Because the CPU is deterministic, we can benchmark code paths directly inside the LLM without external hardware.  \n- The approach blurs the line between software and hardware, opening a path for “AI‑native” compilers that target the model itself.  \n- It also provides a sandbox for teaching architecture concepts—students can write RISC‑V programs and see them run inside a transformer without any physical board.\n\nI’m curious: what real‑world workloads could benefit from an AI‑embedded CPU, and how might this change the way we think about deploying code at scale?  \n\n#RISC_V #AI #LLM #HardwareSimulation #OpenSource",
+  "status": "pending"
+}
