@@ -1,0 +1,13 @@
+{
+  "id": "1793336394",
+  "story": {
+    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "source": "Hacker News",
+    "score": 971,
+    "fetched_at": 1793336390,
+    "trend_score": 60.0
+  },
+  "draft": "When a single breach wipes out $5.6 billion, the alarm bells get louder.  \n\nThe recent “Binance‑hacker‑1029” incident exposed a massive failure in key management and network segmentation. Attackers leveraged a compromised privileged account to move funds across internal wallets before any anomaly was flagged.  \n\nWhat this tells me is that even the largest custodians can’t rely on perimeter defenses alone. Zero‑trust architectures, hardware‑based key isolation, and continuous behavioral analytics must become the baseline, not the exception.  \n\nI’m also watching the market’s response: tighter insurance clauses, third‑party audit mandates, and a renewed push for user‑controlled custody solutions. The balance between convenience and security is shifting—fast.\n\nHow are you rethinking your own crypto security posture after this breach?  \n\n#CyberSecurity #Crypto #Blockchain #RiskManagement #FinTech",
+  "status": "pending"
+}
