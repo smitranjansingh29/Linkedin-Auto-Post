@@ -1,0 +1,13 @@
+{
+  "id": "1793372120",
+  "story": {
+    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+    "source": "Hacker News",
+    "score": 1604,
+    "fetched_at": 1793372115,
+    "trend_score": 60.0
+  },
+  "draft": "When a single breach wipes out $5.6 B, the industry takes notice.\n\nI’ve been following the “Binance‑hacker‑1029” case closely. The attacker exploited a mis‑configured API key, bypassing multi‑signature controls that should have been mandatory for withdrawals of that magnitude. It’s a stark reminder that even the largest custodians can fall prey to basic operational oversights.\n\n- Centralized exchanges still rely on legacy security models; the gap between on‑chain transparency and off‑chain controls is widening.\n- The incident forces us to rethink “trust‑less” in practice—real‑world processes must match the cryptographic guarantees we tout.\n- For developers, the takeaway is clear: enforce defense‑in‑depth at every layer, and treat API permissions as a critical attack surface, not an afterthought.\n\nWhat concrete steps should the crypto ecosystem adopt to close this gap before the next high‑value target appears?\n\n#Cybersecurity #Crypto #Blockchain #RiskManagement #FinTech",
+  "status": "pending"
+}
