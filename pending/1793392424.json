@@ -1,0 +1,13 @@
+{
+  "id": "1793392424",
+  "story": {
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "source": "Hacker News",
+    "score": 607,
+    "fetched_at": 1793392419,
+    "trend_score": 60.0
+  },
+  "draft": "A “trusted” AI coding assistant just turned into a supply‑chain nightmare.  \n\nThe Claude Code extension on the Cursor Marketplace was compromised: a hidden backdoor fetched and executed arbitrary code on every install. The malicious payload was buried in a seemingly innocuous update, bypassing the usual review process because the marketplace relied on the extension’s own signing key.  \n\nWhat this tells me is that even AI‑enhanced tools aren’t immune to the classic software‑supply‑chain attacks we’ve been warning about for years. Trust must be earned continuously, not assumed from a brand name or a single review. I’m now double‑checking hash signatures, pinning versions, and isolating extensions in sandboxed containers before they touch my codebase.  \n\nIf you’re using AI assistants in your IDE, consider: how do you verify the provenance of each update, and what fallback do you have if an extension suddenly behaves maliciously?  \n\nHow are you vetting the tools you let into your dev environment?\n\n#DevSecOps #SupplyChainSecurity #AI #VSCode #OpenSource",
+  "status": "pending"
+}
