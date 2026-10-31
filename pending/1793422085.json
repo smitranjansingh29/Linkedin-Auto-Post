@@ -1,0 +1,13 @@
+{
+  "id": "1793422085",
+  "story": {
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "source": "Hacker News",
+    "score": 840,
+    "fetched_at": 1793422081,
+    "trend_score": 60.0
+  },
+  "draft": "A hidden backdoor just slipped into a popular AI coding tool.\n\nI dug into the recent Claude Code VS Code extension on the Cursor Marketplace and found a tiny, undocumented script that can execute arbitrary code on a developer’s machine. The exploit wasn’t in the source repo, it was injected during the packaging step—exactly the kind of supply‑chain weakness we warn about.\n\nWhat this shows is that even vetted AI assistants can become attack vectors when the distribution channel isn’t immutable. I’m now double‑checking every binary I pull from third‑party marketplaces, and I’m pushing for reproducible builds and signed releases across the board.\n\nHow are you vetting third‑party extensions in your dev pipeline?\n\n#SoftwareSecurity #AI #DevOps #OpenSource #SupplyChain",
+  "status": "pending"
+}
