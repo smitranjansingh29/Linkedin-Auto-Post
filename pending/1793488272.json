@@ -1,0 +1,13 @@
+{
+  "id": "1793488272",
+  "story": {
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "source": "Hacker News",
+    "score": 447,
+    "fetched_at": 1793488267,
+    "trend_score": 54.7
+  },
+  "draft": "What if YouTube’s front page were curated by the same community that fuels Hacker News?\n\nI just tried HackerTube, a minimalist player that stitches together videos based on HN’s up‑voted links. The feed feels oddly focused—each recommendation carries a layer of technical relevance that typical algorithmic suggestions often miss. It’s a reminder that a simple “most‑upvoted” signal can act as a surprisingly strong filter when the audience shares a common knowledge base.\n\nThe experiment also raises a practical question for AI‑driven recommendation engines: could we blend community voting data with machine‑learning models to improve relevance without sacrificing diversity? The trade‑off between personalization and echo chambers becomes a concrete design problem when the source of relevance is explicit human judgment.\n\nI’m curious—if you had control over the recommendation signal for a platform you love, would you favor community votes, algorithmic predictions, or a hybrid?  \n\n#AI #RecommendationSystems #CommunityCurated #TechInnovation #YouTube",
+  "status": "pending"
+}
