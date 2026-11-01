@@ -1,0 +1,13 @@
+{
+  "id": "1793564452",
+  "story": {
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "source": "Hacker News",
+    "score": 506,
+    "fetched_at": 1793564448,
+    "trend_score": 60.0
+  },
+  "draft": "Ever stumble on a brilliant book reference in a Hacker News thread and lose it in the scroll?\n\nI just tried HackerBooks (hackerbooks.org) – a community‑driven “HackerTube” for the books that surface on HN. It scrapes the comments, aggregates titles, and lets us vote, tag, and link directly to the source discussion. The result is a living bibliography of what engineers actually read and recommend, not a static bestseller list.\n\nWhat excites me is the feedback loop: a thread sparks a book suggestion, the book gets indexed, and future readers can discover the source context instantly. It’s a modest step toward turning the noisy comment section into a knowledge base that actually gets used in day‑to‑day learning.\n\nDo you think a curated reading list like this could become a go‑to resource for staying current in software and AI, or will it remain a niche hobby for HN enthusiasts?\n\n#HackerNews #OpenSource #TechReading #CommunityCurated #AI",
+  "status": "pending"
+}
