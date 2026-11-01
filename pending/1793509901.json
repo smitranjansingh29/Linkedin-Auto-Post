@@ -1,0 +1,13 @@
+{
+  "id": "1793509901",
+  "story": {
+    "title": "HackerTube: YouTube built from videos recommended by HN",
+    "url": "https://karpathy.bearblog.dev/hacker-tube/",
+    "source": "Hacker News",
+    "score": 955,
+    "fetched_at": 1793509896,
+    "trend_score": 60.0
+  },
+  "draft": "When the community curates the feed, the algorithm takes a back seat.\n\nI spent a few minutes exploring HackerTube—a YouTube‑style player that stitches together videos solely based on what Hacker News users upvote. The result is a stream of content that feels deliberately technical, deep‑dive oriented, and free from the click‑bait loops that dominate mainstream platforms.\n\nA few takeaways for me:\n- Human‑driven recommendation surfaces niche expertise that algorithms often miss, especially in fast‑moving fields like AI and systems programming.  \n- The “filter bubble” risk is inverted: instead of echoing personal preferences, the feed reflects the collective editorial judgment of a technically savvy community.  \n- Building a lightweight front‑end on top of existing video hosts shows how quickly a focused experience can be prototyped without massive infrastructure.\n\nCould we see more domain‑specific video aggregators that let expert communities shape their own discovery pipelines?  \n\n#TechCommunity #ContentCuration #AI #VideoPlatforms #HackerNews",
+  "status": "pending"
+}
