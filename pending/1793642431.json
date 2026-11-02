@@ -1,0 +1,13 @@
+{
+  "id": "1793642431",
+  "story": {
+    "title": "WTF Ubuntu?",
+    "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+    "source": "Hacker News",
+    "score": 752,
+    "fetched_at": 1793642427,
+    "trend_score": 60.0
+  },
+  "draft": "WTF Ubuntu? – the moment I realized the distro I loved is turning into a “snap‑only” nightmare.\n\nI dug into the recent HN thread and the core issue is clear: Ubuntu’s aggressive push to replace .deb packages with snaps is breaking the developer‑experience I grew up with. The new default snap for the Software Center, combined with auto‑updates that ignore user bandwidth, is turning a lightweight desktop into a heavyweight monolith. It’s not just an annoyance; it’s a regression in transparency and control—two pillars of open‑source ecosystems.\n\nWhat’s more interesting is the community response. While Canonical argues that snaps improve security and simplify distribution, the backlash shows that security can’t be a shield for lock‑in. The real cost is developer churn and a slower adoption of newer tools because the snap ecosystem still lags behind native packaging in performance and compatibility.\n\nIf the Ubuntu team wants to stay relevant, they need to offer a clear path for both snaps and traditional packages, or risk alienating the very audience that built its reputation. How do you think major Linux distros should balance innovation with the expectations of their long‑time users?\n\n#Ubuntu #Linux #OpenSource #PackageManagement #DevOps",
+  "status": "pending"
+}
