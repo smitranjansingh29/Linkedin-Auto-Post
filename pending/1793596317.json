@@ -1,0 +1,13 @@
+{
+  "id": "1793596317",
+  "story": {
+    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+    "url": "https://hackerbooks.org",
+    "source": "Hacker News",
+    "score": 1121,
+    "fetched_at": 1793596312,
+    "trend_score": 60.0
+  },
+  "draft": "**A library built by the community, for the community.**  \n\nHackerBooks aggregates every book that pops up in a Hacker News discussion, turning scattered recommendations into a searchable catalog. It’s the same grassroots curation that made HackerTube work for videos, now applied to the long‑form knowledge we all chase.\n\nWhat struck me is how the platform surfaces niche titles that never hit bestseller lists but are repeatedly praised by engineers solving real problems. That peer‑validated signal is far more actionable than a generic “top 10” list.\n\nI see two immediate uses: a quick reference when a comment sparks curiosity, and a way to benchmark my own reading list against what the community deems worth the time. It also hints at a larger trend—developers are building their own knowledge graphs, bypassing traditional gatekeepers.\n\nWhich book discovered on Hacker News has had the biggest impact on your work?\n\n#SoftwareEngineering #Learning #CommunityCurated #TechBooks #AI",
+  "status": "pending"
+}
