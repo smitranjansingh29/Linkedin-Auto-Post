@@ -1,0 +1,13 @@
+{
+  "id": "1793671456",
+  "story": {
+    "title": "Astra can read and write weights to improve Qwen",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "source": "Hacker News",
+    "score": 1955,
+    "fetched_at": 1793671452,
+    "trend_score": 60.0
+  },
+  "draft": "Astra lets us edit a model’s brain directly—no gradient steps, just read‑and‑write on the weight matrix.\n\n- By exposing the weight space of Qwen, Astra makes it possible to apply surgical tweaks that would normally require thousands of fine‑tuning epochs.  \n- The approach turns weight vectors into a programmable substrate, opening a path to rapid, low‑cost model adaptation and even on‑the‑fly debugging.  \n- At the same time, it raises questions about safety: if we can rewrite weights as easily as code, how do we audit the hidden effects?\n\nI’m curious—do you think weight‑space programming will become the new standard for LLM customization, or will it remain a niche tool for specialists?\n\n#MachineLearning #AI #WeightSpace #LLM #ModelFineTuning",
+  "status": "pending"
+}
