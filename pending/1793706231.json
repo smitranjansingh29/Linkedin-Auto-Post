@@ -1,0 +1,13 @@
+{
+  "id": "1793706231",
+  "story": {
+    "title": "Astra can read and write weights to improve Qwen",
+    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+    "source": "Hacker News",
+    "score": 2729,
+    "fetched_at": 1793706228,
+    "trend_score": 60.0
+  },
+  "draft": "Astra lets us edit a model’s brain directly, not just its prompts.\n\n- By reading and writing raw weight tensors, Astra can nudge Qwen toward a target behavior with a handful of gradient‑free steps.  \n- The approach sidesteps massive fine‑tuning runs and massive datasets, turning model adaptation into a form of “weight‑space programming.”  \n- It also exposes a new attack surface: if weights are that malleable, version control and provenance become critical.\n\nI’m curious—will weight‑level edits become the next standard for tailoring LLMs, or will the community push back in favor of safer, data‑centric methods?\n\n#MachineLearning #LargeLanguageModels #ModelOptimization #AIResearch #WeightSpaceProgramming",
+  "status": "pending"
+}
