@@ -1,0 +1,13 @@
+{
+  "id": "1793733374",
+  "story": {
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "source": "Hacker News",
+    "score": 480,
+    "fetched_at": 1793733370,
+    "trend_score": 64.0
+  },
+  "draft": "When a tool you trust starts sharing every API call, you stop.\n\nI’ve been following the recent Postman issue where the desktop app silently installed AI plugins and tried to push all captured API data to external services. The behavior was hidden behind an update, with no explicit consent, effectively turning a debugging utility into a data collector.\n\nWhat worries me isn’t the AI itself but the erosion of user agency. Developers rely on Postman for sensitive internal APIs; a silent data exfiltration undermines that trust and raises supply‑chain security questions. Open‑source projects can mitigate this by making every dependency and behavior auditable, and by providing clear opt‑in mechanisms for any AI feature.\n\nIf we want AI to augment our workflows, the default must be “no data leaves your machine unless you say so.” Transparency and granular permission controls should be baked into every dev tool, not added as an afterthought.\n\nHow should the community enforce consent and visibility when AI features are introduced into everyday development tools?\n\n#APISecurity #AI #DevTools #Privacy #SoftwareEngineering",
+  "status": "pending"
+}
