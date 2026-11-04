@@ -1,0 +1,13 @@
+{
+  "id": "1793793377",
+  "story": {
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "source": "Hacker News",
+    "score": 1330,
+    "fetched_at": 1793793375,
+    "trend_score": 66.0
+  },
+  "draft": "Postman just tried to slip an AI plugin onto my machine and pull every API request into the cloud.\n\nI’ve been using Postman for years, and the silent install felt like a breach of the trust that underpins any developer tool. The plugin’s default behavior—collecting all traffic without an explicit opt‑in—turns a convenient debugging aid into a potential data leak.\n\nTwo takeaways for me:\n- Transparency must be baked into every update cycle. If a feature can expose sensitive payloads, the user should have to approve it step‑by‑step.\n- The broader ecosystem needs clearer boundaries between “helpful AI” and “data harvesting.” Otherwise we risk normalizing silent telemetry that erodes confidence in our stack.\n\nWhat safeguards would you put in place to balance AI assistance with strict data privacy in your tooling?  \n\n#Postman #AI #APIsecurity #Privacy #DevOps",
+  "status": "pending"
+}
