@@ -1,0 +1,13 @@
+{
+  "id": "1793752145",
+  "story": {
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "source": "Hacker News",
+    "score": 979,
+    "fetched_at": 1793752142,
+    "trend_score": 66.0
+  },
+  "draft": "Postman just turned my workspace into a data‑collector without asking.\n\nI was debugging a request when the app quietly installed an AI plugin and started sending every API payload to an external service. The behavior is hidden in the update notes, yet it exposes sensitive contracts and internal logic to an unknown endpoint.  \n\nWhat worries me isn’t the AI itself—it’s the loss of control over what leaves our sandboxes. When a tool we trust starts “helping” by uploading data, the line between convenience and breach blurs. Teams need explicit opt‑ins, clear audit logs, and a way to revoke these connections on demand.  \n\nI’ve already opened a ticket with Postman, but the broader lesson is clear: any auto‑install feature must be transparent, especially when it handles production traffic. How are you vetting third‑party extensions that claim to boost productivity?  \n\n#APIsecurity #AIethics #DevOps #SoftwareSupplyChain #DataPrivacy",
+  "status": "pending"
+}
