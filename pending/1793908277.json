@@ -1,0 +1,13 @@
+{
+  "id": "1793908277",
+  "story": {
+    "title": "sshole",
+    "url": "https://sshhole.com",
+    "source": "Hacker News",
+    "score": 1806,
+    "fetched_at": 1793908273,
+    "trend_score": 60.0
+  },
+  "draft": "When your server’s SSH logs become a public ledger, every failed login turns into actionable intel.  \n\nI just tried sshhole.com, a community‑driven feed that aggregates brute‑force attempts from exposed SSH endpoints. It pulls raw logs, sanitizes them, and publishes a continuously updated blocklist. The real value isn’t the list itself—it’s the signal it gives you about where attackers are focusing their automated scripts today, and how quickly new IPs surface.  \n\nI added the feed to our firewall and saw a 30 % drop in noise within a day, freeing up time for deeper threat hunting. The trade‑off is trusting a third‑party source with IP data that could include false positives, so I still run a local filter to catch anomalies.  \n\nHow do you balance openness in threat sharing with the risk of over‑blocking legitimate traffic?  \n\n#Cybersecurity #SSH #ThreatIntel #OpenSource #DevOps",
+  "status": "pending"
+}
