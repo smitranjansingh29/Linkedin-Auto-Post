@@ -1,0 +1,13 @@
+{
+  "id": "1793839639",
+  "story": {
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "source": "Hacker News",
+    "score": 1040,
+    "fetched_at": 1793839635,
+    "trend_score": 63.0
+  },
+  "draft": "AI isn’t just a new tool—it’s a mirror that reflects the shortcuts we took decades ago.\n\n- Modern AI‑driven scanners are flagging legacy PHP backdoors like the php2shell exploit that survived for 40 years. What was once “good enough” now becomes an open invitation for automated attacks.\n- The same models that help us triage alerts also amplify the risk of old code, forcing teams to finally refactor, patch, or replace the buried tech debt that kept systems alive.\n\nI’m starting to see a shift: AI is turning technical debt from a hidden cost into a visible liability. The question is whether we’ll invest in clean‑up now or pay the price later.\n\nHow are you confronting legacy code in the age of AI‑powered security?\n\n#AI #Cybersecurity #TechnicalDebt #LegacyCode #SoftwareEngineering",
+  "status": "pending"
+}
