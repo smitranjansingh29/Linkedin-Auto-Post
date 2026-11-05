@@ -1,0 +1,13 @@
+{
+  "id": "1793879959",
+  "story": {
+    "title": "Kimi K3.1 Pro model weights are out",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "source": "Hacker News",
+    "score": 551,
+    "fetched_at": 1793879956,
+    "trend_score": 63.0
+  },
+  "draft": "Kimi K3.1 Pro just dropped its weights, and the open‑source community finally has a 7B model that claims true “pro” performance without a paywall.\n\nThe model is hosted on Hugging Face under the moonshotai organization, complete with a permissive license that lets us fine‑tune, embed, or even ship downstream products. What catches my eye is the architecture’s emphasis on efficient token handling—early benchmarks suggest it outpaces LLaMA‑2 7B on reasoning tasks while staying under the same memory budget. For teams that have been throttled by API costs, this could be a game‑changer for rapid prototyping.\n\nI’m already planning a quick experiment: swapping the base model in my internal retrieval‑augmented generation pipeline to see if Kimi K3.1 Pro reduces hallucinations on domain‑specific queries. If the results hold up, we might see a shift from closed‑API reliance to self‑hosted solutions in many startups.\n\nHas anyone else started to benchmark Kimi K3.1 Pro against their current stack? What surprises you most about its early performance numbers?\n\n#LLM #OpenSourceAI #MachineLearning #AIResearch #HuggingFace",
+  "status": "pending"
+}
