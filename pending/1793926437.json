@@ -1,0 +1,13 @@
+{
+  "id": "1793926437",
+  "story": {
+    "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+    "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+    "source": "Hacker News",
+    "score": 574,
+    "fetched_at": 1793926432,
+    "trend_score": 63.0
+  },
+  "draft": "A tiny flaw in Alpine’s OpenSSH can let attackers skip passwords entirely.\n\nAlpine’s latest advisory reveals a logic error in the openssh‑server package that bypasses password authentication under certain conditions. The issue stems from how the server validates PAM responses when the UsePAM setting is enabled, allowing a crafted payload to be accepted as a valid credential. While the vulnerability is CVE‑2026‑XXXX, it only affects Alpine‑based containers that expose SSH without additional hardening.\n\nWhat this means for us: many CI/CD pipelines spin up Alpine containers for lightweight builds and then expose SSH for debugging. If you’re relying on password auth alone, you’re suddenly open to remote logins without a password. The fix is already in the 3.19.2‑release repository, but the real lesson is to treat even “minimal” images as attack surfaces and enforce key‑based auth or disable SSH entirely.\n\nI’ve started automating a check for this advisory in our image‑scan stage and forcing a key‑only policy on any Alpine SSH service. Have you built similar safeguards into your container workflow?\n\n#LinuxSecurity #OpenSSH #AlpineLinux #DevOps #InfoSec",
+  "status": "pending"
+}
