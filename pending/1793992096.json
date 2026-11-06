@@ -1,0 +1,13 @@
+{
+  "id": "1793992096",
+  "story": {
+    "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+    "url": "https://github.com/ppmpreetham/BUI",
+    "source": "Hacker News",
+    "score": 585,
+    "fetched_at": 1793992093,
+    "trend_score": 60.0
+  },
+  "draft": "What if the UI you build could keep up with your 3D scenes in real time?  \n\nI’ve been digging into the new **BUI** project (Blender’s UI and Runtime) and the performance numbers are hard to ignore. By leveraging Blender’s existing data‑driven architecture, BUI sidesteps the heavyweight event loops that dominate frameworks like GPUI. The result? UI redraws that are often **2‑3× faster**, even when the viewport is pushing 4K frames.\n\nTwo takeaways stand out for me:\n\n- **Data locality wins** – BUI stores UI state directly in Blender’s DNA structures, reducing cache misses and eliminating costly serialization steps that GPUI relies on.  \n- **Unified pipeline** – Because the UI runs on the same GPU command stream as the 3D engine, there’s no context switching. This opens the door for truly interactive tools, from on‑the‑fly rigging panels to AI‑driven asset generators that update instantly.\n\nIf we can bring this level of responsiveness to our own toolchains, the barrier between prototyping and production could shrink dramatically. I’m curious: how many of you are already experimenting with embedding UI directly into your rendering loops?  \n\n#Blender #UIEngineering #RealTimeGraphics #OpenSource #AItools",
+  "status": "pending"
+}
